@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Teaching Effectiveness | Tenure and Promotion Portfolio</title>
-    <link>yardsale8.github.io/criterion1/</link>
-      <atom:link href="yardsale8.github.io/criterion1/index.xml" rel="self" type="application/rss+xml" />
+    <link>yardsale8.github.io/tenure/criterion1/</link>
+      <atom:link href="yardsale8.github.io/tenure/criterion1/index.xml" rel="self" type="application/rss+xml" />
     <description>Teaching Effectiveness</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 15 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/yardsale8.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/yardsale8.github.io/tenure/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Teaching Effectiveness</title>
-      <link>yardsale8.github.io/criterion1/</link>
+      <link>yardsale8.github.io/tenure/criterion1/</link>
     </image>
     
     <item>
       <title>Curriculum Design</title>
-      <link>yardsale8.github.io/criterion1/curriculum_design/</link>
+      <link>yardsale8.github.io/tenure/criterion1/curriculum_design/</link>
       <pubDate>Fri, 15 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>yardsale8.github.io/criterion1/curriculum_design/</guid>
+      <guid>yardsale8.github.io/tenure/criterion1/curriculum_design/</guid>
       <description>&lt;p&gt;When first joining the faculty as Winona State, I was very excited to learn
 about and contribute to the curriculum of the data science program. Over the
 course of the last four years, I have had a substantial impact on this
 curriculum.&lt;/p&gt;
-&lt;p&gt;In her &lt;a href=&#34;yardsale8.github.io/testimonial/hooks_letter_of_support.pdf&#34;&gt;letter of support&lt;/a&gt;,
+&lt;p&gt;In her &lt;a href=&#34;yardsale8.github.io/tenure/testimonial/hooks_letter_of_support.pdf&#34;&gt;letter of support&lt;/a&gt;,
 Dr. Hooks stressed these contributions.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Our data science program has significantly improved since Todd joined our
@@ -41,8 +41,8 @@ promotion, but Todd has gone above and beyond to also improve our statistics pro
 &lt;/blockquote&gt;
 &lt;p&gt;As eluded to in Dr. Hook&#39;s comments, I have also made contributions to the
 statistics curriculum, evidenced by the learning applications discussed in
-one of the sections for &lt;a href=&#34;yardsale8.github.io/criterion2/software/&#34;&gt;criterion 2&lt;/a&gt;,
-the STAT 310 project discussed in the section on &lt;a href=&#34;yardsale8.github.io/criterion1/instructional_innovation/&#34;&gt;instructional
+one of the sections for &lt;a href=&#34;yardsale8.github.io/tenure/criterion2/software/&#34;&gt;criterion 2&lt;/a&gt;,
+the STAT 310 project discussed in the section on &lt;a href=&#34;yardsale8.github.io/tenure/criterion1/instructional_innovation/&#34;&gt;instructional
 innovation&lt;/a&gt;, and my work
 aligning the curriculum of STAT 110 and STAT 210 discussed below.&lt;/p&gt;
 &lt;p&gt;In informal conversations, Dr. Chris Malone has indicated that he hoped that
@@ -76,8 +76,8 @@ courses.&lt;/p&gt;
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;yardsale8.github.io/img/330_project.png&#34; data-caption=&#34;Figure 1. Benjamin and Tyler teach the class about background subtraction using Python and the OpenCV library.  The final project in DSCI 330 requires groups of students to explore and present on a new topic in image and video processing.&#34;&gt;
-&lt;img data-src=&#34;yardsale8.github.io/img/330_project.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;yardsale8.github.io/tenure/img/330_project.png&#34; data-caption=&#34;Figure 1. Benjamin and Tyler teach the class about background subtraction using Python and the OpenCV library.  The final project in DSCI 330 requires groups of students to explore and present on a new topic in image and video processing.&#34;&gt;
+&lt;img data-src=&#34;yardsale8.github.io/tenure/img/330_project.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
   
@@ -111,7 +111,7 @@ necessary to work with unstructured data. Students in the course learn to
 process various types of unstructured data: text, data from the web,
 audio, images, and video.&lt;/p&gt;
 &lt;p&gt;My colleague Dr. Silas Bergen sat in on DSCI 330 this fall and had
-the following comments in his &lt;a href=&#34;yardsale8.github.io/testimonial/bergen_letter_of_support.pdf&#34;&gt;letter of
+the following comments in his &lt;a href=&#34;yardsale8.github.io/tenure/testimonial/bergen_letter_of_support.pdf&#34;&gt;letter of
 support&lt;/a&gt;.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Dr. Iverson has also developed two entirely new, upper-level courses to our
@@ -142,8 +142,8 @@ organization&lt;/a&gt;.&lt;/p&gt;
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;yardsale8.github.io/img/lew_presents.png&#34; data-caption=&#34;Figure 1. Daniel demonstrates a dashboard created as part of his capstone project illustrating what he learned in about processing data in Python and PySpark in DSCI 430.&#34;&gt;
-&lt;img data-src=&#34;yardsale8.github.io/img/lew_presents.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;yardsale8.github.io/tenure/img/lew_presents.png&#34; data-caption=&#34;Figure 1. Daniel demonstrates a dashboard created as part of his capstone project illustrating what he learned in about processing data in Python and PySpark in DSCI 430.&#34;&gt;
+&lt;img data-src=&#34;yardsale8.github.io/tenure/img/lew_presents.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
   
@@ -216,7 +216,7 @@ style. Thanks again and I hope that your summer has been going well&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Shane Will&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;Another recent data science graduate, Mariah Quam, in her &lt;a href=&#34;yardsale8.github.io/testimonial/quam_letter_of_support.pdf&#34;&gt;letter of
+&lt;p&gt;Another recent data science graduate, Mariah Quam, in her &lt;a href=&#34;yardsale8.github.io/tenure/testimonial/quam_letter_of_support.pdf&#34;&gt;letter of
 support&lt;/a&gt; for this proposal, had to
 say after taking three of my programming course (including DSCI 330 and 430).&lt;/p&gt;
 &lt;blockquote&gt;
@@ -235,7 +235,7 @@ definition of going the extra mile when it comes to teaching students the
 process of coding.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;Finally, it should be noted that I presented some of these ideas at SDSS
-2019, which is discussed &lt;a href=&#34;yardsale8.github.io/criterion2/presentations/&#34;&gt;elsewhere&lt;/a&gt;.&lt;/p&gt;
+2019, which is discussed &lt;a href=&#34;yardsale8.github.io/tenure/criterion2/presentations/&#34;&gt;elsewhere&lt;/a&gt;.&lt;/p&gt;
 &lt;h3 id=&#34;implementation-of-a-project-based-and-concept-driven-curriculum-for-dsci-210&#34;&gt;Implementation of a Project-Based and Concept-Driven Curriculum for DSCI 210&lt;/h3&gt;
 &lt;p&gt;Developing the two new DSCI courses, as well as advising and judging with
 students in data analytics competitions, had the added benefit of clarifying
@@ -299,7 +299,7 @@ evaluation comments.&lt;/p&gt;
 &lt;h2 id=&#34;curriculum-development-for-statistics&#34;&gt;Curriculum Development for Statistics&lt;/h2&gt;
 &lt;p&gt;Finally, I would like to highlight some of the curricula I developed for the
 statistics program. In addition to the project I developed for STAT 310 in the
-section on &lt;a href=&#34;yardsale8.github.io/criterion1/instructional_innovation/&#34;&gt;instructional innovation&lt;/a&gt;, I also spent some time
+section on &lt;a href=&#34;yardsale8.github.io/tenure/criterion1/instructional_innovation/&#34;&gt;instructional innovation&lt;/a&gt;, I also spent some time
 aligning the curriculum between my STAT 110 and STAT 210 courses, in an
 attempt to better understand issues with substituting one course for another.&lt;/p&gt;
 &lt;h3 id=&#34;creating-a-bridge-between-stat-110-and-stat-210-curriculum&#34;&gt;Creating a Bridge Between STAT 110 and STAT 210 Curriculum&lt;/h3&gt;
@@ -340,9 +340,9 @@ students.&lt;/p&gt;
     
     <item>
       <title>Instructional Innovation</title>
-      <link>yardsale8.github.io/criterion1/instructional_innovation/</link>
+      <link>yardsale8.github.io/tenure/criterion1/instructional_innovation/</link>
       <pubDate>Fri, 15 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>yardsale8.github.io/criterion1/instructional_innovation/</guid>
+      <guid>yardsale8.github.io/tenure/criterion1/instructional_innovation/</guid>
       <description>&lt;p&gt;The evolution of my STAT 110 Fundamentals of Statistics curriculum good
 illustration of my approach to blending instructional innovation and the
 assessment of student learning. STAT 110 is ripe for a discussion of
@@ -356,7 +356,7 @@ an online synchronous format due to COVID-19.&lt;/p&gt;
 evolved from a face-to-face flipped classroom for STAT 110 and then
 translating this material to synchronous and asynchronous online courses.&lt;/p&gt;
 &lt;p&gt;The face-to-face rendition of this course is built around the flipped
-classroom, which is discussed in more depth in the section on &lt;a href=&#34;yardsale8.github.io/criterion4/student_centered/&#34;&gt;criterion
+classroom, which is discussed in more depth in the section on &lt;a href=&#34;yardsale8.github.io/tenure/criterion4/student_centered/&#34;&gt;criterion
 4&lt;/a&gt;, but I would like to highlight a few
 of the related innovations here. First, I embedded self-assessment
 multiple-choice questions in an online and interactive set of course notes,
@@ -382,8 +382,8 @@ multiple formats.&lt;/p&gt;
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;yardsale8.github.io/img/book_MC.png&#34; data-caption=&#34;Figure 1. An example of an embedded self-assessment. Students receive immediate feedback after reading each section of the book, including guidance for incorrect responses.&#34;&gt;
-&lt;img data-src=&#34;yardsale8.github.io/img/book_MC.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;yardsale8.github.io/tenure/img/book_MC.png&#34; data-caption=&#34;Figure 1. An example of an embedded self-assessment. Students receive immediate feedback after reading each section of the book, including guidance for incorrect responses.&#34;&gt;
+&lt;img data-src=&#34;yardsale8.github.io/tenure/img/book_MC.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
   
@@ -449,8 +449,8 @@ review the associated material.&lt;/p&gt;
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;yardsale8.github.io/img/welcome.png&#34; data-caption=&#34;Figure 2. Students are welcomed to the first week of STAT 110, an asynchronous online course taught during each of the 2017-2020 summer terms.&#34;&gt;
-&lt;img data-src=&#34;yardsale8.github.io/img/welcome.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;yardsale8.github.io/tenure/img/welcome.png&#34; data-caption=&#34;Figure 2. Students are welcomed to the first week of STAT 110, an asynchronous online course taught during each of the 2017-2020 summer terms.&#34;&gt;
+&lt;img data-src=&#34;yardsale8.github.io/tenure/img/welcome.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
   
@@ -469,7 +469,7 @@ evidenced by the growing number of sections each year. There were several
 challenges to adapting my materials to the online setting, which I will
 summarize below. It should be noted that, in each case, the changes made in
 anticipation of teaching online also greatly benefit&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Organizational Challenges.&lt;/strong&gt; As discussed in the section on &lt;a href=&#34;yardsale8.github.io/criterion3/continuing_education/&#34;&gt;criterion 3&lt;/a&gt;, first took the WeTeach courses in
+&lt;p&gt;&lt;strong&gt;Organizational Challenges.&lt;/strong&gt; As discussed in the section on &lt;a href=&#34;yardsale8.github.io/tenure/criterion3/continuing_education/&#34;&gt;criterion 3&lt;/a&gt;, first took the WeTeach courses in
 the spring of 2017 and then revisited (and finally completed) the course in
 the summer of 2020. This curriculum has shaped my approach to this online
 course, and in particular, has taught me the importance of organization
@@ -517,8 +517,8 @@ next section.&lt;/p&gt;
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;yardsale8.github.io/img/quiz_scheme.png&#34; data-caption=&#34;Figure 3. After adapting my assessments to an online setting, the final scheme involves material divided into three areas with corresponding review and practice materials.&#34;&gt;
-&lt;img data-src=&#34;yardsale8.github.io/img/quiz_scheme.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;yardsale8.github.io/tenure/img/quiz_scheme.png&#34; data-caption=&#34;Figure 3. After adapting my assessments to an online setting, the final scheme involves material divided into three areas with corresponding review and practice materials.&#34;&gt;
+&lt;img data-src=&#34;yardsale8.github.io/tenure/img/quiz_scheme.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
   
@@ -598,8 +598,8 @@ sampling scheme.&lt;/p&gt;
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;yardsale8.github.io/img/islands.png&#34; data-caption=&#34;Figure 3. The Islands is a virtual environment that allows students to conduct virtual experiments and studies. The three islands contain residents who can be found in their residence. After gaining consent, students can assign each resident a task as part of a larger study.&#34;&gt;
-&lt;img data-src=&#34;yardsale8.github.io/img/islands.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;yardsale8.github.io/tenure/img/islands.png&#34; data-caption=&#34;Figure 3. The Islands is a virtual environment that allows students to conduct virtual experiments and studies. The three islands contain residents who can be found in their residence. After gaining consent, students can assign each resident a task as part of a larger study.&#34;&gt;
+&lt;img data-src=&#34;yardsale8.github.io/tenure/img/islands.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
   
@@ -662,8 +662,8 @@ Finally, each student wrote a final report on the class’s results.&lt;/p&gt;
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;yardsale8.github.io/img/pilot_study.png&#34; data-caption=&#34;Figure 4. Thabane et al. provide, among other things, a detailed outline for a pilot study; which I found a useful guide for student reports.&#34;&gt;
-&lt;img data-src=&#34;yardsale8.github.io/img/pilot_study.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;yardsale8.github.io/tenure/img/pilot_study.png&#34; data-caption=&#34;Figure 4. Thabane et al. provide, among other things, a detailed outline for a pilot study; which I found a useful guide for student reports.&#34;&gt;
+&lt;img data-src=&#34;yardsale8.github.io/tenure/img/pilot_study.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
   
@@ -700,8 +700,8 @@ goals of the respective design.&lt;/p&gt;
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;yardsale8.github.io/img/example_project.png&#34; data-caption=&#34;Figure 5. The outcomes of one student project, where a randomized experiment was conducted to compare the effects of petting two types of animals to a baseline control.  As expected, petting a crocodile raises the average heart rate compared to the other two treatment groups.&#34;&gt;
-&lt;img data-src=&#34;yardsale8.github.io/img/example_project.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;yardsale8.github.io/tenure/img/example_project.png&#34; data-caption=&#34;Figure 5. The outcomes of one student project, where a randomized experiment was conducted to compare the effects of petting two types of animals to a baseline control.  As expected, petting a crocodile raises the average heart rate compared to the other two treatment groups.&#34;&gt;
+&lt;img data-src=&#34;yardsale8.github.io/tenure/img/example_project.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
   
@@ -713,7 +713,7 @@ goals of the respective design.&lt;/p&gt;
 
 &lt;/figure&gt;
 
-&lt;p&gt;My colleague Dr. Tisha Hooks used this project in her subsequent STAT 310 courses, and her comments (taken from her &lt;a href=&#34;yardsale8.github.io/testimonial/hooks_letter_of_support.pdf/&#34;&gt;letter of support&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;My colleague Dr. Tisha Hooks used this project in her subsequent STAT 310 courses, and her comments (taken from her &lt;a href=&#34;yardsale8.github.io/tenure/testimonial/hooks_letter_of_support.pdf/&#34;&gt;letter of support&lt;/a&gt;)&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;STAT 310 recently became a writing intensive course. Todd put a lot of work
 into creating a writing project. Students were required to work in groups
@@ -732,13 +732,13 @@ thank.&lt;/p&gt;
     
     <item>
       <title>Student Evaluations</title>
-      <link>yardsale8.github.io/criterion1/course_development/</link>
+      <link>yardsale8.github.io/tenure/criterion1/course_development/</link>
       <pubDate>Fri, 15 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>yardsale8.github.io/criterion1/course_development/</guid>
+      <guid>yardsale8.github.io/tenure/criterion1/course_development/</guid>
       <description>&lt;p&gt;I have placed a lot of value on feedback from student evaluations and I have
 tried to illustrate how I use this feedback throughout the portfolio. For
 example, in-depth evaluation of student feedback related to the flipped
-classroom in &lt;a href=&#34;yardsale8.github.io/criterion4/student_centered/&#34;&gt;the section building student-centered curricula&lt;/a&gt;.&lt;/p&gt;
+classroom in &lt;a href=&#34;yardsale8.github.io/tenure/criterion4/student_centered/&#34;&gt;the section building student-centered curricula&lt;/a&gt;.&lt;/p&gt;
 
 
 
@@ -755,8 +755,8 @@ classroom in &lt;a href=&#34;yardsale8.github.io/criterion4/student_centered/&#3
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;yardsale8.github.io/img/STAT110_evals_instructor.png&#34; data-caption=&#34;Figure 1. Student responses to questions about the instructor from all regular sections of STAT 110 from Fall 2016 to Fall 2020 (excluding summer courses).  A large majority of the students agreed or strongly agreed that the instructor was available, cared, and enthusiastic; as well as providing clear explanations, effective teaching, and helpful answers.&#34;&gt;
-&lt;img data-src=&#34;yardsale8.github.io/img/STAT110_evals_instructor.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;yardsale8.github.io/tenure/img/STAT110_evals_instructor.png&#34; data-caption=&#34;Figure 1. Student responses to questions about the instructor from all regular sections of STAT 110 from Fall 2016 to Fall 2020 (excluding summer courses).  A large majority of the students agreed or strongly agreed that the instructor was available, cared, and enthusiastic; as well as providing clear explanations, effective teaching, and helpful answers.&#34;&gt;
+&lt;img data-src=&#34;yardsale8.github.io/tenure/img/STAT110_evals_instructor.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
   
@@ -856,9 +856,9 @@ don’t have evaluations for this course. &lt;a href=&#34;#fnref:1&#34; class=&#
     
     <item>
       <title>Support Activities for Teaching and Learning</title>
-      <link>yardsale8.github.io/criterion1/support_activities/</link>
+      <link>yardsale8.github.io/tenure/criterion1/support_activities/</link>
       <pubDate>Fri, 15 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>yardsale8.github.io/criterion1/support_activities/</guid>
+      <guid>yardsale8.github.io/tenure/criterion1/support_activities/</guid>
       <description>&lt;p&gt;While important, there is more to teaching than instructional
 innovation and designing an effective curriculum. David Moore argued that we
 should treat &lt;a href=&#34;https://www.stat.purdue.edu/~dsmoore/articles/Craft.pdf&#34;&gt;teaching as a
@@ -882,8 +882,8 @@ support activities related to teaching and learning.&lt;/p&gt;
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;yardsale8.github.io/img/caption1.png&#34; data-caption=&#34;Figure 1. Making a caption request on MediaSpace is fast and easy. Simply navigate to Caption &amp;amp; Enrich and click submit with the default settings.&#34;&gt;
-&lt;img data-src=&#34;yardsale8.github.io/img/caption1.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;yardsale8.github.io/tenure/img/caption1.png&#34; data-caption=&#34;Figure 1. Making a caption request on MediaSpace is fast and easy. Simply navigate to Caption &amp;amp; Enrich and click submit with the default settings.&#34;&gt;
+&lt;img data-src=&#34;yardsale8.github.io/tenure/img/caption1.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
   
@@ -919,8 +919,8 @@ with the default settings (&lt;strong&gt;Figure 1&lt;/strong&gt;)&lt;/p&gt;
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;yardsale8.github.io/img/caption2.png&#34; data-caption=&#34;Figure 2. While machine captioning does a pretty good job of translation, it has trouble translating math and has no way of knowing that “jump” is JMP.&#34;&gt;
-&lt;img data-src=&#34;yardsale8.github.io/img/caption2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;yardsale8.github.io/tenure/img/caption2.png&#34; data-caption=&#34;Figure 2. While machine captioning does a pretty good job of translation, it has trouble translating math and has no way of knowing that “jump” is JMP.&#34;&gt;
+&lt;img data-src=&#34;yardsale8.github.io/tenure/img/caption2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
   
@@ -953,8 +953,8 @@ videos for STAT 321.&lt;/p&gt;
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;yardsale8.github.io/img/caption3.png&#34; data-caption=&#34;Figure 3. Navigating to Caption &amp;amp; Enrich and clicking the edit icon opens the Closed Caption Editor; which allows you to edit the original translation while watching your video.&#34;&gt;
-&lt;img data-src=&#34;yardsale8.github.io/img/caption3.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;yardsale8.github.io/tenure/img/caption3.png&#34; data-caption=&#34;Figure 3. Navigating to Caption &amp;amp; Enrich and clicking the edit icon opens the Closed Caption Editor; which allows you to edit the original translation while watching your video.&#34;&gt;
+&lt;img data-src=&#34;yardsale8.github.io/tenure/img/caption3.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
   
@@ -1004,8 +1004,8 @@ video again removes the need for a repetitious speaker.&lt;/p&gt;
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;yardsale8.github.io/img/caption4.png&#34; data-caption=&#34;Figure 4. There were 85 videos in total that were captioned during the fall, organized here by course module. In addition to learning about the process of efficient captioning of videos, the experience also taught me how to make more effective videos moving forward.&#34;&gt;
-&lt;img data-src=&#34;yardsale8.github.io/img/caption4.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;yardsale8.github.io/tenure/img/caption4.png&#34; data-caption=&#34;Figure 4. There were 85 videos in total that were captioned during the fall, organized here by course module. In addition to learning about the process of efficient captioning of videos, the experience also taught me how to make more effective videos moving forward.&#34;&gt;
+&lt;img data-src=&#34;yardsale8.github.io/tenure/img/caption4.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
   
@@ -1048,8 +1048,8 @@ approaches.&lt;/p&gt;
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;yardsale8.github.io/img/calendar.png&#34; data-caption=&#34;Figure 1: Each class is given its own Google Calendar (left-hand side) and all-day events are used for each class session (right-hand side).&#34;&gt;
-&lt;img data-src=&#34;yardsale8.github.io/img/calendar.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;yardsale8.github.io/tenure/img/calendar.png&#34; data-caption=&#34;Figure 1: Each class is given its own Google Calendar (left-hand side) and all-day events are used for each class session (right-hand side).&#34;&gt;
+&lt;img data-src=&#34;yardsale8.github.io/tenure/img/calendar.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
   
@@ -1092,8 +1092,8 @@ of the journal entries.&lt;/p&gt;
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;yardsale8.github.io/img/calendar_details.png&#34; data-caption=&#34;*Figure 2: A teaching journal is kept in the notes section of each class session event. Documentation includes an outline of the day’s topics, a record of how the class session went, and suggestions for future improvement.&#34;&gt;
-&lt;img data-src=&#34;yardsale8.github.io/img/calendar_details.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;yardsale8.github.io/tenure/img/calendar_details.png&#34; data-caption=&#34;*Figure 2: A teaching journal is kept in the notes section of each class session event. Documentation includes an outline of the day’s topics, a record of how the class session went, and suggestions for future improvement.&#34;&gt;
+&lt;img data-src=&#34;yardsale8.github.io/tenure/img/calendar_details.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
   
@@ -1127,8 +1127,8 @@ physical reminder to keep on grading.&lt;/p&gt;
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;yardsale8.github.io/img/grading_progress.png&#34; data-caption=&#34;Figure 3: My current approach to tracking grading progress. All assignments that need grading are listed under their perspective class and items that are graded on completion are marked with a *. The section on the right-hand-side is used to track today’s progress (and includes the illusive Caught Up check box … I don’t want to talk about that!)&#34;&gt;
-&lt;img data-src=&#34;yardsale8.github.io/img/grading_progress.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;yardsale8.github.io/tenure/img/grading_progress.png&#34; data-caption=&#34;Figure 3: My current approach to tracking grading progress. All assignments that need grading are listed under their perspective class and items that are graded on completion are marked with a *. The section on the right-hand-side is used to track today’s progress (and includes the illusive Caught Up check box … I don’t want to talk about that!)&#34;&gt;
+&lt;img data-src=&#34;yardsale8.github.io/tenure/img/grading_progress.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
   
