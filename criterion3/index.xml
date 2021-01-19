@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Evidence of Continuing Preparation and Study | Tenure and Promotion Portfolio</title>
+    <link>yardsale8.github.io/criterion3/</link>
+      <atom:link href="yardsale8.github.io/criterion3/index.xml" rel="self" type="application/rss+xml" />
+    <description>Evidence of Continuing Preparation and Study</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 15 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/yardsale8.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Evidence of Continuing Preparation and Study</title>
+      <link>yardsale8.github.io/criterion3/</link>
+    </image>
+    
+    <item>
+      <title>Participating in Continuing Education Courses</title>
+      <link>yardsale8.github.io/criterion3/continuing_education/</link>
+      <pubDate>Fri, 15 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>yardsale8.github.io/criterion3/continuing_education/</guid>
+      <description>&lt;p&gt;Over the last five years, I have completed six of online
+courses (participating continuing education courses and/or formal
+education/study&amp;ndash;Appendix G of Master Agreement). These courses cover a
+wide breadth of topics, including functional programming, distributed computing,
+building client-server applications, and finally a course on developing
+online and blended courses.&lt;/p&gt;
+&lt;p&gt;By the end of this section, you will see evidence of a substantial and formal
+course of study, which is had an impact on developing and updating curriculum
+in data science.&lt;/p&gt;
+&lt;h2 id=&#34;completion-of-online-courses-in-data-science&#34;&gt;Completion of Online Courses in Data Science&lt;/h2&gt;
+&lt;p&gt;The first four courses are were completed to prepare for the development of
+three new data science elective, a special topics course on functional
+distributed programming in the spring semester of 2017 and two new elective
+approved and implemented in 2018 and 2019.&lt;/p&gt;
+&lt;h4 id=&#34;complete-a-coursera-course-on-the-hadoop-platform&#34;&gt;Complete a Coursera Course on the Hadoop Platform&lt;/h4&gt;
+&lt;p&gt;The &lt;a href=&#34;https://hadoop.apache.org&#34;&gt;Hadoop framework&lt;/a&gt; supports distributing the
+storage and processing of very large quantities of data across many machines
+and is used by &lt;a href=&#34;https://cwiki.apache.org/confluence/display/HADOOP2/PoweredBy&#34;&gt;many social media and tech
+companies&lt;/a&gt;
+such as eBay, Facebook, and Twitter. In preparation for teaching a special
+topics course in the spring of 2017, I completed a Coursera course on the
+Hadoop framework during the 2016 fall term.&lt;/p&gt;
+&lt;p&gt;The curriculum for this course included an overview of the basic components
+of the Hadoop framework, as well as the basics of writing MapReduce and Spark
+applications. Completing this course was a positive experience that directly
+impacted the curriculum in STAT 489 and inspired the associated textbook.
+This course also led me to learning the Spark SQL framework, which is
+featured in the DSCI 430 course developed the following year.&lt;/p&gt;
+&lt;p&gt;The certificate for completion of this course can be seen by navigating
+this &lt;a href=&#34;https://www.coursera.org/account/accomplishments/certificate/QRTQKUPSZDRY&#34;&gt;link&lt;/a&gt;.&lt;/p&gt;
+&lt;h4 id=&#34;two-courses-on-functional-programming-in-scala&#34;&gt;Two Courses on Functional Programming in Scala&lt;/h4&gt;
+&lt;p&gt;In anticipation of designing and implementing DSCI 430 Data Science at Scale,
+I completed 2 Coursera courses during the 2017 summer break. The first
+introduced functional programing in the Scala programming language and the
+second built on the first by teaching functional design principles in Scala.
+Spark, the primary focus of DSCI 430, is written in Scala and while this
+course uses the Python bindings to Spark, it was still beneficial to learn
+about the under-pinnings of the framework. Below you will find the
+certificates for the completion of each course.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.coursera.org/account/accomplishments/certificate/FJSWZZK7DMF7&#34;&gt;&lt;strong&gt;Functional Programming Principles in
+Scala&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.coursera.org/account/accomplishments/certificate/JY34BG86VHC5&#34;&gt;&lt;strong&gt;Functional Program Design in
+Scala&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;cleaning-data-in-python&#34;&gt;Cleaning Data in Python&lt;/h4&gt;
+&lt;p&gt;One of the topics in covered in DSCI 430 Data Science at Scale is the process
+of cleaning data. To make sure that my understandings of cleaning data in
+Python was up-to-date, I complete a &lt;a href=&#34;www.datacamp.com&#34;&gt;DataCamp&lt;/a&gt; course on
+this subject. The completion of this course helped me formalize a
+step-by-step process for cleaning data, as well as introduced me to some
+effective techniques for online courses. The certificate of completion is
+&lt;a href=&#34;testimonial/data_camp_data_cleaning.pdf&#34;&gt;available here&lt;/a&gt;.&lt;/p&gt;
+&lt;h4 id=&#34;elixirdeveloping-with-elixirotp&#34;&gt;Elixir—Developing with Elixir/OTP&lt;/h4&gt;
+&lt;p&gt;In addition to building client-side educational application, like those
+highlighted under &lt;a href=&#34;yardsale8.github.io/criterion2/software/&#34;&gt;criterion 2&lt;/a&gt;. While
+the Elm programming language is great for creating responsive modern
+client-side applications, it requires an interface with another language when
+creating client-server applications.&lt;/p&gt;
+&lt;p&gt;During the 2019 fall semester, I started to gain the requisite knowledge to
+build a server-side client by completing a &lt;a href=&#34;https://pragmaticstudio.com/courses/elixir&#34;&gt;Pragmatic Studio course on
+Elixir&lt;/a&gt;. Elixir is a language
+that is built on top of Erlang and is tailor-built for the sorts of tasks
+completed by a server-side client. In particular, I really liked the actor
+model that was employed and streamlined by Elixir.&lt;/p&gt;
+&lt;p&gt;Another benefit of completing a course like this one is seeing the
+author’s pedological approach to online learning. In this case, the
+couple that creates the videos perform the lectures in tandem and switch
+off presenting topics; timing the transitions when a topic changes or
+when making a counterpoint. They also had good transitions between
+showing them talking to the camera and them talking over a computer
+screen or terminal.&lt;/p&gt;
+&lt;h2 id=&#34;complete-the-weteach-courses-on-teaching-online-and-blended-courses&#34;&gt;Complete the WeTeach Courses on Teaching Online and Blended Courses&lt;/h2&gt;
+&lt;p&gt;This last summer, over the last four summers, I had the opportunity to teach
+STAT 110 in the online format. Then COVID happened. While I had sat in on the
+WeTeach course in my first year at WSU, I thought it was to time revisit (and
+actually complete) this course. This summer, I re-enrolled and completed in
+the WeTeach course offered by Minnesota State, which focus on the best
+practices for teaching online and blended courses. I have fully completed the
+course (see the &lt;a href=&#34;yardsale8.github.io/testimonial/WeTeachCertificate.pdf&#34;&gt;attached certificate&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;One of my takeaways from retaking this course was just how much the first
+time through has impacted my course development. WeTeach encourages extra
+organization and communication with students and I am happy to say that my
+online courses meet these goals. In the flip side, taking the course
+reinforced that I can improve my courses by building better rubrics for
+improving the communication of my expectations and feedback.&lt;/p&gt;
+&lt;p&gt;One of the goals of the WeTeach courses is to introduce the requirements for
+certifying a course under Quality Matters and encourage faculty to apply for
+this certification. I am in the process of setting up STAT 110 to meet the
+expectations, and also plan to submit the DSCI 611 course that I am creating
+for HLA for certification.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Structured Study to Improve Courses and Tools</title>
+      <link>yardsale8.github.io/criterion3/other_structured_study/</link>
+      <pubDate>Fri, 15 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>yardsale8.github.io/criterion3/other_structured_study/</guid>
+      <description>&lt;p&gt;In addition to the &lt;a href=&#34;yardsale8.github.io/criterion3/continuing_education/&#34;&gt;formal online coursework&lt;/a&gt; discussed in a different section, I will also
+provide evidence of self-guided structured study in two other areas: learning
+to build client-side web applications using the Elm programming language and
+a program of study on the management of unstructured data with Python.&lt;/p&gt;
+&lt;p&gt;In her letter of support, Mariah Quam&amp;ndash;a data science alum&amp;ndash;described my willingness to learn and present the nex&lt;/p&gt;
+&lt;h2 id=&#34;learning-to-write-web-applications-in-elm&#34;&gt;Learning to Write Web Applications in Elm&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;yardsale8.github.io/img/elm.png&#34; data-caption=&#34;Figure 1. To facilitate the creation educational web application like the binomial simulation app, I completed a course of self-study to learn the Elm programming language.&#34;&gt;
+&lt;img data-src=&#34;yardsale8.github.io/img/elm.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;strong&gt;Figure 1.&lt;/strong&gt; To facilitate the creation educational web application like the binomial simulation app, I completed a course of self-study to learn the Elm programming language.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;As detailed under &lt;a href=&#34;yardsale8.github.io/criterion2/software/&#34;&gt;the section on criterion 2&lt;/a&gt;, I have spent a considerable amount of time and
+effort building educational web applications used on the statistics courses
+at Winona State. Before I could create these applications, I need to learn
+how to write a client-side application similar to those provided by
+&lt;a href=&#34;http://www.lock5stat.com/StatKey/&#34;&gt;StatKey&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The primary obstacle to learning to create such an application is learning
+JavaScript, which I haven&#39;t had the motivation to learn. I prefer to dedicate
+myself to learning programming languages that differ from the languages I
+have already mastered, but JavaScript is pretty similar to Python. Also, I
+look for languages that are easy to use right out of the box, with tools for
+building, installing, and running an application without a lot of
+configuration. Elm fits all of these requirements.&lt;/p&gt;
+&lt;p&gt;To learn to create applications in Elm, I started my course of self-study by
+completing the &lt;a href=&#34;https://guide.elm-lang.org&#34;&gt;standard Elm tutorials&lt;/a&gt;, but the
+best way to learn a programming language is to build something. I spent a
+significant part of the 2018 summer break creating the exact binomial
+application (discussed in more detail in the section on &lt;a href=&#34;yardsale8.github.io/criterion2/software/&#34;&gt;criterion 2&lt;/a&gt;)). It is a testament to the simplicity of the
+Elm language that I could go from knowing nothing to build a complete
+application in one summer. Since then, I have continued to gain mastery in
+Elm by, for example, learning to add animations to the binomial simulation
+application.&lt;/p&gt;
+&lt;h2 id=&#34;study-in-preparation-for-two-new-dsci-courses&#34;&gt;Study in Preparation for Two New DSCI Courses&lt;/h2&gt;
+&lt;p&gt;My second course of self-guided study was conducted in preparation in
+preparation for DSCI 330 and DSCI 430, two new electives that were developed
+for the data science program. Each course required my to master new topics
+and software tools as discussed below.&lt;/p&gt;
+&lt;h4 id=&#34;mastering-two-and-a-half-new-python-platforms&#34;&gt;Mastering Two (and a Half New) Python Platforms**&lt;/h4&gt;
+&lt;p&gt;In the creation of materials for DSCI 430, I needed to learn three Python
+platforms used to manage structured data: dfply, a module for processing
+table using pipes and data verbs; sqlalchemy, a Python library for working
+with SQL databases using an object-relational model (ORM); and PySpark SQL,
+which allows the management of structured data that is distributed over any
+many machines. Furthermore, I also mastered a third&lt;/p&gt;
+&lt;p&gt;The act of working through problems in all three frameworks has also
+reaffirmed that this is all of the same stuff, and a realization that
+has had a profound effect on my teaching in all data science courses.&lt;/p&gt;
+&lt;h4 id=&#34;learning-to-process-audio-and-image-data&#34;&gt;Learning to Process Audio and Image Data**&lt;/h4&gt;
+&lt;p&gt;As suggested by the name, DSCI 330 The Management of Unstructured Data
+focuses on the management of various forms of data that do not fit neatly in
+tables. While I already has experience with two common examples of
+unstructured data, text and web data, I did not have experience working with
+audio, images, and video. Consequently, preparation for the course started
+with becoming familiar with the theory and methods used when managing these
+data formats.&lt;/p&gt;
+&lt;p&gt;For example, while developing material about the spectrogram of an audio
+signal, I studied about the theoretical foundations of the Fourier and
+inverse Fourier transformations and pedagogical approaches to giving students
+an understanding of these transformations. I now have a better understanding
+of several other topics, including the application of various filters to
+audio and images, using filters to search for a feature in an image, and
+feature extraction for audio classification.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Attending Professional Meetings and Conferences</title>
+      <link>yardsale8.github.io/criterion3/meetings_and_conferences/</link>
+      <pubDate>Fri, 15 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>yardsale8.github.io/criterion3/meetings_and_conferences/</guid>
+      <description>&lt;p&gt;In addition to the formal online coursework and self-guided study highlighted
+in the previous section, I also attended five national conferences
+dedicated to the practice and/or teaching of data science. Here is a list of conferences that I attended over the last 4 years.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://us.pycon.org/2017/&#34;&gt;PyCon 2017, Portland OR, May 17-25&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://icots.info/10/?abouticots&#34;&gt;10th International Conference on Teaching Statistics (ICOTS), Kyoto, Japan, July 8-13, 2018&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Liberal Arts Data Science Workshop 2018 (LADS), New College of Florida, Sarasota FL, Jan 12-13, 2018&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ww2.amstat.org/meetings/sdss/2019/&#34;&gt;2019 Symposium on Data Science and Statistics (SDSS 2019), Belleview, WA, May 29-Jun 1&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ww2.amstat.org/meetings/sdss/2020/&#34;&gt;2020 Symposium on Data Science and Statistics (SDSS 2020), Virtual Conference, June 3-5&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

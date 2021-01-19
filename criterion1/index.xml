@@ -1,0 +1,1159 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teaching Effectiveness | Tenure and Promotion Portfolio</title>
+    <link>yardsale8.github.io/criterion1/</link>
+      <atom:link href="yardsale8.github.io/criterion1/index.xml" rel="self" type="application/rss+xml" />
+    <description>Teaching Effectiveness</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 15 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/yardsale8.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Teaching Effectiveness</title>
+      <link>yardsale8.github.io/criterion1/</link>
+    </image>
+    
+    <item>
+      <title>Curriculum Design</title>
+      <link>yardsale8.github.io/criterion1/curriculum_design/</link>
+      <pubDate>Fri, 15 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>yardsale8.github.io/criterion1/curriculum_design/</guid>
+      <description>&lt;p&gt;When first joining the faculty as Winona State, I was very excited to learn
+about and contribute to the curriculum of the data science program. Over the
+course of the last four years, I have had a substantial impact on this
+curriculum.&lt;/p&gt;
+&lt;p&gt;In her &lt;a href=&#34;yardsale8.github.io/testimonial/hooks_letter_of_support.pdf&#34;&gt;letter of support&lt;/a&gt;,
+Dr. Hooks stressed these contributions.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Our data science program has significantly improved since Todd joined our
+faculty. He created two new courses on his own to fill gaping holes in the
+curriculum, which is a daunting and time-demanding task. Furthermore, he also
+worked with other faculty members to improve existing data science courses.
+His expertise is valued by us all, and we often seek out his advice. Todd is
+always willing to offer ideas and opinions to his colleagues - even for
+courses he is not currently teaching - no matter how busy he is with his own
+teaching assignment. He is committed to making our courses better, regardless
+of whether he is the one teaching them or not, and his efforts have had a
+positive impact.&lt;/p&gt;
+&lt;p&gt;In my opinion, the contributions he has made to our data
+science program alone along with the work he’s done to share his ideas with
+the larger data science/statistics community are enough to warrant tenure and
+promotion, but Todd has gone above and beyond to also improve our statistics program.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;As eluded to in Dr. Hook&#39;s comments, I have also made contributions to the
+statistics curriculum, evidenced by the learning applications discussed in
+one of the sections for &lt;a href=&#34;yardsale8.github.io/criterion2/software/&#34;&gt;criterion 2&lt;/a&gt;,
+the STAT 310 project discussed in the section on &lt;a href=&#34;yardsale8.github.io/criterion1/instructional_innovation/&#34;&gt;instructional
+innovation&lt;/a&gt;, and my work
+aligning the curriculum of STAT 110 and STAT 210 discussed below.&lt;/p&gt;
+&lt;p&gt;In informal conversations, Dr. Chris Malone has indicated that he hoped that
+adding me to the faculty would lead to improvements in
+the data science curriculum in general and students&amp;rsquo; programming skills in particular. By the
+end of this section, you will have seen evidence of my contributions in both
+of these areas; as well as examples of my contributions made to the
+statistic program.&lt;/p&gt;
+&lt;h2 id=&#34;curriculum-development-for-data-science&#34;&gt;Curriculum Development for Data Science&lt;/h2&gt;
+&lt;p&gt;First, I will discuss my primary contributions to the data science
+curriculum, which comes in the form of two new courses and a revamped
+curriculum for the introductory data science course. In the following
+sections, I will discuss the creation of DSCI 330 and DSCI 430, give an
+overview of the revamped DSCI 210 curriculum, and finally discussing my
+efforts to improve students&amp;rsquo; programming skills throughout these three
+courses.&lt;/p&gt;
+&lt;h3 id=&#34;dsci-330--the-management-of-unstructured-data&#34;&gt;DSCI 330 – The Management of Unstructured Data&lt;/h3&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;yardsale8.github.io/img/330_project.png&#34; data-caption=&#34;Figure 1. Benjamin and Tyler teach the class about background subtraction using Python and the OpenCV library.  The final project in DSCI 330 requires groups of students to explore and present on a new topic in image and video processing.&#34;&gt;
+&lt;img data-src=&#34;yardsale8.github.io/img/330_project.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;strong&gt;Figure 1.&lt;/strong&gt; Benjamin and Tyler teach the class about background subtraction using Python and the OpenCV library.  The final project in DSCI 330 requires groups of students to explore and present on a new topic in image and video processing.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;Course Description.&lt;/strong&gt; This course will give students an overview of the
+issues related to the management of unstructured data, that is any data that
+is not stored in a table or database. Sources of unstructured data include
+bodies of text, social media applications, images, and audio. In the process
+of exploring various forms of unstructured data, students will be exposed to
+new programming languages and tools that are useful for managing this type of
+data (e.g. Python and bash). Other topics covered in the course include web
+scraping, natural language processing, and manipulating images/videos/audio
+files.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Rationale.&lt;/strong&gt; This course fills a void in the previous curriculum.
+It is estimated that between 50% and 80% of new data is unstructured (see
+&lt;a href=&#34;http://breakthroughanalysis.com/2008/08/01/unstructured-data-and-the-80-percent-rule/&#34;&gt;Unstructured Data and the 80%
+Rule&lt;/a&gt;.
+Current and future data scientists will rely on the skills needed to gain
+insight from these data sources. Before adding these courses, the program had
+several offerings that provided students with experience working with
+structured data, but there was little exposure to unstructured data.&lt;/p&gt;
+&lt;p&gt;This course is designed to expose students to the methods and techniques
+necessary to work with unstructured data. Students in the course learn to
+process various types of unstructured data: text, data from the web,
+audio, images, and video.&lt;/p&gt;
+&lt;p&gt;My colleague Dr. Silas Bergen sat in on DSCI 330 this fall and had
+the following comments in his &lt;a href=&#34;yardsale8.github.io/testimonial/bergen_letter_of_support.pdf&#34;&gt;letter of
+support&lt;/a&gt;.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Dr. Iverson has also developed two entirely new, upper-level courses to our
+curriculum (DSCI 330: Management of Unstructured Data and DSCI 430: Data at
+Scale). I was able to sit in on DSCI 330 last semester and learned a lot
+about the challenges students will face with messy data in the workplace and
+the Python coding tools they can use to tackle those challenges. These are
+both very strong courses and stellar additions to our Data Science
+curriculum. Suffice to say, Dr. Iverson has been a boon for our Data Science
+program.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;All of the material for the course can be found on &lt;a href=&#34;https://github.com/wsu-DSCI330&#34;&gt;the DSCI 330 GitHub
+organization&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;dsci-430--data-science-at-scale&#34;&gt;DSCI 430 – Data Science at Scale&lt;/h3&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;yardsale8.github.io/img/lew_presents.png&#34; data-caption=&#34;Figure 1. Daniel demonstrates a dashboard created as part of his capstone project illustrating what he learned in about processing data in Python and PySpark in DSCI 430.&#34;&gt;
+&lt;img data-src=&#34;yardsale8.github.io/img/lew_presents.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;strong&gt;Figure 1.&lt;/strong&gt; Daniel demonstrates a dashboard created as part of his capstone project illustrating what he learned in about processing data in Python and PySpark in DSCI 430.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;Course Description.&lt;/strong&gt; The focus of this course is on exposing students to
+processing data on a large scale using a distributed platform. First,
+students will learn the functional approach to processing large data sets.
+Along the way, we will encounter many of the techniques that are employed in
+large distributed data-processing systems, such as using common higher-order
+functions, employing lazy evaluation, and relying on immutable data
+structures. By the end of the course students will be familiar with
+processing large amounts of data in one or more high-level languages (e.g.
+Python and/or Scala) and working with several frameworks for distributed
+computation (e.g. Hadoop/MapReduce/Spark).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Rationale.&lt;/strong&gt; This course filled a second void in the previous DSCI curriculum,
+which lacked coverage of working with data on a large scale, that is data
+that is too large to process on a single machine. This is a problem
+with most data science programs, which become apparent when judging data
+analytics competitions such as MUDAC and MinneMUDAC. I aimed to correct
+this problem with this course.&lt;/p&gt;
+&lt;p&gt;Students in this course are introduced to working with data at three
+different scales. First, they learn to process data relatively small data
+(i.e. fits in RAM) using the standard Python tools of Pandas and the dfply
+libraries. Next, students work with data that is too large to hold in RAM, but
+can be processed on a single machine using a SQL database. Finally, students
+work with PySpark, which can work with massive amounts of
+data, data so large it must be distributed across the hard drives of many
+machines.&lt;/p&gt;
+&lt;p&gt;In the process of working with these three different platforms, we reinforce
+an idea that was first introduced in DSCI 210, that is &amp;ldquo;it&#39;s all the
+same stuff&amp;rdquo;&amp;ndash;that data management is translating the same general processes
+to different platforms. While I am in the processes of updating the material for
+this semesters class, the materials from the 2019 course can be found on the
+&lt;a href=&#34;https://github.com/yardsale8/DSCI430&#34;&gt;DSCI 430 GitHub page&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;teaching-students-to-write-better-code&#34;&gt;Teaching Students to Write Better Code&lt;/h3&gt;
+&lt;p&gt;The secondary aim of these courses was to introduce students to a new
+programming language and improve their programming skills. Strong programming
+skills are a requirement for data scientists. Trends in data science tend to
+move quickly and future data scientists must be exposed to many programming
+languages and develop the ability to learn new languages or platforms.
+Furthermore, developing the ability to write clean, correct, and
+well-documented code will make students more efficient and valuable members
+of a team.&lt;/p&gt;
+&lt;p&gt;To meet these aims, course material in DSCI 330 and DSCI 430 is supplemented
+with lectures on writing better code, including selecting good names, writing
+unit tests and proper documentation, and refactoring to clean up code. Also,
+students are introduced to the data science modern toolset, including
+technologies such as git, GitHub, Jupyter notebooks, and Docker.  I am pleased
+to say that I have had multiple students thank me for helping them become
+better programmers. For example, here is an email I received from Shane Will,
+who graduated with a double major in computer science and data science,
+shortly after taking my course.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Good Evening Dr. Iverson,&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I just wanted to thank you for pushing me in the Python course this past
+spring. I have realized that my programming skills have really improved after
+being pushed to write in a functional style. I know that if it was not for
+that class and your pushing me I would not have improved my development
+style. Thanks again and I hope that your summer has been going well&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Shane Will&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Another recent data science graduate, Mariah Quam, in her &lt;a href=&#34;yardsale8.github.io/testimonial/quam_letter_of_support.pdf&#34;&gt;letter of
+support&lt;/a&gt; for this proposal, had to
+say after taking three of my programming course (including DSCI 330 and 430).&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;There are specifically three coding classes I took with Professor Iverson
+that allowed me to accrue exponential growth in my coding ability. Through
+these classes, he showed his ability to make what should have been boring and
+tough lecture topics into engaging and thought provoking class periods by
+using his great sense of humor and interactive approaches. On top of being a
+great professor in the classroom, he shined through his office hours just as
+much as he did in the classroom. I commend him for the amount of patience I
+have witnessed him to have first hand with me and also with other students.
+One thing I love about Professor Iverson is he truly cares about his
+students&amp;rsquo; learning. He is not one to just give a student the answer to get
+them out of his face or to leave them high and dry with no help. He is the
+definition of going the extra mile when it comes to teaching students the
+process of coding.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Finally, it should be noted that I presented some of these ideas at SDSS
+2019, which is discussed &lt;a href=&#34;yardsale8.github.io/criterion2/presentations/&#34;&gt;elsewhere&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;implementation-of-a-project-based-and-concept-driven-curriculum-for-dsci-210&#34;&gt;Implementation of a Project-Based and Concept-Driven Curriculum for DSCI 210&lt;/h3&gt;
+&lt;p&gt;Developing the two new DSCI courses, as well as advising and judging with
+students in data analytics competitions, had the added benefit of clarifying
+what data science is all about and formalizing a set of beliefs in how it
+should be taught. A summary of these beliefs follows.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Software-agnostic data management.&lt;/strong&gt; Many books and courses on data science focus
+on teaching specific technologies or platforms, but we focus on giving students
+a general abstract vocabulary for solving data management and visualization
+tasks, then translating this language to specific technologies. DSCI 210 now
+incorporates this approach by teaching data management verbs, then
+translating these verbs to JMP, OpenRefine, and R.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Honoring the 80%.&lt;/strong&gt; It is often noted that a data scientist will
+spend 80% of their time managing data and only 20% of their time later
+analyzing the data. While many courses devote much of their time to teaching
+the tools for the final analyses, we believe that data curriculum should
+&lt;em&gt;honor the 80%&lt;/em&gt;, that is provide substantial and focused training that
+prepares them for this 80% of their work life. While DSCI 210 still provides
+an introduction to data visualization and statistical learning, a majority of
+the curriculum is devoted to data management.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Project-based learning.&lt;/strong&gt; Finally, we believe students learning is
+*reinforced by tackling complicated problems. To facilitate this learning,
+*DSCI 210 now includes multiple projects that allow students to apply what
+*they have learned to real-world problems, as well as practice presenting
+*their findings.&lt;/p&gt;
+&lt;p&gt;Over the last two years, I had the opportunity to incorporate these into a
+revamped curriculum for DSCI 210, the introductory course in data
+science.  After polishing the new curriculum over two semesters, I handed the course off to my colleague Dr. Silas Bergen, who had this to say about the results.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I will specifically speak to my own personal experience teaching DSCI 210,
+our introductory Data Science course, for the first time in Fall 2019. When
+we first offered this course prior to Dr. Iverson’s arrival at Winona State,
+we were very much “feeling around in the dark” with the course. Data Science
+was a very new field in general, and there was little in the way of
+established curriculum upon which to base the course. However, by the time I
+taught the course, after Dr. Iverson had taught it several times, it had
+developed into a very impressive course. Its conceptual flow was strong and
+the assignments were high-quality, effectively reinforcing class concepts.
+Dr. Iverson had discovered an important data cleaning tool, OpenRefine, and
+introduced it to the course. Students glommed onto this tool and used it in
+subsequent data analytics competitions. OpenRefine is now a mainstay of the
+course. But Dr. Iverson’s most important contributions to this course, and to
+the Data Science curriculum as a whole, is a “software agnostic” philosophy.
+“Data Science” is not the learning of tools, or a pedagogy centered around
+e.g. “learning how to code in Python” (though these tools are definitely
+important). Rather Dr. Iverson has helped us as a department realize that
+Data Science has theoretical and conceptual foundations that transcend any
+one tool, and advocated for a curricular approach that exposes students to a
+variety of tools with the idea that they should use the right tool for the
+job. This has greatly strengthened our program and this philosophy touches
+all aspects of our curriculum, from management of structured data to data
+visualization.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Last semester, I had the opportunity to teach DSCI 210 again; this time
+taking advantage of the excellent additions added by Dr. Bergen. The course
+is finally in an excellent place, as evidenced by the following student
+evaluation comments.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;&amp;ldquo;I really enjoyed this class and ending up adding Data Science to be my second major. I thought you did a wonderful job teaching and I feel like I learned so many useful tools to apply to my other studies in this class. Thank you so much!&amp;quot;&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;&amp;ldquo;This course made me consider getting a major in DSCI. I HIGHLY HIGHLY recommend this course to other students.&amp;quot;&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;curriculum-development-for-statistics&#34;&gt;Curriculum Development for Statistics&lt;/h2&gt;
+&lt;p&gt;Finally, I would like to highlight some of the curricula I developed for the
+statistics program. In addition to the project I developed for STAT 310 in the
+section on &lt;a href=&#34;yardsale8.github.io/criterion1/instructional_innovation/&#34;&gt;instructional innovation&lt;/a&gt;, I also spent some time
+aligning the curriculum between my STAT 110 and STAT 210 courses, in an
+attempt to better understand issues with substituting one course for another.&lt;/p&gt;
+&lt;h3 id=&#34;creating-a-bridge-between-stat-110-and-stat-210-curriculum&#34;&gt;Creating a Bridge Between STAT 110 and STAT 210 Curriculum&lt;/h3&gt;
+&lt;p&gt;I am always looking for efficiencies in the implementation of the many class
+preparations. One semester, I had two sections of STAT 210 on the same day as a
+STAT 110 section and I determined that these courses could be designed to
+share about 80% of the same content, meaning that for 80% of these courses
+could be considered a single preparation.&lt;/p&gt;
+&lt;p&gt;Before the semester, I mapped out the semester for both courses, lining up
+the material on as many days as possible. Then adjustments were made to keep
+the courses on the same schedule while finding room for the additional
+material in STAT 210. This alignment was accomplished through additional
+out-of-class activities in STAT 210 using presented through online videos
+and/or adding additional practice activities for STAT 110.&lt;/p&gt;
+&lt;p&gt;Written assessments were constructed in the same vein. Each written
+assignment shared 4 questions, while the STAT 210 assignments had a
+5th question that covered the additional material not covered in STAT
+110. Both courses used the same set of practice and regular quizzes.&lt;/p&gt;
+&lt;p&gt;This approach was a success in two ways. First, I (almost) made it through
+that semester with my sanity in tack, but I realized that there is another
+advantage to going through the process of aligning these courses. Frequently,
+students that have taken STAT 110 will change to a major or minor that
+requires STAT 210. In the past, the statistic faculty had a process for
+converting a STAT 110 to STAT 210 (a test), but that approach is lost to
+time. The following semester, I piloted using the supplementary material
+developed for STAT 210 as a “course packet” that completed by one of my
+former STAT 110 students that need STAT 210 after a change of major. In the
+end, the statistic subgroup decided on an alternative route, I am grateful
+for the chance to gain a better understanding of the relationship between
+these courses.&lt;/p&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;In this section, you have seen evidence of substantial and meaningful
+contributions to the curriculum of both the data science and statistics
+programs, as well as evidence of my efforts to improve the coding skills of
+students.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Instructional Innovation</title>
+      <link>yardsale8.github.io/criterion1/instructional_innovation/</link>
+      <pubDate>Fri, 15 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>yardsale8.github.io/criterion1/instructional_innovation/</guid>
+      <description>&lt;p&gt;The evolution of my STAT 110 Fundamentals of Statistics curriculum good
+illustration of my approach to blending instructional innovation and the
+assessment of student learning. STAT 110 is ripe for a discussion of
+instructional innovation tied to the assessment of student learning due to
+the demand and large sections (37 versus 25), which has translated
+into an opportunity to teach the course in multiple formats, be it
+face-to-face in the classroom, online asynchronously over the summer, or in
+an online synchronous format due to COVID-19.&lt;/p&gt;
+&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
+&lt;p&gt;In this section, I will provide an overview of how the course material has
+evolved from a face-to-face flipped classroom for STAT 110 and then
+translating this material to synchronous and asynchronous online courses.&lt;/p&gt;
+&lt;p&gt;The face-to-face rendition of this course is built around the flipped
+classroom, which is discussed in more depth in the section on &lt;a href=&#34;yardsale8.github.io/criterion4/student_centered/&#34;&gt;criterion
+4&lt;/a&gt;, but I would like to highlight a few
+of the related innovations here. First, I embedded self-assessment
+multiple-choice questions in an online and interactive set of course notes,
+allowing students to check their understanding and review the material
+outside of class. Next, the transition from a face-to-face flipped class to
+an online format is discussed. Finally, I will discuss innovations that
+evolved out of trying to develop authentic assessments that can be translated to
+multiple formats.&lt;/p&gt;
+&lt;h2 id=&#34;using-embedded-self-assessments&#34;&gt;Using Embedded Self-Assessments&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;yardsale8.github.io/img/book_MC.png&#34; data-caption=&#34;Figure 1. An example of an embedded self-assessment. Students receive immediate feedback after reading each section of the book, including guidance for incorrect responses.&#34;&gt;
+&lt;img data-src=&#34;yardsale8.github.io/img/book_MC.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;strong&gt;Figure 1.&lt;/strong&gt; An example of an embedded self-assessment. Students receive immediate feedback after reading each section of the book, including guidance for incorrect responses.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;In two of my previous courses, STAT 110 and STAT 489, I constructed online
+textbooks to supplement instruction. One of the primary advantages of
+creating a web-based textbook is the ability to embed videos and
+multiple-choice problems directly in the text. The students are asked to use
+these assessments to gauge their understanding of the material, providing
+immediate feedback and allowing them to determine if they have understood the
+relevant material.&lt;/p&gt;
+&lt;p&gt;These assessments are then used to prepare students for the end-of-module
+assessments. Before wrapping up each module with a suite of larger
+assessments, students are given a short quiz that consists of a random
+selection of these book problems in hopes of encouraging them to go back and
+review the associated material.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;As part of student evaluations, students were prompted to comment on the online textbook. Here are some positive responses related to the embedded assessments.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;very useful. I liked the little multiple choice questions in the reading.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I liked this as well, with the check me quizzes and videos. Great resource for learning and exams&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The online textbook was useful to help in giving course examples, and the questions aligned with the reading quizzes.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I found it useful in the way that practice questions were in there.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I found it useful especially the multiple choice questions embedded.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I think the text book was very useful and i loved how they had multiple choice practice&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I found the textbook extremely useful and liked the practice quizes/questions and videos. They helped me check my comprehension and also explained why I was wrong for some questions. a&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Next, I will discuss the translation of the flipped classroom into an online format.&lt;/p&gt;
+&lt;h2 id=&#34;the-implementation-of-and-online-stat-110&#34;&gt;The Implementation of and Online STAT 110&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;yardsale8.github.io/img/welcome.png&#34; data-caption=&#34;Figure 2. Students are welcomed to the first week of STAT 110, an asynchronous online course taught during each of the 2017-2020 summer terms.&#34;&gt;
+&lt;img data-src=&#34;yardsale8.github.io/img/welcome.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;strong&gt;Figure 2.&lt;/strong&gt; Students are welcomed to the first week of STAT 110, an asynchronous online course taught during each of the 2017-2020 summer terms.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;During the 2017 summer term, I had the opportunity to implement the first
+online STAT 110 offering here at WSU. Since that time, STAT 110 has been
+offered over multiple sections each summer term with an increasing demand
+evidenced by the growing number of sections each year. There were several
+challenges to adapting my materials to the online setting, which I will
+summarize below. It should be noted that, in each case, the changes made in
+anticipation of teaching online also greatly benefit&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Organizational Challenges.&lt;/strong&gt; As discussed in the section on &lt;a href=&#34;yardsale8.github.io/criterion3/continuing_education/&#34;&gt;criterion 3&lt;/a&gt;, first took the WeTeach courses in
+the spring of 2017 and then revisited (and finally completed) the course in
+the summer of 2020. This curriculum has shaped my approach to this online
+course, and in particular, has taught me the importance of organization
+and focused communication.&lt;/p&gt;
+&lt;p&gt;Our summer offers are taught over eight weeks, which allowed for an easy
+2-regular-weeks to 1-summer-week conversion and making it easy to map my
+regular in-class activities to an online environment. The demands for better
+organization forced me to rearrange the material into 8 modules, with one
+module covered each week.&lt;/p&gt;
+&lt;p&gt;To make navigating the various components of the course easier, I
+instituted a common numbering scheme for the whole course. First,
+everything is numbered according to the encompassing module. Second, the
+numbers for the readings were aligned with the corresponding activity.
+For example, students should work through Section 5.1 in the book;
+watching videos, reading the text, and attempting the self-assessment
+problems; before attempting Activity 5.1. Then they move on to Section
+5.2 and Activity 5.2, and so forth.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Translating in-class group activities.&lt;/strong&gt; Another challenge was adapting my
+classroom learning activities, which are usually completed in groups, to an
+online setting. The asynchronous nature of the course precluded asking the
+students to work in groups, so I decided that I would do my best to mimic
+this classroom experience with recorded videos. For each activity, I led
+students through an example, occasionally providing small lecture components,
+and then asked students to pause the video and complete additional exercises
+on their own. When they restart the video, I would go over my solution and
+discuss common mistakes.&lt;/p&gt;
+&lt;p&gt;The final challenge was implementing a robust online assessment scheme that
+would give a meaningful and authentic assessment of student performance. It has
+taking me years to implement a complete solution, which is discussed in the
+next section.&lt;/p&gt;
+&lt;h2 id=&#34;taking-advantage-of-randomized-practice-and-end-of-module-quizzes&#34;&gt;Taking advantage of randomized practice and end-of-module quizzes&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;yardsale8.github.io/img/quiz_scheme.png&#34; data-caption=&#34;Figure 3. After adapting my assessments to an online setting, the final scheme involves material divided into three areas with corresponding review and practice materials.&#34;&gt;
+&lt;img data-src=&#34;yardsale8.github.io/img/quiz_scheme.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;strong&gt;Figure 3.&lt;/strong&gt; After adapting my assessments to an online setting, the final scheme involves material divided into three areas with corresponding review and practice materials.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;When adapting my assessment materials to the online setting, I had three
+motivating goals. First, I wanted to provide students with enough review and
+practice to allow success while working on their own without support from
+their peers. Second, I wanted to develop a scheme that took advantage of the
+D2L features and allow for the quick turn around on feedback. Finally, I wanted
+to fight academic dishonesty and get an authentic assessment of each
+student&#39;s performance.&lt;/p&gt;
+&lt;p&gt;The final implementation represents my best effort to balance and meet each
+of these goals. The scheme consists of breaking assessment items into three
+groups: knowledge-based assessments suitable to multiple-choice questions,
+assessments of written interpretations, and checking computer skills. I will
+discuss the reasoning for this split and the efficacy of my quiz scheme for
+each of my original goals below.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Preparation.&lt;/strong&gt; The scheme for individual review through namely embedded
+questions, writing review materials, and JMP how-to videos. Next students are
+asked to practice what they have learned through practice quizzes and
+worksheets. A key feature of the multiple-choice practice quiz is that
+questions are pulled at random from a large bank of similar questions, which
+allows students additional practice by repeating the quiz.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Prompt feedback.&lt;/strong&gt; By splitting the multiple-choice and written
+quizzed questions into two separate quizzes allows for faster turn-around on
+grading/feedback. D2L can automatically score the multiple-choice questions
+these items and immediately provide students with their score, which wouldn&#39;t
+be possible for quizzes that included short answer questions. I have also
+found that I am more efficient in grading three short assessments consisting of
+similar types of problems.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Authentic assessments.&lt;/strong&gt; After encountering issues with too much student
+collaboration on homework assignments, I move as much material to D2L quizzes
+as possible. Furthermore, multiple-choice and written assessments both pull
+questions from a random bank of similar problems, making it harder for
+students to collaborate on the quizzes (they likely get different questions
+sorted in a different order). Finally, I made use of the Respondus Lockdown
+Browser &amp;amp; Monitor, which locks down the student&#39;s computer and records their
+activity using the web camera. Together these changes make it is much harder
+for students to cheat on these assessments and much more likely that I get an
+authentic assessment of student learning.&lt;/p&gt;
+&lt;p&gt;Next, I will discuss a novel project I developed for STAT 310.&lt;/p&gt;
+&lt;h2 id=&#34;a-new-virtual-pilot-study-for-stat-310&#34;&gt;A New Virtual Pilot Study for STAT 310&lt;/h2&gt;
+&lt;p&gt;Recently STAT 310 was changed to a writing-intensive course and last
+year, Dr. Tisha Hooks and I developed a project to facilitate
+written reports. In this project, students work in groups to design and
+implement an experiment on &lt;a href=&#34;http://smp-island.smp.uq.edu.au/index.php&#34;&gt;The
+Islands&lt;/a&gt; (see &lt;strong&gt;Figure 5&lt;/strong&gt;),
+a virtual environment that provides a (fairly) authentic experience
+working with human subjects. Students are required to gain a resident’s
+consent before working with them and residents tend to drop
+out of the study. Students are forced to think about realistic
+expectations for measurable change over a short period, i.e. can
+we expect a person’s IQ to change over a short period.
+Finally, as in real life, obtaining a simple random sample is nearly
+impossible and students are forced to design a reasonable (but flawed)
+sampling scheme.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;yardsale8.github.io/img/islands.png&#34; data-caption=&#34;Figure 3. The Islands is a virtual environment that allows students to conduct virtual experiments and studies. The three islands contain residents who can be found in their residence. After gaining consent, students can assign each resident a task as part of a larger study.&#34;&gt;
+&lt;img data-src=&#34;yardsale8.github.io/img/islands.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;strong&gt;Figure 3.&lt;/strong&gt; The Islands is a virtual environment that allows students to conduct virtual experiments and studies. The three islands contain residents who can be found in their residence. After gaining consent, students can assign each resident a task as part of a larger study.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;While the first run of the project was promising, one problem that both
+Dr. Hooks and I observed was most experiments resulted in
+non-significant results. Power is one of the main topics early covered
+in STAT 310 and is directly related to this problem: the first round of
+studies either was looking for differences too minute to detect or
+didn’t have enough participants to detect a difference that was present.
+When performing expensive real-world studies, it is customary to first
+perform a small pilot study that has several advantages. First,
+conducting the pilot study allows the researcher to determine the
+feasibility of the design and find any unforeseen problems. Second—and
+more importantly—the researcher uses the resulting data to estimate the
+sample size needed to have a good chance of finding a significant
+difference, i.e. the sample size needed for a specified power level.
+This important step makes sure that a researcher doesn’t waste their
+time and money on an impossible task or waste too much time and money on
+unneeded replications on an easy question.&lt;/p&gt;
+&lt;p&gt;This project provides the perfect opportunity to introduce students to
+pilot studies!&lt;/p&gt;
+&lt;p&gt;When redesigning this project, I started by reviewing the literature on
+pilot studies, and found two very good articles to share with students.
+In particular, Thabane et al. provide several resources,
+including a detailed outline for reporting on a pilot study as seen in
+&lt;strong&gt;Figure 6&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;In the revised version of the projects, students still started by
+working in a group to propose a study. After getting some feedback from
+the instructor, each group was required to conduct a pilot study and
+write up their results using the outline provided by Thabane et al. . In
+particular, each group was required to perform and report on the power
+analysis for their research question. Then all of the students in the
+class ranked the proposals with the top 3 proposals receiving a bonus.
+Students were instructed to pay particular attention to the power
+analysis and the amount of work estimated for each prospective study.
+Then the whole class conducted a larger study based on the winning
+design, with the winning team in charge of managing the class’s work.
+Finally, each student wrote a final report on the class’s results.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;yardsale8.github.io/img/pilot_study.png&#34; data-caption=&#34;Figure 4. Thabane et al. provide, among other things, a detailed outline for a pilot study; which I found a useful guide for student reports.&#34;&gt;
+&lt;img data-src=&#34;yardsale8.github.io/img/pilot_study.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;strong&gt;Figure 4.&lt;/strong&gt; Thabane et al. provide, among other things, a detailed outline for a pilot study; which I found a useful guide for student reports.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;I was very pleased with the results of this project. I believe that
+working with the Islands is a valuable and fun exercise, evidenced by
+the student enthusiasm Dr. Hooks and I witnessed. Furthermore, I hope
+that running the pilot study first gave the students real experience
+with thinking about design feasibility and the importance of a power
+analysis. Also, first writing about the pilot study and then writing about
+the resulting main winning design offered the students a chance to see
+two variations on reporting on a study; with each report tailored to the
+goals of the respective design.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;yardsale8.github.io/img/example_project.png&#34; data-caption=&#34;Figure 5. The outcomes of one student project, where a randomized experiment was conducted to compare the effects of petting two types of animals to a baseline control.  As expected, petting a crocodile raises the average heart rate compared to the other two treatment groups.&#34;&gt;
+&lt;img data-src=&#34;yardsale8.github.io/img/example_project.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;strong&gt;Figure 5.&lt;/strong&gt; The outcomes of one student project, where a randomized experiment was conducted to compare the effects of petting two types of animals to a baseline control.  As expected, petting a crocodile raises the average heart rate compared to the other two treatment groups.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;My colleague Dr. Tisha Hooks used this project in her subsequent STAT 310 courses, and her comments (taken from her &lt;a href=&#34;yardsale8.github.io/testimonial/hooks_letter_of_support.pdf/&#34;&gt;letter of support&lt;/a&gt;)&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;STAT 310 recently became a writing intensive course. Todd put a lot of work
+into creating a writing project. Students were required to work in groups
+to choose a research question of interest and then conduct a pilot study to
+investigate that question in a virtual population known as The Islands. He
+found articles that provide &amp;gt; students with the basic knowledge needed to
+design a pilot study, created an assignment description and rubric, and found
+a way to make the project even more fun by encouraging competition amongst
+the students. Fortunately for me, he was willing to share his work so that
+I could use the same assignment in my sections. Overall, the STAT 310
+course is currently in a very good place, and once again, I have Todd to
+thank.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Student Evaluations</title>
+      <link>yardsale8.github.io/criterion1/course_development/</link>
+      <pubDate>Fri, 15 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>yardsale8.github.io/criterion1/course_development/</guid>
+      <description>&lt;p&gt;I have placed a lot of value on feedback from student evaluations and I have
+tried to illustrate how I use this feedback throughout the portfolio. For
+example, in-depth evaluation of student feedback related to the flipped
+classroom in &lt;a href=&#34;yardsale8.github.io/criterion4/student_centered/&#34;&gt;the section building student-centered curricula&lt;/a&gt;.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;yardsale8.github.io/img/STAT110_evals_instructor.png&#34; data-caption=&#34;Figure 1. Student responses to questions about the instructor from all regular sections of STAT 110 from Fall 2016 to Fall 2020 (excluding summer courses).  A large majority of the students agreed or strongly agreed that the instructor was available, cared, and enthusiastic; as well as providing clear explanations, effective teaching, and helpful answers.&#34;&gt;
+&lt;img data-src=&#34;yardsale8.github.io/img/STAT110_evals_instructor.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;strong&gt;Figure 1.&lt;/strong&gt; Student responses to questions about the instructor from all regular sections of STAT 110 from Fall 2016 to Fall 2020 (excluding summer courses).  A large majority of the students agreed or strongly agreed that the instructor was available, cared, and enthusiastic; as well as providing clear explanations, effective teaching, and helpful answers.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;One of the other areas of my student evaluations to which I pay particular
+attention. The first is the block of questions devoted to the instructor of
+the course. &lt;strong&gt;Figure 1&lt;/strong&gt; shows the student responses from all spring and fall
+STAT 110 sections from 2016-2020. As you can see, the majority of the students
+were pleased with the instruction in the course.&lt;/p&gt;
+&lt;p&gt;While I am focusing on STAT 110 here (the course that I have taught the
+most both in terms of sections and students), you will find similar responses
+in the reports for most classes, which are provided in the next section.&lt;/p&gt;
+&lt;h4 id=&#34;links-to-all-student-evaluations&#34;&gt;Links to All Student Evaluations&lt;/h4&gt;
+&lt;p&gt;Below you will find links to the student evaluations for all&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; of my
+courses. A more thorough evaluation of these results will be providing
+as part of my tenure and promotion applications.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;DSCI 210&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://ql.tc/Vt9qjV&#34;&gt;&lt;strong&gt;Fall 17&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ql.tc/ORYhiI&#34;&gt;&lt;strong&gt;Spring 18&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ql.tc/YqTMNT&#34;&gt;&lt;strong&gt;Fall 18&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ql.tc/laFqaX&#34;&gt;&lt;strong&gt;Fall 20&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;DSCI 330&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://ql.tc/zjrG9z&#34;&gt;&lt;strong&gt;Fall 18&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ql.tc/3ZTaRi&#34;&gt;&lt;strong&gt;Fall 20&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;DSCI 430&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://ql.tc/X8khDD&#34;&gt;&lt;strong&gt;Spring 2019&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;STAT 110&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://ql.tc/kjqpOj&#34;&gt;&lt;strong&gt;Fall 2016&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ql.tc/pOogrF&#34;&gt;&lt;strong&gt;Summer 2017&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ql.tc/Tt6iw5&#34;&gt;&lt;strong&gt;Fall 2017&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ql.tc/iFKOmi&#34;&gt;&lt;strong&gt;Spring 2018&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ql.tc/iFKOmi&#34;&gt;&lt;strong&gt;Spring 2018&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ql.tc/HT0B1h&#34;&gt;&lt;strong&gt;Summer 2018&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ql.tc/d0g8cx&#34;&gt;&lt;strong&gt;Fall 2018&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ql.tc/I4uxyx&#34;&gt;&lt;strong&gt;Spring 2019&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ql.tc/RiL8It&#34;&gt;&lt;strong&gt;Summer 2019&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ql.tc/p29RDZ&#34;&gt;&lt;strong&gt;Fall 2019&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ql.tc/nwAz90&#34;&gt;&lt;strong&gt;Spring 2020&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ql.tc/qaYttZ&#34;&gt;&lt;strong&gt;Summer 2020&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ql.tc/EEA7nA&#34;&gt;&lt;strong&gt;Fall 2020&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;STAT 210&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://ql.tc/BNbLoA&#34;&gt;&lt;strong&gt;Spring 2018&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;STAT 303&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://ql.tc/yaQlXz&#34;&gt;&lt;strong&gt;Fall 2016&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ql.tc/N9KZjQ&#34;&gt;&lt;strong&gt;Fall 2017&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ql.tc/ttJeRm&#34;&gt;&lt;strong&gt;Fall 2020&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;STAT 310&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://ql.tc/nUnrWa&#34;&gt;&lt;strong&gt;Spring 2017&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ql.tc/yGE64m&#34;&gt;&lt;strong&gt;Fall 2018&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ql.tc/lHeeiX&#34;&gt;&lt;strong&gt;Fall 2019&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;STAT 321&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://ql.tc/1VHAQL&#34;&gt;&lt;strong&gt;Spring 2019&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ql.tc/vcQCOk&#34;&gt;&lt;strong&gt;Spring 2020&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;STAT 365&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://ql.tc/VGOtng&#34;&gt;&lt;strong&gt;Spring 2018&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;STAT 489&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://ql.tc/lOqvUh&#34;&gt;&lt;strong&gt;Spring 2017&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Except STAT/DSCI/MATH 395 from spring 2018, as this course was
+team-taught with Dr. Chris Malone, who was the primary instructor. I
+don’t have evaluations for this course. &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Support Activities for Teaching and Learning</title>
+      <link>yardsale8.github.io/criterion1/support_activities/</link>
+      <pubDate>Fri, 15 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>yardsale8.github.io/criterion1/support_activities/</guid>
+      <description>&lt;p&gt;While important, there is more to teaching than instructional
+innovation and designing an effective curriculum. David Moore argued that we
+should treat &lt;a href=&#34;https://www.stat.purdue.edu/~dsmoore/articles/Craft.pdf&#34;&gt;teaching as a
+craft&lt;/a&gt;, and in this
+section I will discuss three attempts at improving my craft through the
+support activities related to teaching and learning.&lt;/p&gt;
+&lt;h3 id=&#34;closed-caption-videos-for-stat-110&#34;&gt;Closed Caption Videos for STAT 110&lt;/h3&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;yardsale8.github.io/img/caption1.png&#34; data-caption=&#34;Figure 1. Making a caption request on MediaSpace is fast and easy. Simply navigate to Caption &amp;amp; Enrich and click submit with the default settings.&#34;&gt;
+&lt;img data-src=&#34;yardsale8.github.io/img/caption1.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;strong&gt;Figure 1.&lt;/strong&gt; Making a caption request on MediaSpace is fast and easy. Simply navigate to Caption &amp;amp; Enrich and click submit with the default settings.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;In August of 2019, I was informed that one of my STAT 110 students was
+hearing impaired and required closed captioning on all video lectures. Making
+this accommodation was no small task, as I run this course using the flipped
+classroom; with a large number of short (or so I thought) lecture videos.
+Luckily, MediaSpace offers a machine captioning service that guarantees 70%
+accuracy. This service is available to anyone at no cost and a request can be
+made by simply navigating to &lt;strong&gt;Caption &amp;amp; Enrich&lt;/strong&gt; and clicking &lt;strong&gt;Submit&lt;/strong&gt;
+with the default settings (&lt;strong&gt;Figure 1&lt;/strong&gt;)&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;yardsale8.github.io/img/caption2.png&#34; data-caption=&#34;Figure 2. While machine captioning does a pretty good job of translation, it has trouble translating math and has no way of knowing that “jump” is JMP.&#34;&gt;
+&lt;img data-src=&#34;yardsale8.github.io/img/caption2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;strong&gt;Figure 2&lt;/strong&gt;. While machine captioning does a pretty good job of translation, it has trouble translating math and has no way of knowing that “jump” is JMP.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;While machine captioning is a good place to start, it has trouble
+translating technical terms (e.g. standard deviation) or JMP (the
+software used in STAT 110—which is pronounced “jump”). &lt;strong&gt;Figure 2&lt;/strong&gt; shows
+some examples of mistakes in machine captioning of one of my recent
+videos for STAT 321.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;yardsale8.github.io/img/caption3.png&#34; data-caption=&#34;Figure 3. Navigating to Caption &amp;amp; Enrich and clicking the edit icon opens the Closed Caption Editor; which allows you to edit the original translation while watching your video.&#34;&gt;
+&lt;img data-src=&#34;yardsale8.github.io/img/caption3.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;strong&gt;Figure 3.&lt;/strong&gt; Navigating to Caption &amp;amp; Enrich and clicking the edit icon opens the Closed Caption Editor; which allows you to edit the original translation while watching your video.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;After reviewing the first few translations, I realized that corrections were
+needed, which can be accomplished using another MediaSpace tool. Once a
+machine translation has completed, navigating back to &lt;strong&gt;Caption &amp;amp; Enrich&lt;/strong&gt;
+(Figure 1) will allow you to edit the translation by clicking the edit icon;
+which opens the Closed Caption Editor (&lt;strong&gt;Figure 3&lt;/strong&gt;). This tool allows you to
+edit the original translation while watching the video.&lt;/p&gt;
+&lt;p&gt;While this is a fairly straight forward process, captioning all 85 videos
+from STAT 110 was a Herculean task. Even though it was a TON of extra work, I
+am glad that I had the experience as I learned several valuable lessons in
+the process. First, captioning 20-minute videos made the need for short
+videos crystal clear. There were times when faced with a particularly long
+video, I found it easier to just make a new, short video. &lt;em&gt;What clearer
+indication could there be that a video is too long?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Besides highlighting some poor speaking habits (“um”; starting sentences
+with “so”) and a tendency to talk too fast; I also realized that habits
+that I developed giving live lectures for 20 years do not necessarily
+translate to videos. In particular, I found that I tend to
+repeat myself when making important points. I don’t think this is a bad
+habit when giving live lectures because we all lose focus and forget
+parts of any lecture. What I am starting to believe is that this habit
+is counterproductive in a video lecture, as the ability to watch the
+video again removes the need for a repetitious speaker.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;yardsale8.github.io/img/caption4.png&#34; data-caption=&#34;Figure 4. There were 85 videos in total that were captioned during the fall, organized here by course module. In addition to learning about the process of efficient captioning of videos, the experience also taught me how to make more effective videos moving forward.&#34;&gt;
+&lt;img data-src=&#34;yardsale8.github.io/img/caption4.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;strong&gt;Figure 4.&lt;/strong&gt; There were 85 videos in total that were captioned during the fall, organized here by course module. In addition to learning about the process of efficient captioning of videos, the experience also taught me how to make more effective videos moving forward.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;The process of watching and captioning 85 of my lecture videos
+(&lt;strong&gt;Figure 4&lt;/strong&gt;) has made me much more mindful of the viewer&#39;s needs and much
+more dedicated to producing short, quality clear videos. Replaying and
+editing new videos in Camtasia has become mandatory and I have also
+started to add machine captions to all new videos. Luckily, making a
+conscious effort to slow down and avoid my bad verbal habits has led to
+better initial translations and hopefully a better experience for the
+learner.&lt;/p&gt;
+&lt;p&gt;Next, I will discuss my on-going efforts to keep a teaching journal.&lt;/p&gt;
+&lt;h3 id=&#34;using-google-calendar-as-a-teaching-journal&#34;&gt;Using Google Calendar as a Teaching Journal&lt;/h3&gt;
+&lt;p&gt;As mentioned in earlier PDP/PDRs, I have been looking for a sustainable
+method of keeping a teaching journal. In the past, I have tried a number
+of approaches including keeping a journal in Apple Notes and using an
+iOS journaling app. I wasn’t able to make a habit out of any of the
+approaches.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;yardsale8.github.io/img/calendar.png&#34; data-caption=&#34;Figure 1: Each class is given its own Google Calendar (left-hand side) and all-day events are used for each class session (right-hand side).&#34;&gt;
+&lt;img data-src=&#34;yardsale8.github.io/img/calendar.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;strong&gt;Figure 1:&lt;/strong&gt; Each class is given its own Google Calendar (left-hand side) and all-day events are used for each class session (right-hand side).
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;For the last two semesters, I have been using events in my Google
+Calendar to keep a journal for each class. While I haven’t developed
+the habit of completing these entries every day, I have been able to keep up
+enough (say 2/3 of all class periods) to suggest this approach is
+sustainable.&lt;/p&gt;
+&lt;p&gt;To illustrate my process, please note that I have created a Google
+Calendar for each of my courses (Figure 1 – left-hand side). For each
+class session, an all-day event is created for the session, where the
+name of the event gives a hint at the material covered that day (Figure
+1 – right-hand side). The actual journal for each class session is kept
+in the notes section of each event. Minimally, these notes outline the
+material covered that day; but generally, also include information about
+how the session(s) went, improvements made between/after each session,
+and suggestions for future improvements. See Figure 2 for two examples
+of the journal entries.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;yardsale8.github.io/img/calendar_details.png&#34; data-caption=&#34;*Figure 2: A teaching journal is kept in the notes section of each class session event. Documentation includes an outline of the day’s topics, a record of how the class session went, and suggestions for future improvement.&#34;&gt;
+&lt;img data-src=&#34;yardsale8.github.io/img/calendar_details.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    *&lt;strong&gt;Figure 2:&lt;/strong&gt; A teaching journal is kept in the notes section of each class session event. Documentation includes an outline of the day’s topics, a record of how the class session went, and suggestions for future improvement.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;h3 id=&#34;tracking-grading-progress&#34;&gt;Tracking Grading Progress&lt;/h3&gt;
+&lt;p&gt;As mentioned in earlier PDRs, moving to a paperless approach to teaching
+has had one unfortunate consequence: It is harder to track grading
+progress. In the past, papers would pile up … anxiety would build … and
+grading would occur. Now that everything is digital, I have lost the
+physical reminder to keep on grading.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;yardsale8.github.io/img/grading_progress.png&#34; data-caption=&#34;Figure 3: My current approach to tracking grading progress. All assignments that need grading are listed under their perspective class and items that are graded on completion are marked with a *. The section on the right-hand-side is used to track today’s progress (and includes the illusive Caught Up check box … I don’t want to talk about that!)&#34;&gt;
+&lt;img data-src=&#34;yardsale8.github.io/img/grading_progress.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;strong&gt;Figure 3:&lt;/strong&gt; My current approach to tracking grading progress. All assignments that need grading are listed under their perspective class and items that are graded on completion are marked with a *. The section on the right-hand-side is used to track today’s progress (and includes the illusive Caught Up check box … I don’t want to talk about that!)
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;This last fall, I implemented a persistent visual reminder of my grading
+progress. On the whiteboard in my office, I keep a list of outstanding
+items in need of grading. I generally assign two types of assignments,
+regular items and items that are graded on completion. Items that are
+graded on completion are differentiated by a * and grading one of these
+“counts” for about 1/3 of a regular assignment. My goal is to grade 1-2
+regular items a day.&lt;/p&gt;
+&lt;p&gt;While this method has made it easier to track my progress, I
+have yet to check the “Caught Up” box more than a couple of times a
+semester. Frankly, this last year was a pretty busy year, due to the
+development a new course each semester, and I look forward to seeing how
+well this approach works during a regular year.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

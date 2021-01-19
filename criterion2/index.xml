@@ -1,0 +1,986 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Scholarly and Creative Achievement or Research | Tenure and Promotion Portfolio</title>
+    <link>yardsale8.github.io/criterion2/</link>
+      <atom:link href="yardsale8.github.io/criterion2/index.xml" rel="self" type="application/rss+xml" />
+    <description>Scholarly and Creative Achievement or Research</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 15 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/yardsale8.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Scholarly and Creative Achievement or Research</title>
+      <link>yardsale8.github.io/criterion2/</link>
+    </image>
+    
+    <item>
+      <title>Development of Educational Web Apps</title>
+      <link>yardsale8.github.io/criterion2/software/</link>
+      <pubDate>Fri, 15 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>yardsale8.github.io/criterion2/software/</guid>
+      <description>&lt;p&gt;I like to program.&lt;/p&gt;
+&lt;p&gt;The act of programming allows me to enter a state of flow
+and I find nothing more enjoyable than whiling the hours away as I dig into a
+complicated development task. Luckily I have been able to find a productive
+avenue for this passion and in this section, I will highlight five different
+web applications that I have had to pleasure to build. Each has not only been
+incorporated in courses at Winona State, but is also open-sourced and freely
+available to anyone on the web. Furthermore, they are build using modern
+technology to be fast, portable, and affordable.&lt;/p&gt;
+&lt;h2 id=&#34;web-applications-for-introducing-statistical-inference&#34;&gt;Web Applications for Introducing Statistical Inference&lt;/h2&gt;
+&lt;p&gt;Most statistics faculty at WSU use a pedagogical approach pioneered by Drs.
+Malone and Hook, where the idea of statistical evidence is introduced using
+random simulations on categorical studies. Subsequently, these ideas are
+formalized initially using the exact binomial test and later on in the
+semester with procedures such as a t-test or chi-square test.&lt;/p&gt;
+&lt;p&gt;There are several advantages to this approach. First, it avoids the details
+of more complicated procedures like the t or chi-square tests. Also,
+this approach allows the introduce core concepts of statistical inference &lt;em&gt;much&lt;/em&gt;
+earlier than more traditional approaches, where these ideas appear in
+the final third of course.&lt;/p&gt;
+&lt;p&gt;Unfortunately, there are two problems with the technologies that was
+traditionally used to implement this pedagogy here at WSU and these first
+three web applications were built to address these issues.&lt;/p&gt;
+&lt;p&gt;A number of my colleagues have used these applications in their courses and I
+have received positive feedback from many. For example, here are comments
+from Dr. Kerby (drawn from her review of my year 2019-2020 PDR).&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Todd has spent a lot of time using his programming expertise to design and
+implement; two experimental design and one simulation applet. I have used the
+simulation applet in my STAT 110 course, in addition to his exact binomial exact
+test applet created previously, and I think they are great! It’s easy
+for students to build a better understanding with no cost to them; all they
+need is the internet. I find the simulation applet very easy and straight
+forward for the students to use.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Here is what Dr. Tisha Hooks had to say in her &lt;a href=&#34;yardsale8.github.io/testimonial/hooks_letter_of_support.pdf/&#34;&gt;letter of
+support&lt;/a&gt;.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;hellip; Todd has gone above and beyond to also improve our statistics program. One
+specific example I’d like to highlight is his creation of web applets that
+are now used across almost all sections of introductory statistics on campus.
+Before these applets were available, I required my students to purchase a
+program (which cost them about $8) that was used to run simulation studies
+(these simulation studies are used to intuitively introduce the idea of
+statistical inference). The software was easy to use for most students, but
+some did struggle and ended up falling behind early in the course. Todd
+identified this added cost to the students and the issues some students had
+using the program as hurdles to their learning, and he decided to do
+something about it. He created a beta version of his own applet, asked us to
+test it and give feedback, and then made the final version available for free
+on the web. I have been using this binomial simulation study applet in my
+introductory courses for about a year now, and it is fantastic. Not only is
+it free, but it’s much easier for students to learn and use than the software
+I used previously. In addition, he created another applet that simplifies the
+computation of binomial probabilities that is now a part of several
+introductory courses, as well. His applets have made my courses better, and
+my students and I both owe him a great deal of gratitude.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;In the coming sections, I will highlight each web application.&lt;/p&gt;
+&lt;h4 id=&#34;the-binomial-simulation-app&#34;&gt;The Binomial Simulation App&lt;/h4&gt;
+&lt;p&gt;This &lt;a href=&#34;https://wsu-datascience.github.io/binomial_simulation/&#34;&gt;binomial simulation
+app&lt;/a&gt; was built to
+replace Tinkerplots and facilitate our approach to looking for statistical
+evidence through random simulations.
+&lt;a href=&#34;https://www.tinkerplots.com&#34;&gt;TinkerPlots&lt;/a&gt; program was the original
+vehicle for performing simulations, but has some drawbacks. It requires
+students to purchase a license through a website hosted in Australia
+(students&amp;rsquo; banks occasionally decline the international purchase), has an
+non-intuitive interface, and currently doesn&#39;t support the newest
+versions of macOS. On top of these issues, creating simulations in
+Tinkerplots is overly complicated and simulations take a VERY long time
+to run.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;yardsale8.github.io/img/binomial_simulation.png&#34; data-caption=&#34;Figure 1. A web application built to replace TinkerPlots and facilitate introducing hypothesis testing through simulation.  This application is fast, affordable, and works on any device with a web browser.&#34;&gt;
+&lt;img data-src=&#34;yardsale8.github.io/img/binomial_simulation.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;strong&gt;Figure 1.&lt;/strong&gt; A web application built to replace TinkerPlots and facilitate introducing hypothesis testing through simulation.  This application is fast, affordable, and works on any device with a web browser.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;This application was quickly adopted by a number of my colleagues over the
+last few years. It is modern, running on the client-side in the user’s
+browser, more intuitive, and is FAST! Students master this
+application much quicker than Tinkerplots and running 1+ million trials takes
+seconds; where TinkerPlots took minutes to perform 1,000 trials and would
+crash if you tried many more trials.&lt;/p&gt;
+&lt;p&gt;Allowing for a very large number of trials reduces the variability in the
+simulation outcomes. I would argue that this reduces the overall cognitive
+load, as there is no need to account for the variability between two
+student’s results. Furthermore, a large number of trials also facilitates
+talking about the law of large numbers and moving on to the exact binomial
+test.&lt;/p&gt;
+&lt;h4 id=&#34;a-web-applications-for-the-exact-binomial-test&#34;&gt;A Web Applications for the Exact Binomial Test&lt;/h4&gt;
+&lt;p&gt;The Hooks-Malone approach transitions from the less-formal, more initiative
+simulations to the more-formal exact binomial test. Unfortunately, the
+technology used to run the exact binomial test varied from instructor to
+instructor and was frankly fairly clunky. Some instructors used a spread
+sheet to compute and add up individual probabilities (overly complicated in
+my view) and others relied on JMP to compute a p-value (a black box with its
+own quirks). I set out to create an application that would allow students to
+quickly and easily complete the p-value for the exact binomial test while
+still providing a bridge to understanding the connection between simulations
+and this procedure.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;yardsale8.github.io/img/exact_binomial.png&#34; data-caption=&#34;Figure 2: The exact binomial web application in action. Students can use this application to compute the p-value for the exact binomial test. The app is hosted for free on GitHub and has practically no limit to the number of concurrent users.&#34;&gt;
+&lt;img data-src=&#34;yardsale8.github.io/img/exact_binomial.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;strong&gt;Figure 2:&lt;/strong&gt; The exact binomial web application in action. Students can use this application to compute the p-value for the exact binomial test. The app is hosted for free on GitHub and has practically no limit to the number of concurrent users.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;The &lt;a href=&#34;https://wsu-datascience.github.io/exact_binomial/&#34;&gt;exact binomial web
+application&lt;/a&gt;, allows
+students to compute the p-value for the exact binomial test (see &lt;strong&gt;Figure
+2&lt;/strong&gt;). Similar to the binomial simulation application, this app is fast,
+intuitive, free, affordable to maintain, and available on any device with a
+modern browser. The application is also being used by Dr. Silas Bergen (STAT 110)
+and Dr. Tisha Hooks (STAT 110, STAT 210, and STAT 310).&lt;/p&gt;
+&lt;h4 id=&#34;exact-binomial-power-app&#34;&gt;Exact Binomial Power App&lt;/h4&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;yardsale8.github.io/img/exact_binomial_power.png&#34; data-caption=&#34;Figure 3: The exact binomial power application is used to introduce the concepts of type I error rate and power in STAT 310 Intermediate Statistics.&#34;&gt;
+&lt;img data-src=&#34;yardsale8.github.io/img/exact_binomial_power.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;strong&gt;Figure 3:&lt;/strong&gt; The exact binomial power application is used to introduce the concepts of type I error rate and power in STAT 310 Intermediate Statistics.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;I have also created a &lt;a href=&#34;https://yardsale8.github.io/exact_binomial_power/&#34;&gt;second
+application&lt;/a&gt; which builds
+on the exact binomial application and focuses on computing the Type I error
+rate and power for an exact binomial test (see &lt;strong&gt;Figure 3&lt;/strong&gt;). This application
+is used in STAT 310 by myself and Dr. Hooks.&lt;/p&gt;
+&lt;h4 id=&#34;categorical-bootstrap-app&#34;&gt;Categorical Bootstrap App&lt;/h4&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;yardsale8.github.io/img/exact_binomial_power.png&#34; data-caption=&#34;Figure 4: The categorical bootstrap web applications addresses the primary shortcoming of the StatKey CI for a Proportion app by providing a better summary of the information from the original and bootstrap samples.&#34;&gt;
+&lt;img data-src=&#34;yardsale8.github.io/img/exact_binomial_power.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;strong&gt;Figure 4:&lt;/strong&gt; The categorical bootstrap web applications addresses the primary shortcoming of the StatKey CI for a Proportion app by providing a better summary of the information from the original and bootstrap samples.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;The final application, the &lt;a href=&#34;https://wsu-datascience.github.io/categorical_bootstrap/&#34;&gt;categorical bootstrap
+app&lt;/a&gt; is the latest
+addition and rounds out my suite of client-side web applications for one
+sample categorial data.  This application allows students to apply &lt;a href=&#34;https://en.wikipedia.org/wiki/Bootstrapping_%28statistics%29&#34;&gt;the bootstrap&lt;/a&gt; to scenarios involving a single categorial sample and provides an intuitive method for introducing the concept of a confidence interval.&lt;/p&gt;
+&lt;p&gt;Many of the faculty at Winona State use the &lt;a href=&#34;http://www.lock5stat.com/StatKey/&#34;&gt;StatKey web
+apps&lt;/a&gt; as part of out class, but the
+&lt;a href=&#34;http://www.lock5stat.com/StatKey/&#34;&gt;StatKey CI for a Proportion&lt;/a&gt; app has some
+shortcomings, namely the interface for entering and subsequent lack of a plot
+of the data. I address these issues with this application and have
+subsequently replaced the StatKey app in STAT 110.&lt;/p&gt;
+&lt;h2 id=&#34;web-applications-for-designing-and-running-virtual-experiments&#34;&gt;Web Applications for Designing and Running Virtual Experiments&lt;/h2&gt;
+&lt;p&gt;STAT 321 Industrial Design of Experiments is a course focused on teaching
+students to design, implement, and analyze experiments. My colleagues have
+designed a suite of &amp;ldquo;laboratory&amp;rdquo; experiments intended to provide students
+with hands-on experience implementing and running an experiment from
+start to finish. These labs are a standard part of my design for face-to-face
+sections of STAT 321, but the response to Covid-19 threw a wrench in my
+original plans last spring semester. It is hard to fire catapults or drop
+helicopters virtually.&lt;/p&gt;
+&lt;p&gt;To replicate the experience of designing and running experiments virtually, I
+have developed two web apps that simulate an ultrasonic welding experiment
+(linked below). &lt;a href=&#34;https://medcraveonline.com/MSEIJ/modeling-and-prediction-of-weld-strength-in-ultrasonic-metal-welding-process-using-artificial-neural-network-and-multiple-regression-method.html&#34;&gt;Anand et al.
+(2018)&lt;/a&gt;,
+conducted an ultrasonic welding experiment and then fit a multivariate
+regression model to the results. My web application is based on their regression model and
+provide a random, repeatable simulation of this process. An important feature of
+this model is there is a nice local maximum inside the design space,
+allowing for the application of response surface designs.&lt;/p&gt;
+&lt;h4 id=&#34;two-simulated-experiment-web-applications&#34;&gt;Two Simulated Experiment Web Applications&lt;/h4&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;yardsale8.github.io/img/welding_experiments.png&#34; data-caption=&#34;Figure 7. Two web applications that allow students to design and run a simulated ultrasonic welding experiment. The left-hand application facilitates both full and fractional factorial designs. The right-hand application adds four operators to allow for blocking.&#34;&gt;
+&lt;img data-src=&#34;yardsale8.github.io/img/welding_experiments.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;strong&gt;Figure 7.&lt;/strong&gt; Two web applications that allow students to design and run a simulated ultrasonic welding experiment. The left-hand application facilitates both full and fractional factorial designs. The right-hand application adds four operators to allow for blocking.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;The two applications are illustrated in &lt;strong&gt;Figure 8&lt;/strong&gt;, where &lt;a href=&#34;https://wsu-datascience.github.io/weld_strength_experiment/&#34;&gt;left-hand
+application&lt;/a&gt;
+facilitates a full or fractional factorial design, while &lt;a href=&#34;https://wsu-datascience.github.io/welding_strength_blocking/&#34;&gt;right-hand
+application&lt;/a&gt;
+adds an imaginary operator to allow for blocked designs.&lt;/p&gt;
+&lt;p&gt;I have several additions that I would like to make to these applications.
+First, I would like to improve the underlying model, perhaps by using some of
+the other models found in the literature. Second, I would like to add the
+option to perform trials at center or radial points, which would facilitate a
+broader range of designs. There are also tentative plans to add additional
+factors, covariates, temporal effects, and/or other information (like cost
+and time) to allow for wider application. Finally, I also plan to abstract my
+current code to allow turn this site into a framework that can be applied to
+another scenario without much of a hassle. This would allow me to build an
+entire suite of virtual experiments that are open source and can be shared
+with the statistics education community.&lt;/p&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;In this section, evidence was provided of substantial contributions in the
+area of technologically delivered academic products (See Appendix G of the
+Master Agreement) in the form of six web applications that are used my
+colleagues, as well as my own, courses. Each web app is modern, fast, and
+easy to use; and all are freely available on the web on any device with a
+modern browser.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Presentations at Professional Meetings</title>
+      <link>yardsale8.github.io/criterion2/presentations/</link>
+      <pubDate>Fri, 15 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>yardsale8.github.io/criterion2/presentations/</guid>
+      <description>&lt;p&gt;Many areas of data science require strong programming skills and I have given
+several presentations in recent years on two topics: introducing software
+development best practices into data science curriculum and talking data
+management algorithms starting with data verbs.&lt;/p&gt;
+&lt;h2 id=&#34;teaching-data-science-students-to-write-clean-code&#34;&gt;Teaching Data Science Students to Write Clean Code&lt;/h2&gt;
+&lt;p&gt;For close to 10 years, I have had the opportunity to teach students
+programming on one level or another; be it introductory/advanced CS or
+various DSCI courses. One worry that I have had (and I suspect I share with
+other STAT/DSCI instructors) is how to go about evaluating and improving
+students’ code. This year, I have spent some time learning what the experts,
+namely experienced software engineers, had to say about clean code. In this
+section I will discuss two presentations that shared what I have learned.&lt;/p&gt;
+&lt;h3 id=&#34;evaluating-name-southern-mn-stat-chat-at-st-olaf-college-april-26-2019&#34;&gt;Evaluating Name, Southern MN Stat Chat at St. Olaf College, April 26, 2019&lt;/h3&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;yardsale8.github.io/img/names.png&#34; data-caption=&#34;Figure 1. I shared what I have learned about evaluating the quality of variable and function names at the Southern MN Stat Chat.&#34;&gt;
+&lt;img data-src=&#34;yardsale8.github.io/img/names.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;strong&gt;Figure 1.&lt;/strong&gt; I shared what I have learned about evaluating the quality of variable and function names at the Southern MN Stat Chat.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;My first talk on clean code focused on evaluating the quality of variable and
+function names in code and was presented at the Southern MN Stat Chat at St.
+Olaf College, April 26, 2019. This talk has become a regular feature in my
+DSCI 330 course and parts of this material were incorporated into the next
+talk&lt;/p&gt;
+&lt;h3 id=&#34;teaching-data-science-students-to-write-clean-code-sdss-2019-belleview-wa&#34;&gt;Teaching Data Science Students to Write Clean Code, SDSS 2019, Belleview, WA.&lt;/h3&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;yardsale8.github.io/img/clean.png&#34; data-caption=&#34;Figure 2. The clean code talk tells the story of Doug, a budding data scientist intent on cleaning up his code, earning an A, and thwarting his nemesis&amp;ndash;the mean Dr. Iverson.&#34;&gt;
+&lt;img data-src=&#34;yardsale8.github.io/img/clean.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;strong&gt;Figure 2.&lt;/strong&gt; The clean code talk tells the story of Doug, a budding data scientist intent on cleaning up his code, earning an A, and thwarting his nemesis&amp;ndash;the mean Dr. Iverson.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;A second extended talk on teaching students to write clean code was presented
+at the 2019 Symposium on Data Science &amp;amp; Statistics (SDSS 2019) in Belleview,
+WA. This talk built on the last, but also illustrated the importance of
+teaching students to refactor code and run unit tests. The talk had a unique
+format, presenting the material by telling the story of a fictitious data
+science student intent on getting an A.&lt;/p&gt;
+&lt;p&gt;Dr. Kelly McConville, Associate Professor of Statistics at Reed College and
+program chair of the SDSS 2019, attended the talk and I asked her for comments.
+Here is what she had to say in her &lt;a href=&#34;yardsale8.github.io/testimonial/mcconville_letter_of_support.pdf&#34;&gt;letter of
+support&lt;/a&gt;.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I can safely say that of all of the talks at the conference, Dr. Iverson&#39;s
+talk had the most direct impact on my teaching. I am currently teaching a
+data science course and added several of Dr. Iverson&#39;s suggestions into both
+my teaching and assessment materials. (His talk is also helping me to write
+better code.)&lt;/p&gt;
+&lt;p&gt;I would also like to address Dr. Iverson&#39;s presentation skills as I felt that
+he gave the audience a good understanding of him as a teacher. Dr. Iverson
+has a fun, playful, and rather self-deprecating presentation persona. I can
+see this persona making him very accessible to his students. He taught the
+audience about writing clean code (a rather dry topic usually) through a fun
+fictional story about a student assignment where the student is the hero and
+the professor (Dr. Iverson) is the villain. His student iterates through
+refactoring their code, going for rather messy code to nice, clean code.
+Throughout the iterations, Dr. Iverson gives us concrete suggestions of ways
+code should be refactored and clearly explains why these are good practices.
+He used pictures, highlighted code chunks, and even stick figures to help
+tell the story in a clean and engaging way. He reinforced the key takeaway
+messages throughout the talk and provided us with useful additional resources
+at the end. I was wildly impressed with the amount of effectively covered
+content in his talk.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Next I will discuss two presentations, a poster and a talk, on teaching data
+management with data verbs.&lt;/p&gt;
+&lt;h2 id=&#34;data-management-with-data-verbs&#34;&gt;Data Management with Data Verbs&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;yardsale8.github.io/img/verbs.png&#34; data-caption=&#34;Figure 3. Dr. Chris Malone and I submitted an extended abstract (pictured in part here) that was peer-reviewed and accepted as a talk for SDSS 2020.&#34;&gt;
+&lt;img data-src=&#34;yardsale8.github.io/img/verbs.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;strong&gt;Figure 3.&lt;/strong&gt; Dr. Chris Malone and I submitted an extended abstract (pictured in part here) that was peer-reviewed and accepted as a talk for SDSS 2020.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;Over the last two years, I have been collaborating with Dr. Chris Malone on
+implementing a new data science curriculum focused on data verbs. We
+presented our initial work in a poster at SDSS 2019 (Dr. Malone was the
+primary author) and our extended abstract on this topic was accepted as &lt;a href=&#34;https://ww2.amstat.org/meetings/sdss/2020/onlineprogram/Program.cfm&#34;&gt;a
+talk for SDSS 2020&lt;/a&gt; (I
+was the primary author and presenter&amp;ndash;see &lt;strong&gt;Figure 3&lt;/strong&gt;). I discuss each presentation below.&lt;/p&gt;
+&lt;h3 id=&#34;using-data-verbs-to-teach-the-management-of-tabular-data-sdss-2019-belleview-wa&#34;&gt;Using Data Verbs to Teach the Management of Tabular Data, SDSS 2019, Belleview, WA.&lt;/h3&gt;
+&lt;p&gt;Dr. Chris Malone (primary author) and I presented on our approach to teaching
+data verbs in a software/technology agnostic fashion at SDSS 2019. This is
+material that has grown out of our DSCI 210 introductory data science course,
+but we think will also influence other areas of the curriculum such as DSCI
+325 The Management of Structured Data and DSCI 430 Data Science at Scale. I
+gave a follow-up talk on our efforts the following year.&lt;/p&gt;
+&lt;h3 id=&#34;data-management-with-data-verbs-sdss-2020-virtual&#34;&gt;Data Management with Data Verbs, SDSS 2020, Virtual.&lt;/h3&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;yardsale8.github.io/img/verbs_talk.png&#34; data-caption=&#34;Figure 4. My SDSS 2020 talk shared many of the ideas and activities on teaching data management with data verbs developed in collaboration with Dr. Chris Malone .&#34;&gt;
+&lt;img data-src=&#34;yardsale8.github.io/img/verbs_talk.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;strong&gt;Figure 4.&lt;/strong&gt; My SDSS 2020 talk shared many of the ideas and activities on teaching data management with data verbs developed in collaboration with Dr. Chris Malone .
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;This talk presented our updated approach and encouraged the audience to teach
+data management in a software-agnostic style (discussed in more detail in the
+section on &lt;a href=&#34;yardsale8.github.io/criterion1/curriculum_design/&#34;&gt;curriculum development&lt;/a&gt;. The talk incorporates our previous
+activities for teaching data management with data verbs, as well as new
+material on teaching the management of unstructured data through data
+origami.&lt;/p&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;Communicating our work with a wider audience is an important part of academic
+work, and in this section, you have seen evidence of effective dissemination
+of new approaches to data science curriculum at both local and national meetings.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Workshop Development and Delivery</title>
+      <link>yardsale8.github.io/criterion2/workshops/</link>
+      <pubDate>Fri, 15 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>yardsale8.github.io/criterion2/workshops/</guid>
+      <description>&lt;p&gt;Over the last four years, I have created and executed four pre-conference
+workshops in collaboration with my WSU colleagues. These activities fall under
+the category of growth of peers and other scholars (See Appendix G of the
+Master Agreement) and constitute a major part of my scholarly and creative
+output since joining the Department of Mathematics and Statistics in 2016.&lt;/p&gt;
+&lt;p&gt;I will start with a discussion of the USCOTS 2019 pre-conference workshop
+decimating the WSU core data science curriculum that was presented by all six
+data science faculty. I took the leadership role in conceptualizing,
+proposing, and organizing the program for the workshop and there is evidence
+of a resounding success. I see this workshop as the crowning jewel in this
+area.&lt;/p&gt;
+&lt;p&gt;The section is rounded out with a discussion of a sequence of three workshops
+on data visualization that I planned and executed with my colleague Dr. Silas
+Bergen. The opportunity to present three workshops on similar content allowed
+us the opportunity to hone the content and delivery, and resulting in a
+polished and successful workshop at SDSS 2019.&lt;/p&gt;
+&lt;p&gt;By the end of this section, you will see ample evidence of meaningful
+contribution to the scholarly growth of peers and other scholars.&lt;/p&gt;
+&lt;h2 id=&#34;a-core-curriculum-for-undergraduate-data-science-uscots-2019-college-station-pa&#34;&gt;A Core Curriculum for Undergraduate Data Science, USCOTS 2019, College Station, PA&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;yardsale8.github.io/img/uscots19_core_banner.png&#34; data-caption=&#34;Figure 1. The entire WSU data science faculty presented our core data science curriculum in a 2-day pre-conference workshop at USCOTS 2019. On top of being in charge of the original proposal and the subsequent organization and division of labor, I also contributed to half of the design and implementation of sessions .&#34;&gt;
+&lt;img data-src=&#34;yardsale8.github.io/img/uscots19_core_banner.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;strong&gt;Figure 1.&lt;/strong&gt; The entire WSU data science faculty presented our core data science curriculum in a 2-day pre-conference workshop at USCOTS 2019. On top of being in charge of the original proposal and the subsequent organization and division of labor, I also contributed to half of the design and implementation of sessions .
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;For years, the data science faculty at WSU have been expressing a desire to
+share our DSCI curriculum with a larger audience. In January of 2018, five of
+these faculty attended a workshop on data science curriculum. Our takeaway
+was we have a head start on the conceptualization and development of data
+science curriculum and should find a venue to share what we have learned.&lt;/p&gt;
+&lt;p&gt;Based on our many discussions on this topic, I submitted a proposal for a
+16-hour pre-conference workshop at USCOTS 2019 (&lt;a href=&#34;https://docs.google.com/document/d/1VBNfOcqOWcI8C5cVFfuV9Jy7s2FajHGcrCiRgzX0hck/edit?usp=sharing&#34;&gt;available
+here&lt;/a&gt;)
+that was ultimately accepted. The resulting workshop consisted of 4 four-hour
+sessions, one dedicated to each of the following topics: the introductory
+course, data visualization, the management of data, and statistical learning
+theory. We believe that these four topics should form the core of any
+data science curriculum and hoped to convince the audience that all programs
+should include courses on each.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;yardsale8.github.io/img/uscots19_core_block_1_and_3.png&#34; data-caption=&#34;Figure 2. The two blocks that I help create and present scored high in terms of overall quality, presentation, and the quality of the break-out activities.&#34;&gt;
+&lt;img data-src=&#34;yardsale8.github.io/img/uscots19_core_block_1_and_3.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;strong&gt;Figure 2.&lt;/strong&gt; The two blocks that I help create and present scored high in terms of overall quality, presentation, and the quality of the break-out activities.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;I create and present two of the four blocks, collaborating with Dr. Chris
+Malone to the first block (The Intro Class) and Drs. Hooks and Kerby on the
+third (Data Management). As shown in &lt;strong&gt;Figure 2&lt;/strong&gt;, both of these sections
+score high in overall format, presentation, and the quality of break-out
+activities.&lt;/p&gt;
+&lt;p&gt;Finally, I would like to highlight our success on two additional goals by focusing on some responses to the questions &lt;em&gt;What were the most valuable aspects of the workshop?&lt;/em&gt; (&lt;strong&gt;Most Valuable:&lt;/strong&gt; ) and &lt;em&gt;If you were to implement one thing from the workshop, what would that be?&lt;/em&gt; (&lt;strong&gt;Implement&lt;/strong&gt;).&lt;/p&gt;
+&lt;p&gt;First, we wanted to make it clear that data science was a science
+in its own right and it is not sufficient to simply bundle up existing data science and statistic courses. The following comments suggest that we hit the mark.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Most Valuable:&lt;/strong&gt; &amp;ldquo;&lt;em&gt;For me, the most valuable aspect was to learned what is data science and how to teach it. As a statistician I never thought about the cleaning and manipulation of data, only when necessary. So it is interesting to see part of a course dedicated to this&lt;/em&gt;&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Most Valuable:&lt;/strong&gt; &amp;ldquo;&lt;em&gt;breaking several myths and pre-conceived notion I have about data science being a statistician&lt;/em&gt;&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Most Valuable:&lt;/strong&gt;&amp;quot;&lt;em&gt;All aspects of the workshops are very valuable. The understanding that DS should not be just a combination of stats courses and CS courses is new to me, and a great advice.&lt;/em&gt;&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Implement:&lt;/strong&gt;&amp;quot;&lt;em&gt;The most important takeaway I got from this workshop is the philosophy of teaching data science&amp;ndash;the fact that it is distinct from statistics and the importance of understanding data science ideas apart from a particular programming language. I hope to help my school build a DS program that is more than a repackaging of existing math/stat/comp. science courses.&lt;/em&gt;&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Next, we think that it is important to develop curriculum &lt;em&gt;software or
+technology agnostic&lt;/em&gt;. Instead of teaching a specific technology, you should
+instead teach core concepts, and then translate them to various platforms.
+The following comments suggest we were also successful getting this idea
+across.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Most Valuable:&lt;/strong&gt; &amp;ldquo;&lt;em&gt;Loved the software agnostic activities and want to incorporate that more into our courses!&lt;/em&gt;&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Most Valuable:&lt;/strong&gt; &amp;ldquo;&lt;em&gt;The very &amp;ldquo;hands-on&amp;rdquo; activities that emphasized software-agnostic learning of data science concepts.&lt;/em&gt;&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Most Valuable:&lt;/strong&gt;&amp;quot;&lt;em&gt;I LOVED the on-paper data wrangling exercises. And just learning more about the overall structure of your program was helpful; you&#39;d obviously thought a lot about what skills were important, etc.&lt;/em&gt;&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Implement:&lt;/strong&gt;&#39;&lt;em&gt;I am definitely going to add more non-programming data wrangling to our stats course that teaches dplyr. It will be a useful first step that we are currently missing.&lt;/em&gt;&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Implement:&lt;/strong&gt;&amp;quot;&lt;em&gt;Software agnostic activities&lt;/em&gt;&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;yardsale8.github.io/img/uscots19_core_overall.png&#34; data-caption=&#34;Figure 3. Participants were very satisfied with the workshop overall.&#34;&gt;
+&lt;img data-src=&#34;yardsale8.github.io/img/uscots19_core_overall.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;strong&gt;Figure 3.&lt;/strong&gt; Participants were very satisfied with the workshop overall.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;In the end, we hoped that we could put together a workshop that provides value
+and insight on the creation of a data science program. Responses to the
+participant survey, in particular the participant ratings on the overall workshop shown
+in &lt;strong&gt;Figure 3&lt;/strong&gt; and the comments highlighted above suggest that we were very
+successful.&lt;/p&gt;
+&lt;h2 id=&#34;data-visualization-workshops&#34;&gt;Data Visualization Workshops&lt;/h2&gt;
+&lt;p&gt;Next, I will discuss a series of three workshops that I developed in
+collaboration with Dr. Bergen. The final result was an invitation to present
+a pre-conference workshop presented at SDSS 2019 that was a resounding
+success.&lt;/p&gt;
+&lt;h4 id=&#34;web-scraping-and-data-visualization-with-python-ad-tableau-uscots-2017&#34;&gt;Web Scraping and Data Visualization with Python ad Tableau. USCOTS 2017&lt;/h4&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;yardsale8.github.io/img/uscots17_banner.png&#34; data-caption=&#34;Figure 4. Dr. Bergen and I ran a USCOTS workshop that took participants through the entire data cycle.&#34;&gt;
+&lt;img data-src=&#34;yardsale8.github.io/img/uscots17_banner.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;strong&gt;Figure 4.&lt;/strong&gt; Dr. Bergen and I ran a USCOTS workshop that took participants through the entire data cycle.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;In May 2017, Dr. Silas and I ran a &lt;a href=&#34;https://www.causeweb.org/cause/uscots/uscots17/workshop/2&#34;&gt;USCOTS pre-conference
+workshop&lt;/a&gt; that
+took the participants through the entire data cycle. In the first half of the
+workshop (&lt;a href=&#34;https://github.com/WSU-DataScience/USCOTS2017_workshop&#34;&gt;material available
+here&lt;/a&gt;) I taught the
+participants focused on teaching the basics of the Python programming
+language, followed by the basics of web scraping. After the participants had a
+handle on basic Python tools, they were introduced to scraping the web using
+the Beautiful Soup module. Then, they learned the basic theory around
+visualization, which was subsequently applied to the data from the Current
+using Tableau.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;yardsale8.github.io/img/uscots17.png&#34; data-caption=&#34;Figure 5. Almost all participants found my portion of the workshop useful.&#34;&gt;
+&lt;img data-src=&#34;yardsale8.github.io/img/uscots17.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;strong&gt;Figure 5.&lt;/strong&gt; Almost all participants found my portion of the workshop useful.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;My portion of the workshop was well-received. &lt;strong&gt;Figure 5&lt;/strong&gt; illustrates that
+almost all participants were satisfied. I would also like to share a note
+regarding the workshop that one happy participant sent to Dr. Nicole
+Williams, Chair of the department.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Dear Professor &amp;amp; Department Chair Williams,&lt;/p&gt;
+&lt;p&gt;I am sending to a quick note to compliment your department and
+university for hiring Dr. Silas Bergen and Dr. Todd Iverson.  It
+is *not *a routine practice of mine to take the time to contact
+the leadership of workshop presenters.  But, in this case, I wanted to
+do so.  &lt;/p&gt;
+&lt;p&gt;I was deeply impressed by the 2-day workshop on Web Scraping &amp;amp; Data
+Visualization that Drs. Bergen &amp;amp; Iverson provided last week at the
+U.S. Conference on Teaching Statistics (USCOTS).  It was clear that
+both of them have developed not only the content knowledge, but that
+they also continue to hone their pedagogical knowledge for
+facilitating the knowledge and skills of their learners in the
+emerging field of data science.  From what I was able to discern, they
+had a tall order to fill because there was much variation in the prior
+knowledge and skills of those of us who enrolled in the workshop.  I,
+for one, was completely new to the software they used (Python and
+Tableau) while others appeared to know one or the other, or a similar
+type of program making the transfer more easily.  Still, what was
+particularly noteworthy about both Silas and Todd, was their
+attentiveness to my struggles.  Rather than dismiss me as one who
+would not &amp;ldquo;get it,&amp;rdquo; they each took the time to sit near me, while the
+other was presenting, and offer countless help, as needed. And, while
+doing that, they also showed awareness of the other learners and
+addressed their needs, too.  Their patience and kindness were much
+appreciated.&lt;/p&gt;
+&lt;p&gt;While I am not seeing myself as a future &amp;ldquo;web scraper,&amp;rdquo; I felt that
+the exposure I received from Todd will be very helpful to me as I now
+better understand the process others go through, including the
+potential for errors, when creating more manageable &amp;ldquo;big data&amp;rdquo; sets.
+ The exposure to data visualization was quite intriguing and set the
+stage for the conference&#39;s opening talk (which highly reflected ideas
+Silas covered) and other sessions I attended where additional software
+(besides Tableau) was introduced.  I appreciate how Silas took the
+time to first cover the Elementary Perceptual Task (EPT) principles
+that underlie quality visualizations before working with Tableau.  &lt;/p&gt;
+&lt;p&gt;This is turning into more than a quick note, so I will conclude here.
+ In sum, it is my impression that your department and university are
+fortunate to have Dr. Bergen and Dr. Iverson.  Undoubtedly, they will
+continue to grow professionally and benefit not only their students,
+but faculty colleagues, as well.&lt;/p&gt;
+&lt;p&gt;Sincerely,&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Rachelle Kisst Hackett&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;There were also several positive
+comments (see comments 1 and 2 below), but there was still some room for
+improvement. You can access the entire &lt;a href=&#34;https://ql.tc/qxmm0k&#34;&gt;participant
+survey here&lt;/a&gt;, but I would like to share four comments, two
+positive and two on suggested improvements.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;“&lt;em&gt;Finally learning Python and seeing how to implement it in a data science context!&lt;/em&gt;”&lt;/li&gt;
+&lt;li&gt;“&lt;em&gt;The mini-tasks in both the Python and Tableau portions were incredibly useful to learn as we went.&lt;/em&gt;”&lt;/li&gt;
+&lt;li&gt;“&lt;em&gt;I felt the Python portion was a little fast-paced, but I was able to catch up on the breaks.&lt;/em&gt;”&lt;/li&gt;
+&lt;li&gt;“&lt;em&gt;A lot of material to cover in the time allotted. It could be longer or the two topics could even be split into two workshops&lt;/em&gt;,”&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The last comment, in particular, rang true and we have taken this feedback to heart
+in subsequent workshops by shifting the entire focus to data visualization.&lt;/p&gt;
+&lt;h4 id=&#34;data-visualization-theory-and-pedagogy-icots-2018-kyoto-japan&#34;&gt;Data Visualization Theory and Pedagogy, ICOTS 2018, Kyoto, Japan&lt;/h4&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;yardsale8.github.io/img/icots18_banner.png&#34; data-caption=&#34;Figure 6. Dr. Bergen and I ran an ICOTS workshop focusing on data visualization theory and pedagogy.&#34;&gt;
+&lt;img data-src=&#34;yardsale8.github.io/img/icots18_banner.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;strong&gt;Figure 6.&lt;/strong&gt; Dr. Bergen and I ran an ICOTS workshop focusing on data visualization theory and pedagogy.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;In July of 2018, Dr. Silas Bergen and I presented a workshop on the
+foundation of data visualization theory and pedagogy at &lt;a href=&#34;http://icots.info/10/?workshop=E&#34;&gt;ICOTS
+2018&lt;/a&gt; in Kyoto, Japan. In contrast to our
+first workshop, which blended two separate topics over four 4-hour blocks,
+this time we devoted our time exclusively to data visualization. We focused
+on three components of visualization: the grammar of graphics, the elementary
+perceptional task, and graphic design gestalt principles throughout
+four 1-hour sessions. While we had a very low response rate, the results of a
+participant survey are available here: &lt;a href=&#34;https://ql.tc/e3IGkD&#34;&gt;Participant
+Survey&lt;/a&gt;.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;yardsale8.github.io/img/icots18_block2.png&#34; data-caption=&#34;Figure 7. I developed and ran the second block of the workshop, which compare introduced visualization in Altair (Python) in hopes of reinforcing the concepts of the grammar of graphics introduced in the first block.  This portion of the workshop was not as well-received as I would like, but I was improved the following year (see Figure 9)&#34;&gt;
+&lt;img data-src=&#34;yardsale8.github.io/img/icots18_block2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;strong&gt;Figure 7.&lt;/strong&gt; I developed and ran the second block of the workshop, which compare introduced visualization in Altair (Python) in hopes of reinforcing the concepts of the grammar of graphics introduced in the first block.  This portion of the workshop was not as well-received as I would like, but I was improved the following year (see &lt;strong&gt;Figure 9&lt;/strong&gt;)
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;I was in charge of the second block, which was designed to reinforce the
+concepts from the grammar of graphics by constructing visualizations using
+the Altair in Python. Unfortunately, this part of the workshop was not as
+well-received as I would like. The pacing of this block was off,
+resulting in spending too much time &amp;ldquo;in the weeds&amp;rdquo; and not enough looking at interesting visualizations.  The effect of this mismanagement of time can be seen in the participant responses in &lt;strong&gt;Figure 7&lt;/strong&gt; as well as the comments provided below.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&amp;ldquo;&lt;em&gt;I wasn&#39;t particularly interested in learning Python, so have less opinion about that. I wasn&#39;t quite sure how the Python portion and Tableau portion fit together&lt;/em&gt;&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;&lt;em&gt;A little less detail on inner workings of Python, so we would have time to get more interesting graphs.&lt;/em&gt;&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Luckily, I was able to address these issues in a workshop the following summer (see below).&lt;/p&gt;
+&lt;h4 id=&#34;data-visualization-theory-and-pedagogy-sdss-2019-belleview-wa&#34;&gt;Data Visualization Theory and Pedagogy, SDSS 2019, Belleview, WA&lt;/h4&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;yardsale8.github.io/img/sdss19_banner.png&#34; data-caption=&#34;Figure 8. Dr. Bergen and I were invited to run a workshop on data visualization at SDSS 2019.&#34;&gt;
+&lt;img data-src=&#34;yardsale8.github.io/img/sdss19_banner.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;strong&gt;Figure 8.&lt;/strong&gt; Dr. Bergen and I were invited to run a workshop on data visualization at SDSS 2019.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;Dr. Bergen and I were invited to present our workshop on data visualization
+at a &lt;a href=&#34;https://ww2.amstat.org/meetings/sdss/2019/onlineprogram/Program.cfm&#34;&gt;pre-conference workshop for SDSS
+2019&lt;/a&gt;.
+This was our second time presenting this workshop (see above), and we made a
+number of improvements.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;yardsale8.github.io/img/sdss19_block2.png&#34; data-caption=&#34;Figure 9. Again, I in charge of the second block of the workshop, but this time we compared the code for visualization in Altair (Python) and ggplot (R) to reinforce the concepts of the grammar of graphics introduced in the first block.&#34;&gt;
+&lt;img data-src=&#34;yardsale8.github.io/img/sdss19_block2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;strong&gt;Figure 9.&lt;/strong&gt; Again, I in charge of the second block of the workshop, but this time we compared the code for visualization in Altair (Python) and ggplot (R) to reinforce the concepts of the grammar of graphics introduced in the first block.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;Based on participant feedback from the last workshop, I made several changes
+to the second block of the workshop. Instead of getting bogged down in the details of Python and Altair, participants compared the code for visualizations constructed with the Altair in Python and ggplot in R. This was a more successful approach (compare &lt;strong&gt;Figures 7 &amp;amp; 9&lt;/strong&gt;).  Full results of the participant survey are &lt;a href=&#34;https://ql.tc/zcaZSK&#34;&gt;available here&lt;/a&gt; and I have provided a number of positive responses below.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Select responses to &amp;ldquo;What were the most valuable aspects of the workshop?&amp;quot;&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&amp;ldquo;&lt;em&gt;&amp;hellip; I also really liked learning how to use ggplot in Python, altair, and Tableau. I felt like the examples and activities used in the teaching sessions were well structured and I took away some good tips to use in my teaching.&lt;/em&gt;&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;&lt;em&gt;Hands on application of grammar of graphics theory in ggplot and altair.&lt;/em&gt;&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;&lt;em&gt;Showing altair and ggplot side-by-side was very useful, as were the exercises and lastly seeing the capabilities of Tableau.&lt;/em&gt;&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;&lt;em&gt;&amp;hellip; I also really liked learning how to use ggplot in Python, altair, and Tableau. I felt like the examples and activities used in the teaching sessions were well structured and I took away some good tips to use in my teaching.&lt;/em&gt;&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;&lt;em&gt;&amp;hellip; The side by side of ggplot2, which I know very well, and Altair, which I know nothing about, is great.&lt;/em&gt;&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;&lt;em&gt;Hands on application of grammar of graphics theory in ggplot and altair.&lt;/em&gt;&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;Throughout this section, evidence was provided of a successful, well-received
+series of workshop that provided an avenue to decimate the data science
+curriculum developed at WSU and contributed to the growth of my fellow data
+science educators.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

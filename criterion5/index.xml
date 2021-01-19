@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Service to the university and community | Tenure and Promotion Portfolio</title>
+    <link>yardsale8.github.io/criterion5/</link>
+      <atom:link href="yardsale8.github.io/criterion5/index.xml" rel="self" type="application/rss+xml" />
+    <description>Service to the university and community</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 15 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/yardsale8.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Service to the university and community</title>
+      <link>yardsale8.github.io/criterion5/</link>
+    </image>
+    
+    <item>
+      <title>Service to the Statistics and Data Science Education Communities</title>
+      <link>yardsale8.github.io/criterion5/community/</link>
+      <pubDate>Fri, 15 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>yardsale8.github.io/criterion5/community/</guid>
+      <description>&lt;p&gt;First, I would like to highlight three contributions to the mathematics,
+statistics, and data science education community.&lt;/p&gt;
+&lt;h3 id=&#34;uscots-2021-planning-committee&#34;&gt;USCOTS 2021 Planning Committee&lt;/h3&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;yardsale8.github.io/img/uscots.png&#34; data-caption=&#34;Figure 1: I am on the planning committee for USCOTS 2021, organizing and evaluating the workshop proposals.&#34;&gt;
+&lt;img data-src=&#34;yardsale8.github.io/img/uscots.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;strong&gt;Figure 1&lt;/strong&gt;: I am on the planning committee for USCOTS 2021, organizing and evaluating the workshop proposals.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;As discussed in a &lt;a href=&#34;yardsale8.github.io/criterion2/workshops/&#34;&gt;section on criterion 2&lt;/a&gt;, I have conducted several workshops on
+teaching data science, two of which were conducted at the United States
+Conference on Teaching Statistics (USCOTS). This year, likely due to these
+workshops, I was asked to serve on the planning committee for USCOTS
+2021&amp;ndash;co-chairing the planning of the pre-conference workshop. Planning this
+year&#39;s conference has been a challenge&amp;ndash;it is being run virtually&amp;ndash;and I am
+excited to serve in this capacity for a conference that has had a big impact
+on my career.&lt;/p&gt;
+&lt;h3 id=&#34;data-visualization-in-python-sdss-2019-belleview-wa&#34;&gt;Data Visualization in Python, SDSS 2019, Belleview, WA&lt;/h3&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;yardsale8.github.io/img/invited.png&#34; data-caption=&#34;Figure 1: I organized and chaired an invited session for SDSS 2019 that brought in experts to teach the audience about data visualizations in Python.&#34;&gt;
+&lt;img data-src=&#34;yardsale8.github.io/img/invited.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;strong&gt;Figure 1&lt;/strong&gt;: I organized and chaired an invited session for SDSS 2019 that brought in experts to teach the audience about data visualizations in Python.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;At the request of Dr. Silas Bergen, I organized an invited session for the
+2019 Symposium on Data Science &amp;amp; Statistics (SDSS 2019) that focuses on
+inducing the audience to data visualization in Python. The first speaker,
+Stephen Elston from Quantia Analytic, introduced the audience to the
+MatPlotLib and the Seaborn libraries. This talk was designed to provide easy
+access to standard statistical visualizations. The second and third talks
+focus on Altair, which provides a visualization framework that (a) is based
+on the Grammar of Graphics, (b) allows visualization to be hosted on at sites
+such as GitHub and (b) is built on the Vega and Vega-Lite frameworks. These
+talks were presented by Dominik Moritz from the University of Washington
+and Kanit &amp;ldquo;Ham&amp;rdquo; Wongsuphasawat from Apple; two contributors to both Vega and
+Altair.&lt;/p&gt;
+&lt;h3 id=&#34;a-course-on-teaching-data-science-project-next-2020&#34;&gt;A Course on Teaching Data Science, Project Next, 2020&lt;/h3&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;yardsale8.github.io/img/project_next.png&#34; data-caption=&#34;Figure 2: Chris Malone and I developed and taught a Project NExT short course on teaching data science.&#34;&gt;
+&lt;img data-src=&#34;yardsale8.github.io/img/project_next.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;strong&gt;Figure 2&lt;/strong&gt;: Chris Malone and I developed and taught a Project NExT short course on teaching data science.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;Shortly after earning a Ph.D., I was able to participate in Project NExT, a
+professional development program for new/recent Ph.D.s. This program had a
+big impact on my career and this year I had the opportunity to give back. Dr.
+Chris Malone and I taught a short course on teaching data science described
+below.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The curriculum for an introductory data science course varies tremendously as
+the definition of data science depends on one’s perspective. This workshop
+will discuss how the curriculum for our introductory data science course has
+changed so that students who have a diverse background in computing can
+succeed. Best practices, including specific examples, for the teaching of an
+introductory data science course will be presented.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Service to Winona State</title>
+      <link>yardsale8.github.io/criterion5/university/</link>
+      <pubDate>Fri, 15 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>yardsale8.github.io/criterion5/university/</guid>
+      <description>&lt;p&gt;In the area of service to the University, I have served on several
+departmental and university faculty committees, most recently taking on the
+role of co-chair of CPPS. In this section, I will highlight three specific
+areas of service and then give an overview of other activities related to
+this criterion.&lt;/p&gt;
+&lt;h2 id=&#34;co-chairing-course-and-program-proposal-subcommittee-cpps&#34;&gt;Co-chairing Course and Program Proposal Subcommittee (CPPS)&lt;/h2&gt;
+&lt;p&gt;This year I am serving as co-chair of the Course Program Proposal
+Subcommittee (CPPS). This semester the committee has proceeded with its
+regular business, approving the proposals for 7 new courses, 3 revised
+courses, and 9 program revisions. In the meantime, I have been working with
+Curriculog Work Group on improving the process of proposing changes to courses
+and programs.&lt;/p&gt;
+&lt;h2 id=&#34;implement-the-prediction-accuracy-portion-of-mudac-2017&#34;&gt;Implement the Prediction Accuracy Portion of MUDAC 2017&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;yardsale8.github.io/img/kaggle.png&#34; data-caption=&#34;Figure 1: In 2017 and 2018, I organized the data analytics portion of the MUDAC competition, where Kaggle was used validate the models and to track the leaderboard in real-time.&#34;&gt;
+&lt;img data-src=&#34;yardsale8.github.io/img/kaggle.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;strong&gt;Figure 1&lt;/strong&gt;: In 2017 and 2018, I organized the data analytics portion of the MUDAC competition, where Kaggle was used validate the models and to track the leaderboard in real-time.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;In preparation for the 2017 MUDAC competition, the statistics and data
+science faculty decided to include a new component in the competition.
+The general sentiment was that, in past years, a team’s presentation skills were
+weighted too heavily and teams that had more advanced analytics skills did
+not get the recognition we believed they deserved.&lt;/p&gt;
+&lt;p&gt;To facilitate this new part of the competition, I took on the responsibility
+for the implementation and operation of two competitions using Kaggle. First,
+a preliminary completion was constructed using a well-known data set to allow
+participants to become familiar with the Kaggle framework. Teams were given a
+week to play around with these data and asked to make at least one successful
+submission before the start of the competition. The results of this
+preliminary competition had no impact on the actual competition.&lt;/p&gt;
+&lt;p&gt;The second Kaggle competition was used to evaluate each team’s
+performance for the actual prediction problem. Throughout the
+competition, teams made submissions to the site and were able to track
+their (approximate) performance on a public leaderboard. The final
+results of the competition were determined by a private leaderboard that
+was made available after the competition closed.&lt;/p&gt;
+&lt;p&gt;The analytics portion of the competition was very successful and the MUDAC competition
+has been using this framework ever since (at least until the pandemic).&lt;/p&gt;
+&lt;h2 id=&#34;update-the-program-objectives-for-the-data-science-program&#34;&gt;Update the Program Objectives for the Data Science Program&lt;/h2&gt;
+&lt;p&gt;Based on my prior experience with program assessment, I was excited to
+contribute to the program assessment of the statistics and data
+science programs. We took the first step in this direction this year by
+formalizing the program outcomes for the data science program. Dr. Chris
+Malone and I met several times to consider these outcomes, using
+recommendations made from various sources and attempted to align
+the topics and sections to those found in the ASA recommendations for a
+statistics major. This initial draft was the basis for the program
+outcomes that were approved by the subgroup and department.&lt;/p&gt;
+&lt;h2 id=&#34;an-overview-of-other-service-activities&#34;&gt;An Overview of Other Service Activities&lt;/h2&gt;
+&lt;p&gt;While the items above represent the most substantial work in this area, here
+is a list of other activities in the area of service.&lt;/p&gt;
+&lt;p&gt;In the last four years, I have served on&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;the Statistics Subcommittee each year, taking a leadership role in
+&lt;ol&gt;
+&lt;li&gt;Revising the internship application and assessment materials.&lt;/li&gt;
+&lt;li&gt;Revising the oral and written communication courses in both the statistics and data science majors.&lt;/li&gt;
+&lt;li&gt;Supporting a 5-year program review for both the data science and statistics programs.&lt;/li&gt;
+&lt;li&gt;Helped revamp the general education assessment materials for STAT 110.&lt;/li&gt;
+&lt;li&gt;Served on the planning committee for MUDAC 2017 and MUDAC 2018&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;the CPPS committee as a regular member for one year.&lt;/li&gt;
+&lt;li&gt;three search committees, one for a tenure-track position and the others for fixed-term positions.&lt;/li&gt;
+&lt;li&gt;the SLAC subcommittee for two years, helping organize departmental seminars and outside speakers.&lt;/li&gt;
+&lt;li&gt;the General Education Program and Policies (GEPS) committee for one semester.&lt;/li&gt;
+&lt;li&gt;the WSU FA Technology and Online Education Committees one year each.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
