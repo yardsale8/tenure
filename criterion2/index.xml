@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Scholarly and Creative Achievement or Research | Tenure and Promotion Portfolio</title>
-    <link>tenure/criterion2/</link>
-      <atom:link href="tenure/criterion2/index.xml" rel="self" type="application/rss+xml" />
+    <link>/criterion2/</link>
+      <atom:link href="/criterion2/index.xml" rel="self" type="application/rss+xml" />
     <description>Scholarly and Creative Achievement or Research</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 15 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/tenure/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Scholarly and Creative Achievement or Research</title>
-      <link>tenure/criterion2/</link>
+      <link>/criterion2/</link>
     </image>
     
     <item>
       <title>Development of Educational Web Apps</title>
-      <link>tenure/criterion2/software/</link>
+      <link>/criterion2/software/</link>
       <pubDate>Fri, 15 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>tenure/criterion2/software/</guid>
+      <guid>/criterion2/software/</guid>
       <description>&lt;p&gt;I like to program.&lt;/p&gt;
 &lt;p&gt;The act of programming allows me to enter a state of flow
 and I find nothing more enjoyable than whiling the hours away as I dig into a
@@ -52,7 +52,7 @@ for students to build a better understanding with no cost to them; all they
 need is the internet. I find the simulation applet very easy and straight
 forward for the students to use.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;Here is what Dr. Tisha Hooks had to say in her &lt;a href=&#34;tenure/testimonial/hooks_letter_of_support.pdf/&#34;&gt;letter of
+&lt;p&gt;Here is what Dr. Tisha Hooks had to say in her &lt;a href=&#34;/testimonial/hooks_letter_of_support.pdf/&#34;&gt;letter of
 support&lt;/a&gt;.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&amp;hellip; Todd has gone above and beyond to also improve our statistics program. One
@@ -105,8 +105,8 @@ to run.&lt;/p&gt;
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;tenure/img/binomial_simulation.png&#34; data-caption=&#34;Figure 1. A web application built to replace TinkerPlots and facilitate introducing hypothesis testing through simulation.  This application is fast, affordable, and works on any device with a web browser.&#34;&gt;
-&lt;img data-src=&#34;tenure/img/binomial_simulation.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/binomial_simulation.png&#34; data-caption=&#34;Figure 1. A web application built to replace TinkerPlots and facilitate introducing hypothesis testing through simulation.  This application is fast, affordable, and works on any device with a web browser.&#34;&gt;
+&lt;img data-src=&#34;/img/binomial_simulation.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
   
@@ -157,8 +157,8 @@ and this procedure.&lt;/p&gt;
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;tenure/img/exact_binomial.png&#34; data-caption=&#34;Figure 2: The exact binomial web application in action. Students can use this application to compute the p-value for the exact binomial test. The app is hosted for free on GitHub and has practically no limit to the number of concurrent users.&#34;&gt;
-&lt;img data-src=&#34;tenure/img/exact_binomial.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/exact_binomial.png&#34; data-caption=&#34;Figure 2: The exact binomial web application in action. Students can use this application to compute the p-value for the exact binomial test. The app is hosted for free on GitHub and has practically no limit to the number of concurrent users.&#34;&gt;
+&lt;img data-src=&#34;/img/exact_binomial.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
   
@@ -194,8 +194,8 @@ and Dr. Tisha Hooks (STAT 110, STAT 210, and STAT 310).&lt;/p&gt;
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;tenure/img/exact_binomial_power.png&#34; data-caption=&#34;Figure 3: The exact binomial power application is used to introduce the concepts of type I error rate and power in STAT 310 Intermediate Statistics.&#34;&gt;
-&lt;img data-src=&#34;tenure/img/exact_binomial_power.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/exact_binomial_power.png&#34; data-caption=&#34;Figure 3: The exact binomial power application is used to introduce the concepts of type I error rate and power in STAT 310 Intermediate Statistics.&#34;&gt;
+&lt;img data-src=&#34;/img/exact_binomial_power.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
   
@@ -229,8 +229,8 @@ is used in STAT 310 by myself and Dr. Hooks.&lt;/p&gt;
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;tenure/img/exact_binomial_power.png&#34; data-caption=&#34;Figure 4: The categorical bootstrap web applications addresses the primary shortcoming of the StatKey CI for a Proportion app by providing a better summary of the information from the original and bootstrap samples.&#34;&gt;
-&lt;img data-src=&#34;tenure/img/exact_binomial_power.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/exact_binomial_power.png&#34; data-caption=&#34;Figure 4: The categorical bootstrap web applications addresses the primary shortcoming of the StatKey CI for a Proportion app by providing a better summary of the information from the original and bootstrap samples.&#34;&gt;
+&lt;img data-src=&#34;/img/exact_binomial_power.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
   
@@ -287,8 +287,8 @@ allowing for the application of response surface designs.&lt;/p&gt;
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;tenure/img/welding_experiments.png&#34; data-caption=&#34;Figure 7. Two web applications that allow students to design and run a simulated ultrasonic welding experiment. The left-hand application facilitates both full and fractional factorial designs. The right-hand application adds four operators to allow for blocking.&#34;&gt;
-&lt;img data-src=&#34;tenure/img/welding_experiments.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/welding_experiments.png&#34; data-caption=&#34;Figure 7. Two web applications that allow students to design and run a simulated ultrasonic welding experiment. The left-hand application facilitates both full and fractional factorial designs. The right-hand application adds four operators to allow for blocking.&#34;&gt;
+&lt;img data-src=&#34;/img/welding_experiments.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
   
@@ -328,9 +328,9 @@ modern browser.&lt;/p&gt;
     
     <item>
       <title>Presentations at Professional Meetings</title>
-      <link>tenure/criterion2/presentations/</link>
+      <link>/criterion2/presentations/</link>
       <pubDate>Fri, 15 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>tenure/criterion2/presentations/</guid>
+      <guid>/criterion2/presentations/</guid>
       <description>&lt;p&gt;Many areas of data science require strong programming skills and I have given
 several presentations in recent years on two topics: introducing software
 development best practices into data science curriculum and talking data
@@ -360,8 +360,8 @@ section I will discuss two presentations that shared what I have learned.&lt;/p&
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;tenure/img/names.png&#34; data-caption=&#34;Figure 1. I shared what I have learned about evaluating the quality of variable and function names at the Southern MN Stat Chat.&#34;&gt;
-&lt;img data-src=&#34;tenure/img/names.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/names.png&#34; data-caption=&#34;Figure 1. I shared what I have learned about evaluating the quality of variable and function names at the Southern MN Stat Chat.&#34;&gt;
+&lt;img data-src=&#34;/img/names.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
   
@@ -395,8 +395,8 @@ talk&lt;/p&gt;
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;tenure/img/clean.png&#34; data-caption=&#34;Figure 2. The clean code talk tells the story of Doug, a budding data scientist intent on cleaning up his code, earning an A, and thwarting his nemesis&amp;ndash;the mean Dr. Iverson.&#34;&gt;
-&lt;img data-src=&#34;tenure/img/clean.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/clean.png&#34; data-caption=&#34;Figure 2. The clean code talk tells the story of Doug, a budding data scientist intent on cleaning up his code, earning an A, and thwarting his nemesis&amp;ndash;the mean Dr. Iverson.&#34;&gt;
+&lt;img data-src=&#34;/img/clean.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
   
@@ -416,7 +416,7 @@ format, presenting the material by telling the story of a fictitious data
 science student intent on getting an A.&lt;/p&gt;
 &lt;p&gt;Dr. Kelly McConville, Associate Professor of Statistics at Reed College and
 program chair of the SDSS 2019, attended the talk and I asked her for comments.
-Here is what she had to say in her &lt;a href=&#34;tenure/testimonial/mcconville_letter_of_support.pdf&#34;&gt;letter of
+Here is what she had to say in her &lt;a href=&#34;/testimonial/mcconville_letter_of_support.pdf&#34;&gt;letter of
 support&lt;/a&gt;.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;I can safely say that of all of the talks at the conference, Dr. Iverson&#39;s
@@ -459,8 +459,8 @@ management with data verbs.&lt;/p&gt;
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;tenure/img/verbs.png&#34; data-caption=&#34;Figure 3. Dr. Chris Malone and I submitted an extended abstract (pictured in part here) that was peer-reviewed and accepted as a talk for SDSS 2020.&#34;&gt;
-&lt;img data-src=&#34;tenure/img/verbs.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/verbs.png&#34; data-caption=&#34;Figure 3. Dr. Chris Malone and I submitted an extended abstract (pictured in part here) that was peer-reviewed and accepted as a talk for SDSS 2020.&#34;&gt;
+&lt;img data-src=&#34;/img/verbs.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
   
@@ -502,8 +502,8 @@ gave a follow-up talk on our efforts the following year.&lt;/p&gt;
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;tenure/img/verbs_talk.png&#34; data-caption=&#34;Figure 4. My SDSS 2020 talk shared many of the ideas and activities on teaching data management with data verbs developed in collaboration with Dr. Chris Malone .&#34;&gt;
-&lt;img data-src=&#34;tenure/img/verbs_talk.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/verbs_talk.png&#34; data-caption=&#34;Figure 4. My SDSS 2020 talk shared many of the ideas and activities on teaching data management with data verbs developed in collaboration with Dr. Chris Malone .&#34;&gt;
+&lt;img data-src=&#34;/img/verbs_talk.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
   
@@ -517,7 +517,7 @@ gave a follow-up talk on our efforts the following year.&lt;/p&gt;
 
 &lt;p&gt;This talk presented our updated approach and encouraged the audience to teach
 data management in a software-agnostic style (discussed in more detail in the
-section on &lt;a href=&#34;tenure/criterion1/curriculum_design/&#34;&gt;curriculum development&lt;/a&gt;. The talk incorporates our previous
+section on &lt;a href=&#34;/criterion1/curriculum_design/&#34;&gt;curriculum development&lt;/a&gt;. The talk incorporates our previous
 activities for teaching data management with data verbs, as well as new
 material on teaching the management of unstructured data through data
 origami.&lt;/p&gt;
@@ -530,9 +530,9 @@ of new approaches to data science curriculum at both local and national meetings
     
     <item>
       <title>Workshop Development and Delivery</title>
-      <link>tenure/criterion2/workshops/</link>
+      <link>/criterion2/workshops/</link>
       <pubDate>Fri, 15 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>tenure/criterion2/workshops/</guid>
+      <guid>/criterion2/workshops/</guid>
       <description>&lt;p&gt;Over the last four years, I have created and executed four pre-conference
 workshops in collaboration with my WSU colleagues. These activities fall under
 the category of growth of peers and other scholars (See Appendix G of the
@@ -568,8 +568,8 @@ contribution to the scholarly growth of peers and other scholars.&lt;/p&gt;
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;tenure/img/uscots19_core_banner.png&#34; data-caption=&#34;Figure 1. The entire WSU data science faculty presented our core data science curriculum in a 2-day pre-conference workshop at USCOTS 2019. On top of being in charge of the original proposal and the subsequent organization and division of labor, I also contributed to half of the design and implementation of sessions .&#34;&gt;
-&lt;img data-src=&#34;tenure/img/uscots19_core_banner.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/uscots19_core_banner.png&#34; data-caption=&#34;Figure 1. The entire WSU data science faculty presented our core data science curriculum in a 2-day pre-conference workshop at USCOTS 2019. On top of being in charge of the original proposal and the subsequent organization and division of labor, I also contributed to half of the design and implementation of sessions .&#34;&gt;
+&lt;img data-src=&#34;/img/uscots19_core_banner.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
   
@@ -611,8 +611,8 @@ should include courses on each.&lt;/p&gt;
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;tenure/img/uscots19_core_block_1_and_3.png&#34; data-caption=&#34;Figure 2. The two blocks that I help create and present scored high in terms of overall quality, presentation, and the quality of the break-out activities.&#34;&gt;
-&lt;img data-src=&#34;tenure/img/uscots19_core_block_1_and_3.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/uscots19_core_block_1_and_3.png&#34; data-caption=&#34;Figure 2. The two blocks that I help create and present scored high in terms of overall quality, presentation, and the quality of the break-out activities.&#34;&gt;
+&lt;img data-src=&#34;/img/uscots19_core_block_1_and_3.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
   
@@ -666,8 +666,8 @@ across.&lt;/p&gt;
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;tenure/img/uscots19_core_overall.png&#34; data-caption=&#34;Figure 3. Participants were very satisfied with the workshop overall.&#34;&gt;
-&lt;img data-src=&#34;tenure/img/uscots19_core_overall.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/uscots19_core_overall.png&#34; data-caption=&#34;Figure 3. Participants were very satisfied with the workshop overall.&#34;&gt;
+&lt;img data-src=&#34;/img/uscots19_core_overall.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
   
@@ -706,8 +706,8 @@ success.&lt;/p&gt;
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;tenure/img/uscots17_banner.png&#34; data-caption=&#34;Figure 4. Dr. Bergen and I ran a USCOTS workshop that took participants through the entire data cycle.&#34;&gt;
-&lt;img data-src=&#34;tenure/img/uscots17_banner.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/uscots17_banner.png&#34; data-caption=&#34;Figure 4. Dr. Bergen and I ran a USCOTS workshop that took participants through the entire data cycle.&#34;&gt;
+&lt;img data-src=&#34;/img/uscots17_banner.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
   
@@ -746,8 +746,8 @@ using Tableau.&lt;/p&gt;
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;tenure/img/uscots17.png&#34; data-caption=&#34;Figure 5. Almost all participants found my portion of the workshop useful.&#34;&gt;
-&lt;img data-src=&#34;tenure/img/uscots17.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/uscots17.png&#34; data-caption=&#34;Figure 5. Almost all participants found my portion of the workshop useful.&#34;&gt;
+&lt;img data-src=&#34;/img/uscots17.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
   
@@ -837,8 +837,8 @@ in subsequent workshops by shifting the entire focus to data visualization.&lt;/
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;tenure/img/icots18_banner.png&#34; data-caption=&#34;Figure 6. Dr. Bergen and I ran an ICOTS workshop focusing on data visualization theory and pedagogy.&#34;&gt;
-&lt;img data-src=&#34;tenure/img/icots18_banner.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/icots18_banner.png&#34; data-caption=&#34;Figure 6. Dr. Bergen and I ran an ICOTS workshop focusing on data visualization theory and pedagogy.&#34;&gt;
+&lt;img data-src=&#34;/img/icots18_banner.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
   
@@ -876,8 +876,8 @@ Survey&lt;/a&gt;.&lt;/p&gt;
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;tenure/img/icots18_block2.png&#34; data-caption=&#34;Figure 7. I developed and ran the second block of the workshop, which compare introduced visualization in Altair (Python) in hopes of reinforcing the concepts of the grammar of graphics introduced in the first block.  This portion of the workshop was not as well-received as I would like, but I was improved the following year (see Figure 9)&#34;&gt;
-&lt;img data-src=&#34;tenure/img/icots18_block2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/icots18_block2.png&#34; data-caption=&#34;Figure 7. I developed and ran the second block of the workshop, which compare introduced visualization in Altair (Python) in hopes of reinforcing the concepts of the grammar of graphics introduced in the first block.  This portion of the workshop was not as well-received as I would like, but I was improved the following year (see Figure 9)&#34;&gt;
+&lt;img data-src=&#34;/img/icots18_block2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
   
@@ -916,8 +916,8 @@ resulting in spending too much time &amp;ldquo;in the weeds&amp;rdquo; and not e
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;tenure/img/sdss19_banner.png&#34; data-caption=&#34;Figure 8. Dr. Bergen and I were invited to run a workshop on data visualization at SDSS 2019.&#34;&gt;
-&lt;img data-src=&#34;tenure/img/sdss19_banner.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/sdss19_banner.png&#34; data-caption=&#34;Figure 8. Dr. Bergen and I were invited to run a workshop on data visualization at SDSS 2019.&#34;&gt;
+&lt;img data-src=&#34;/img/sdss19_banner.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
   
@@ -950,8 +950,8 @@ number of improvements.&lt;/p&gt;
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;tenure/img/sdss19_block2.png&#34; data-caption=&#34;Figure 9. Again, I in charge of the second block of the workshop, but this time we compared the code for visualization in Altair (Python) and ggplot (R) to reinforce the concepts of the grammar of graphics introduced in the first block.&#34;&gt;
-&lt;img data-src=&#34;tenure/img/sdss19_block2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/sdss19_block2.png&#34; data-caption=&#34;Figure 9. Again, I in charge of the second block of the workshop, but this time we compared the code for visualization in Altair (Python) and ggplot (R) to reinforce the concepts of the grammar of graphics introduced in the first block.&#34;&gt;
+&lt;img data-src=&#34;/img/sdss19_block2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
   

@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tenure and Promotion Portfolio</title>
-    <link>tenure/</link>
-      <atom:link href="tenure/index.xml" rel="self" type="application/rss+xml" />
+    <link>/</link>
+      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Tenure and Promotion Portfolio</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 15 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/tenure/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Tenure and Promotion Portfolio</title>
-      <link>tenure/</link>
+      <link>/</link>
     </image>
     
     <item>
       <title>Curriculum Design</title>
-      <link>tenure/criterion1/curriculum_design/</link>
+      <link>/criterion1/curriculum_design/</link>
       <pubDate>Fri, 15 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>tenure/criterion1/curriculum_design/</guid>
+      <guid>/criterion1/curriculum_design/</guid>
       <description>&lt;p&gt;When first joining the faculty as Winona State, I was very excited to learn
 about and contribute to the curriculum of the data science program. Over the
 course of the last four years, I have had a substantial impact on this
 curriculum.&lt;/p&gt;
-&lt;p&gt;In her &lt;a href=&#34;tenure/testimonial/hooks_letter_of_support.pdf&#34;&gt;letter of support&lt;/a&gt;,
+&lt;p&gt;In her &lt;a href=&#34;/testimonial/hooks_letter_of_support.pdf&#34;&gt;letter of support&lt;/a&gt;,
 Dr. Hooks stressed these contributions.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Our data science program has significantly improved since Todd joined our
@@ -41,8 +41,8 @@ promotion, but Todd has gone above and beyond to also improve our statistics pro
 &lt;/blockquote&gt;
 &lt;p&gt;As eluded to in Dr. Hook&#39;s comments, I have also made contributions to the
 statistics curriculum, evidenced by the learning applications discussed in
-one of the sections for &lt;a href=&#34;tenure/criterion2/software/&#34;&gt;criterion 2&lt;/a&gt;,
-the STAT 310 project discussed in the section on &lt;a href=&#34;tenure/criterion1/instructional_innovation/&#34;&gt;instructional
+one of the sections for &lt;a href=&#34;/criterion2/software/&#34;&gt;criterion 2&lt;/a&gt;,
+the STAT 310 project discussed in the section on &lt;a href=&#34;/criterion1/instructional_innovation/&#34;&gt;instructional
 innovation&lt;/a&gt;, and my work
 aligning the curriculum of STAT 110 and STAT 210 discussed below.&lt;/p&gt;
 &lt;p&gt;In informal conversations, Dr. Chris Malone has indicated that he hoped that
@@ -76,8 +76,8 @@ courses.&lt;/p&gt;
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;tenure/img/330_project.png&#34; data-caption=&#34;Figure 1. Benjamin and Tyler teach the class about background subtraction using Python and the OpenCV library.  The final project in DSCI 330 requires groups of students to explore and present on a new topic in image and video processing.&#34;&gt;
-&lt;img data-src=&#34;tenure/img/330_project.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/330_project.png&#34; data-caption=&#34;Figure 1. Benjamin and Tyler teach the class about background subtraction using Python and the OpenCV library.  The final project in DSCI 330 requires groups of students to explore and present on a new topic in image and video processing.&#34;&gt;
+&lt;img data-src=&#34;/img/330_project.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
   
@@ -111,7 +111,7 @@ necessary to work with unstructured data. Students in the course learn to
 process various types of unstructured data: text, data from the web,
 audio, images, and video.&lt;/p&gt;
 &lt;p&gt;My colleague Dr. Silas Bergen sat in on DSCI 330 this fall and had
-the following comments in his &lt;a href=&#34;tenure/testimonial/bergen_letter_of_support.pdf&#34;&gt;letter of
+the following comments in his &lt;a href=&#34;/testimonial/bergen_letter_of_support.pdf&#34;&gt;letter of
 support&lt;/a&gt;.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Dr. Iverson has also developed two entirely new, upper-level courses to our
@@ -142,8 +142,8 @@ organization&lt;/a&gt;.&lt;/p&gt;
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;tenure/img/lew_presents.png&#34; data-caption=&#34;Figure 1. Daniel demonstrates a dashboard created as part of his capstone project illustrating what he learned in about processing data in Python and PySpark in DSCI 430.&#34;&gt;
-&lt;img data-src=&#34;tenure/img/lew_presents.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/lew_presents.png&#34; data-caption=&#34;Figure 1. Daniel demonstrates a dashboard created as part of his capstone project illustrating what he learned in about processing data in Python and PySpark in DSCI 430.&#34;&gt;
+&lt;img data-src=&#34;/img/lew_presents.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
   
@@ -216,7 +216,7 @@ style. Thanks again and I hope that your summer has been going well&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Shane Will&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;Another recent data science graduate, Mariah Quam, in her &lt;a href=&#34;tenure/testimonial/quam_letter_of_support.pdf&#34;&gt;letter of
+&lt;p&gt;Another recent data science graduate, Mariah Quam, in her &lt;a href=&#34;/testimonial/quam_letter_of_support.pdf&#34;&gt;letter of
 support&lt;/a&gt; for this proposal, had to
 say after taking three of my programming course (including DSCI 330 and 430).&lt;/p&gt;
 &lt;blockquote&gt;
@@ -235,7 +235,7 @@ definition of going the extra mile when it comes to teaching students the
 process of coding.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;Finally, it should be noted that I presented some of these ideas at SDSS
-2019, which is discussed &lt;a href=&#34;tenure/criterion2/presentations/&#34;&gt;elsewhere&lt;/a&gt;.&lt;/p&gt;
+2019, which is discussed &lt;a href=&#34;/criterion2/presentations/&#34;&gt;elsewhere&lt;/a&gt;.&lt;/p&gt;
 &lt;h3 id=&#34;implementation-of-a-project-based-and-concept-driven-curriculum-for-dsci-210&#34;&gt;Implementation of a Project-Based and Concept-Driven Curriculum for DSCI 210&lt;/h3&gt;
 &lt;p&gt;Developing the two new DSCI courses, as well as advising and judging with
 students in data analytics competitions, had the added benefit of clarifying
@@ -299,7 +299,7 @@ evaluation comments.&lt;/p&gt;
 &lt;h2 id=&#34;curriculum-development-for-statistics&#34;&gt;Curriculum Development for Statistics&lt;/h2&gt;
 &lt;p&gt;Finally, I would like to highlight some of the curricula I developed for the
 statistics program. In addition to the project I developed for STAT 310 in the
-section on &lt;a href=&#34;tenure/criterion1/instructional_innovation/&#34;&gt;instructional innovation&lt;/a&gt;, I also spent some time
+section on &lt;a href=&#34;/criterion1/instructional_innovation/&#34;&gt;instructional innovation&lt;/a&gt;, I also spent some time
 aligning the curriculum between my STAT 110 and STAT 210 courses, in an
 attempt to better understand issues with substituting one course for another.&lt;/p&gt;
 &lt;h3 id=&#34;creating-a-bridge-between-stat-110-and-stat-210-curriculum&#34;&gt;Creating a Bridge Between STAT 110 and STAT 210 Curriculum&lt;/h3&gt;
@@ -340,9 +340,9 @@ students.&lt;/p&gt;
     
     <item>
       <title>Development of Educational Web Apps</title>
-      <link>tenure/criterion2/software/</link>
+      <link>/criterion2/software/</link>
       <pubDate>Fri, 15 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>tenure/criterion2/software/</guid>
+      <guid>/criterion2/software/</guid>
       <description>&lt;p&gt;I like to program.&lt;/p&gt;
 &lt;p&gt;The act of programming allows me to enter a state of flow
 and I find nothing more enjoyable than whiling the hours away as I dig into a
@@ -378,7 +378,7 @@ for students to build a better understanding with no cost to them; all they
 need is the internet. I find the simulation applet very easy and straight
 forward for the students to use.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;Here is what Dr. Tisha Hooks had to say in her &lt;a href=&#34;tenure/testimonial/hooks_letter_of_support.pdf/&#34;&gt;letter of
+&lt;p&gt;Here is what Dr. Tisha Hooks had to say in her &lt;a href=&#34;/testimonial/hooks_letter_of_support.pdf/&#34;&gt;letter of
 support&lt;/a&gt;.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&amp;hellip; Todd has gone above and beyond to also improve our statistics program. One
@@ -431,8 +431,8 @@ to run.&lt;/p&gt;
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;tenure/img/binomial_simulation.png&#34; data-caption=&#34;Figure 1. A web application built to replace TinkerPlots and facilitate introducing hypothesis testing through simulation.  This application is fast, affordable, and works on any device with a web browser.&#34;&gt;
-&lt;img data-src=&#34;tenure/img/binomial_simulation.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/binomial_simulation.png&#34; data-caption=&#34;Figure 1. A web application built to replace TinkerPlots and facilitate introducing hypothesis testing through simulation.  This application is fast, affordable, and works on any device with a web browser.&#34;&gt;
+&lt;img data-src=&#34;/img/binomial_simulation.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
   
@@ -483,8 +483,8 @@ and this procedure.&lt;/p&gt;
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;tenure/img/exact_binomial.png&#34; data-caption=&#34;Figure 2: The exact binomial web application in action. Students can use this application to compute the p-value for the exact binomial test. The app is hosted for free on GitHub and has practically no limit to the number of concurrent users.&#34;&gt;
-&lt;img data-src=&#34;tenure/img/exact_binomial.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/exact_binomial.png&#34; data-caption=&#34;Figure 2: The exact binomial web application in action. Students can use this application to compute the p-value for the exact binomial test. The app is hosted for free on GitHub and has practically no limit to the number of concurrent users.&#34;&gt;
+&lt;img data-src=&#34;/img/exact_binomial.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
   
@@ -520,8 +520,8 @@ and Dr. Tisha Hooks (STAT 110, STAT 210, and STAT 310).&lt;/p&gt;
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;tenure/img/exact_binomial_power.png&#34; data-caption=&#34;Figure 3: The exact binomial power application is used to introduce the concepts of type I error rate and power in STAT 310 Intermediate Statistics.&#34;&gt;
-&lt;img data-src=&#34;tenure/img/exact_binomial_power.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/exact_binomial_power.png&#34; data-caption=&#34;Figure 3: The exact binomial power application is used to introduce the concepts of type I error rate and power in STAT 310 Intermediate Statistics.&#34;&gt;
+&lt;img data-src=&#34;/img/exact_binomial_power.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
   
@@ -555,8 +555,8 @@ is used in STAT 310 by myself and Dr. Hooks.&lt;/p&gt;
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;tenure/img/exact_binomial_power.png&#34; data-caption=&#34;Figure 4: The categorical bootstrap web applications addresses the primary shortcoming of the StatKey CI for a Proportion app by providing a better summary of the information from the original and bootstrap samples.&#34;&gt;
-&lt;img data-src=&#34;tenure/img/exact_binomial_power.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/exact_binomial_power.png&#34; data-caption=&#34;Figure 4: The categorical bootstrap web applications addresses the primary shortcoming of the StatKey CI for a Proportion app by providing a better summary of the information from the original and bootstrap samples.&#34;&gt;
+&lt;img data-src=&#34;/img/exact_binomial_power.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
   
@@ -613,8 +613,8 @@ allowing for the application of response surface designs.&lt;/p&gt;
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;tenure/img/welding_experiments.png&#34; data-caption=&#34;Figure 7. Two web applications that allow students to design and run a simulated ultrasonic welding experiment. The left-hand application facilitates both full and fractional factorial designs. The right-hand application adds four operators to allow for blocking.&#34;&gt;
-&lt;img data-src=&#34;tenure/img/welding_experiments.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/welding_experiments.png&#34; data-caption=&#34;Figure 7. Two web applications that allow students to design and run a simulated ultrasonic welding experiment. The left-hand application facilitates both full and fractional factorial designs. The right-hand application adds four operators to allow for blocking.&#34;&gt;
+&lt;img data-src=&#34;/img/welding_experiments.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
   
@@ -654,9 +654,9 @@ modern browser.&lt;/p&gt;
     
     <item>
       <title>Instructional Innovation</title>
-      <link>tenure/criterion1/instructional_innovation/</link>
+      <link>/criterion1/instructional_innovation/</link>
       <pubDate>Fri, 15 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>tenure/criterion1/instructional_innovation/</guid>
+      <guid>/criterion1/instructional_innovation/</guid>
       <description>&lt;p&gt;The evolution of my STAT 110 Fundamentals of Statistics curriculum good
 illustration of my approach to blending instructional innovation and the
 assessment of student learning. STAT 110 is ripe for a discussion of
@@ -670,7 +670,7 @@ an online synchronous format due to COVID-19.&lt;/p&gt;
 evolved from a face-to-face flipped classroom for STAT 110 and then
 translating this material to synchronous and asynchronous online courses.&lt;/p&gt;
 &lt;p&gt;The face-to-face rendition of this course is built around the flipped
-classroom, which is discussed in more depth in the section on &lt;a href=&#34;tenure/criterion4/student_centered/&#34;&gt;criterion
+classroom, which is discussed in more depth in the section on &lt;a href=&#34;/criterion4/student_centered/&#34;&gt;criterion
 4&lt;/a&gt;, but I would like to highlight a few
 of the related innovations here. First, I embedded self-assessment
 multiple-choice questions in an online and interactive set of course notes,
@@ -696,8 +696,8 @@ multiple formats.&lt;/p&gt;
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;tenure/img/book_MC.png&#34; data-caption=&#34;Figure 1. An example of an embedded self-assessment. Students receive immediate feedback after reading each section of the book, including guidance for incorrect responses.&#34;&gt;
-&lt;img data-src=&#34;tenure/img/book_MC.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/book_MC.png&#34; data-caption=&#34;Figure 1. An example of an embedded self-assessment. Students receive immediate feedback after reading each section of the book, including guidance for incorrect responses.&#34;&gt;
+&lt;img data-src=&#34;/img/book_MC.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
   
@@ -763,8 +763,8 @@ review the associated material.&lt;/p&gt;
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;tenure/img/welcome.png&#34; data-caption=&#34;Figure 2. Students are welcomed to the first week of STAT 110, an asynchronous online course taught during each of the 2017-2020 summer terms.&#34;&gt;
-&lt;img data-src=&#34;tenure/img/welcome.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/welcome.png&#34; data-caption=&#34;Figure 2. Students are welcomed to the first week of STAT 110, an asynchronous online course taught during each of the 2017-2020 summer terms.&#34;&gt;
+&lt;img data-src=&#34;/img/welcome.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
   
@@ -783,7 +783,7 @@ evidenced by the growing number of sections each year. There were several
 challenges to adapting my materials to the online setting, which I will
 summarize below. It should be noted that, in each case, the changes made in
 anticipation of teaching online also greatly benefit&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Organizational Challenges.&lt;/strong&gt; As discussed in the section on &lt;a href=&#34;tenure/criterion3/continuing_education/&#34;&gt;criterion 3&lt;/a&gt;, first took the WeTeach courses in
+&lt;p&gt;&lt;strong&gt;Organizational Challenges.&lt;/strong&gt; As discussed in the section on &lt;a href=&#34;/criterion3/continuing_education/&#34;&gt;criterion 3&lt;/a&gt;, first took the WeTeach courses in
 the spring of 2017 and then revisited (and finally completed) the course in
 the summer of 2020. This curriculum has shaped my approach to this online
 course, and in particular, has taught me the importance of organization
@@ -831,8 +831,8 @@ next section.&lt;/p&gt;
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;tenure/img/quiz_scheme.png&#34; data-caption=&#34;Figure 3. After adapting my assessments to an online setting, the final scheme involves material divided into three areas with corresponding review and practice materials.&#34;&gt;
-&lt;img data-src=&#34;tenure/img/quiz_scheme.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/quiz_scheme.png&#34; data-caption=&#34;Figure 3. After adapting my assessments to an online setting, the final scheme involves material divided into three areas with corresponding review and practice materials.&#34;&gt;
+&lt;img data-src=&#34;/img/quiz_scheme.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
   
@@ -912,8 +912,8 @@ sampling scheme.&lt;/p&gt;
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;tenure/img/islands.png&#34; data-caption=&#34;Figure 3. The Islands is a virtual environment that allows students to conduct virtual experiments and studies. The three islands contain residents who can be found in their residence. After gaining consent, students can assign each resident a task as part of a larger study.&#34;&gt;
-&lt;img data-src=&#34;tenure/img/islands.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/islands.png&#34; data-caption=&#34;Figure 3. The Islands is a virtual environment that allows students to conduct virtual experiments and studies. The three islands contain residents who can be found in their residence. After gaining consent, students can assign each resident a task as part of a larger study.&#34;&gt;
+&lt;img data-src=&#34;/img/islands.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
   
@@ -976,8 +976,8 @@ Finally, each student wrote a final report on the class’s results.&lt;/p&gt;
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;tenure/img/pilot_study.png&#34; data-caption=&#34;Figure 4. Thabane et al. provide, among other things, a detailed outline for a pilot study; which I found a useful guide for student reports.&#34;&gt;
-&lt;img data-src=&#34;tenure/img/pilot_study.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/pilot_study.png&#34; data-caption=&#34;Figure 4. Thabane et al. provide, among other things, a detailed outline for a pilot study; which I found a useful guide for student reports.&#34;&gt;
+&lt;img data-src=&#34;/img/pilot_study.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
   
@@ -1014,8 +1014,8 @@ goals of the respective design.&lt;/p&gt;
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;tenure/img/example_project.png&#34; data-caption=&#34;Figure 5. The outcomes of one student project, where a randomized experiment was conducted to compare the effects of petting two types of animals to a baseline control.  As expected, petting a crocodile raises the average heart rate compared to the other two treatment groups.&#34;&gt;
-&lt;img data-src=&#34;tenure/img/example_project.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/example_project.png&#34; data-caption=&#34;Figure 5. The outcomes of one student project, where a randomized experiment was conducted to compare the effects of petting two types of animals to a baseline control.  As expected, petting a crocodile raises the average heart rate compared to the other two treatment groups.&#34;&gt;
+&lt;img data-src=&#34;/img/example_project.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
   
@@ -1027,7 +1027,7 @@ goals of the respective design.&lt;/p&gt;
 
 &lt;/figure&gt;
 
-&lt;p&gt;My colleague Dr. Tisha Hooks used this project in her subsequent STAT 310 courses, and her comments (taken from her &lt;a href=&#34;tenure/testimonial/hooks_letter_of_support.pdf/&#34;&gt;letter of support&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;My colleague Dr. Tisha Hooks used this project in her subsequent STAT 310 courses, and her comments (taken from her &lt;a href=&#34;/testimonial/hooks_letter_of_support.pdf/&#34;&gt;letter of support&lt;/a&gt;)&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;STAT 310 recently became a writing intensive course. Todd put a lot of work
 into creating a writing project. Students were required to work in groups
@@ -1046,9 +1046,9 @@ thank.&lt;/p&gt;
     
     <item>
       <title>Participating in Continuing Education Courses</title>
-      <link>tenure/criterion3/continuing_education/</link>
+      <link>/criterion3/continuing_education/</link>
       <pubDate>Fri, 15 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>tenure/criterion3/continuing_education/</guid>
+      <guid>/criterion3/continuing_education/</guid>
       <description>&lt;p&gt;Over the last five years, I have completed six of online
 courses (participating continuing education courses and/or formal
 education/study&amp;ndash;Appendix G of Master Agreement). These courses cover a
@@ -1108,7 +1108,7 @@ effective techniques for online courses. The certificate of completion is
 &lt;a href=&#34;testimonial/data_camp_data_cleaning.pdf&#34;&gt;available here&lt;/a&gt;.&lt;/p&gt;
 &lt;h4 id=&#34;elixirdeveloping-with-elixirotp&#34;&gt;Elixir—Developing with Elixir/OTP&lt;/h4&gt;
 &lt;p&gt;In addition to building client-side educational application, like those
-highlighted under &lt;a href=&#34;tenure/criterion2/software/&#34;&gt;criterion 2&lt;/a&gt;. While
+highlighted under &lt;a href=&#34;/criterion2/software/&#34;&gt;criterion 2&lt;/a&gt;. While
 the Elm programming language is great for creating responsive modern
 client-side applications, it requires an interface with another language when
 creating client-server applications.&lt;/p&gt;
@@ -1132,7 +1132,7 @@ WeTeach course in my first year at WSU, I thought it was to time revisit (and
 actually complete) this course. This summer, I re-enrolled and completed in
 the WeTeach course offered by Minnesota State, which focus on the best
 practices for teaching online and blended courses. I have fully completed the
-course (see the &lt;a href=&#34;tenure/testimonial/WeTeachCertificate.pdf&#34;&gt;attached certificate&lt;/a&gt;).&lt;/p&gt;
+course (see the &lt;a href=&#34;/testimonial/WeTeachCertificate.pdf&#34;&gt;attached certificate&lt;/a&gt;).&lt;/p&gt;
 &lt;p&gt;One of my takeaways from retaking this course was just how much the first
 time through has impacted my course development. WeTeach encourages extra
 organization and communication with students and I am happy to say that my
@@ -1149,9 +1149,9 @@ for HLA for certification.&lt;/p&gt;
     
     <item>
       <title>Presentations at Professional Meetings</title>
-      <link>tenure/criterion2/presentations/</link>
+      <link>/criterion2/presentations/</link>
       <pubDate>Fri, 15 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>tenure/criterion2/presentations/</guid>
+      <guid>/criterion2/presentations/</guid>
       <description>&lt;p&gt;Many areas of data science require strong programming skills and I have given
 several presentations in recent years on two topics: introducing software
 development best practices into data science curriculum and talking data
@@ -1181,8 +1181,8 @@ section I will discuss two presentations that shared what I have learned.&lt;/p&
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;tenure/img/names.png&#34; data-caption=&#34;Figure 1. I shared what I have learned about evaluating the quality of variable and function names at the Southern MN Stat Chat.&#34;&gt;
-&lt;img data-src=&#34;tenure/img/names.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/names.png&#34; data-caption=&#34;Figure 1. I shared what I have learned about evaluating the quality of variable and function names at the Southern MN Stat Chat.&#34;&gt;
+&lt;img data-src=&#34;/img/names.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
   
@@ -1216,8 +1216,8 @@ talk&lt;/p&gt;
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;tenure/img/clean.png&#34; data-caption=&#34;Figure 2. The clean code talk tells the story of Doug, a budding data scientist intent on cleaning up his code, earning an A, and thwarting his nemesis&amp;ndash;the mean Dr. Iverson.&#34;&gt;
-&lt;img data-src=&#34;tenure/img/clean.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/clean.png&#34; data-caption=&#34;Figure 2. The clean code talk tells the story of Doug, a budding data scientist intent on cleaning up his code, earning an A, and thwarting his nemesis&amp;ndash;the mean Dr. Iverson.&#34;&gt;
+&lt;img data-src=&#34;/img/clean.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
   
@@ -1237,7 +1237,7 @@ format, presenting the material by telling the story of a fictitious data
 science student intent on getting an A.&lt;/p&gt;
 &lt;p&gt;Dr. Kelly McConville, Associate Professor of Statistics at Reed College and
 program chair of the SDSS 2019, attended the talk and I asked her for comments.
-Here is what she had to say in her &lt;a href=&#34;tenure/testimonial/mcconville_letter_of_support.pdf&#34;&gt;letter of
+Here is what she had to say in her &lt;a href=&#34;/testimonial/mcconville_letter_of_support.pdf&#34;&gt;letter of
 support&lt;/a&gt;.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;I can safely say that of all of the talks at the conference, Dr. Iverson&#39;s
@@ -1280,8 +1280,8 @@ management with data verbs.&lt;/p&gt;
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;tenure/img/verbs.png&#34; data-caption=&#34;Figure 3. Dr. Chris Malone and I submitted an extended abstract (pictured in part here) that was peer-reviewed and accepted as a talk for SDSS 2020.&#34;&gt;
-&lt;img data-src=&#34;tenure/img/verbs.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/verbs.png&#34; data-caption=&#34;Figure 3. Dr. Chris Malone and I submitted an extended abstract (pictured in part here) that was peer-reviewed and accepted as a talk for SDSS 2020.&#34;&gt;
+&lt;img data-src=&#34;/img/verbs.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
   
@@ -1323,8 +1323,8 @@ gave a follow-up talk on our efforts the following year.&lt;/p&gt;
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;tenure/img/verbs_talk.png&#34; data-caption=&#34;Figure 4. My SDSS 2020 talk shared many of the ideas and activities on teaching data management with data verbs developed in collaboration with Dr. Chris Malone .&#34;&gt;
-&lt;img data-src=&#34;tenure/img/verbs_talk.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/verbs_talk.png&#34; data-caption=&#34;Figure 4. My SDSS 2020 talk shared many of the ideas and activities on teaching data management with data verbs developed in collaboration with Dr. Chris Malone .&#34;&gt;
+&lt;img data-src=&#34;/img/verbs_talk.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
   
@@ -1338,7 +1338,7 @@ gave a follow-up talk on our efforts the following year.&lt;/p&gt;
 
 &lt;p&gt;This talk presented our updated approach and encouraged the audience to teach
 data management in a software-agnostic style (discussed in more detail in the
-section on &lt;a href=&#34;tenure/criterion1/curriculum_design/&#34;&gt;curriculum development&lt;/a&gt;. The talk incorporates our previous
+section on &lt;a href=&#34;/criterion1/curriculum_design/&#34;&gt;curriculum development&lt;/a&gt;. The talk incorporates our previous
 activities for teaching data management with data verbs, as well as new
 material on teaching the management of unstructured data through data
 origami.&lt;/p&gt;
@@ -1351,13 +1351,13 @@ of new approaches to data science curriculum at both local and national meetings
     
     <item>
       <title>Student Evaluations</title>
-      <link>tenure/criterion1/course_development/</link>
+      <link>/criterion1/course_development/</link>
       <pubDate>Fri, 15 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>tenure/criterion1/course_development/</guid>
+      <guid>/criterion1/course_development/</guid>
       <description>&lt;p&gt;I have placed a lot of value on feedback from student evaluations and I have
 tried to illustrate how I use this feedback throughout the portfolio. For
 example, in-depth evaluation of student feedback related to the flipped
-classroom in &lt;a href=&#34;tenure/criterion4/student_centered/&#34;&gt;the section building student-centered curricula&lt;/a&gt;.&lt;/p&gt;
+classroom in &lt;a href=&#34;/criterion4/student_centered/&#34;&gt;the section building student-centered curricula&lt;/a&gt;.&lt;/p&gt;
 
 
 
@@ -1374,8 +1374,8 @@ classroom in &lt;a href=&#34;tenure/criterion4/student_centered/&#34;&gt;the sec
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;tenure/img/STAT110_evals_instructor.png&#34; data-caption=&#34;Figure 1. Student responses to questions about the instructor from all regular sections of STAT 110 from Fall 2016 to Fall 2020 (excluding summer courses).  A large majority of the students agreed or strongly agreed that the instructor was available, cared, and enthusiastic; as well as providing clear explanations, effective teaching, and helpful answers.&#34;&gt;
-&lt;img data-src=&#34;tenure/img/STAT110_evals_instructor.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/STAT110_evals_instructor.png&#34; data-caption=&#34;Figure 1. Student responses to questions about the instructor from all regular sections of STAT 110 from Fall 2016 to Fall 2020 (excluding summer courses).  A large majority of the students agreed or strongly agreed that the instructor was available, cared, and enthusiastic; as well as providing clear explanations, effective teaching, and helpful answers.&#34;&gt;
+&lt;img data-src=&#34;/img/STAT110_evals_instructor.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
   
@@ -1475,9 +1475,9 @@ don’t have evaluations for this course. &lt;a href=&#34;#fnref:1&#34; class=&#
     
     <item>
       <title>Developing Student-Centered Curricula</title>
-      <link>tenure/criterion4/student_centered/</link>
+      <link>/criterion4/student_centered/</link>
       <pubDate>Fri, 15 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>tenure/criterion4/student_centered/</guid>
+      <guid>/criterion4/student_centered/</guid>
       <description>&lt;p&gt;For me the joys of teaching are two-fold. First, I take a lot of pleasure in
 continually improving the pedagogy, curriculum, and administration of my
 various courses. Second, I treasure the opportunity to have a lasting impact
@@ -1500,8 +1500,8 @@ contributions to student growth and development.&lt;/p&gt;
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;tenure/img/flipped_word_cloud.png&#34; data-caption=&#34;Figure 1. All sections of STAT 110 over the last five years have been implemented using the flipped classroom.  The word cloud highlights common words from students&amp;rsquo; comments on the flipped classroom.&#34;&gt;
-&lt;img data-src=&#34;tenure/img/flipped_word_cloud.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/flipped_word_cloud.png&#34; data-caption=&#34;Figure 1. All sections of STAT 110 over the last five years have been implemented using the flipped classroom.  The word cloud highlights common words from students&amp;rsquo; comments on the flipped classroom.&#34;&gt;
+&lt;img data-src=&#34;/img/flipped_word_cloud.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
   
@@ -1533,8 +1533,8 @@ textbook and class time reserved for supplemental activities design to reinforce
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;tenure/img/flipped_response.png&#34; data-caption=&#34;Figure 2: STAT 110 students were asked to comment on the flipped classroom. The following table summarizes the responses with a large majority of the students giving a positive response.&#34;&gt;
-&lt;img data-src=&#34;tenure/img/flipped_response.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/flipped_response.png&#34; data-caption=&#34;Figure 2: STAT 110 students were asked to comment on the flipped classroom. The following table summarizes the responses with a large majority of the students giving a positive response.&#34;&gt;
+&lt;img data-src=&#34;/img/flipped_response.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
   
@@ -1569,8 +1569,8 @@ learning.&lt;/p&gt;
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;tenure/img/act_and_videos.png&#34; data-caption=&#34;Figure 3: STAT 110 students were asked to comment on the flipped classroom. The following table summarizes the responses with a large majority of the students giving a positive response.&#34;&gt;
-&lt;img data-src=&#34;tenure/img/act_and_videos.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/act_and_videos.png&#34; data-caption=&#34;Figure 3: STAT 110 students were asked to comment on the flipped classroom. The following table summarizes the responses with a large majority of the students giving a positive response.&#34;&gt;
+&lt;img data-src=&#34;/img/act_and_videos.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
   
@@ -1608,8 +1608,8 @@ that&lt;/p&gt;
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;tenure/img/sentiment_SVD.png&#34; data-caption=&#34;Figure 4: A latent sentiment analysis and singular value decomposition was performed on the student evaluation responses to Comment on the flipped classroom.  A summary and exemplar of typical responses in each region is provided.&#34;&gt;
-&lt;img data-src=&#34;tenure/img/sentiment_SVD.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/sentiment_SVD.png&#34; data-caption=&#34;Figure 4: A latent sentiment analysis and singular value decomposition was performed on the student evaluation responses to Comment on the flipped classroom.  A summary and exemplar of typical responses in each region is provided.&#34;&gt;
+&lt;img data-src=&#34;/img/sentiment_SVD.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
   
@@ -1709,8 +1709,8 @@ as they work together and ask questions.&lt;/p&gt;
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;tenure/img/text_word_cloud.png&#34; data-caption=&#34;Figure 5:  This word cloud highlights common words from students&amp;rsquo; comments on the online textbook I put together for STAT 110.&#34;&gt;
-&lt;img data-src=&#34;tenure/img/text_word_cloud.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/text_word_cloud.png&#34; data-caption=&#34;Figure 5:  This word cloud highlights common words from students&amp;rsquo; comments on the online textbook I put together for STAT 110.&#34;&gt;
+&lt;img data-src=&#34;/img/text_word_cloud.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
   
@@ -1744,8 +1744,8 @@ released an open-source Python library that can be used to construct your own.&l
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;tenure/img/book_MC.png&#34; data-caption=&#34;Figure 6:  An example of the multiple-choice assessments that are embedded in the online course textbook I designed for STAT 110.&#34;&gt;
-&lt;img data-src=&#34;tenure/img/book_MC.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/book_MC.png&#34; data-caption=&#34;Figure 6:  An example of the multiple-choice assessments that are embedded in the online course textbook I designed for STAT 110.&#34;&gt;
+&lt;img data-src=&#34;/img/book_MC.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
   
@@ -1800,8 +1800,8 @@ through simulation.&lt;/p&gt;
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;tenure/img/book_comments.png&#34; data-caption=&#34;Figure 7:  A summary of responses from student evaluations for the Fall 2017 term of STAT 110. A majority of the students like the online textbook (right-hand plot), identifying cost, ease of access, embedded lecture videos and embedded assessments as positive elements (left-hand plot).&#34;&gt;
-&lt;img data-src=&#34;tenure/img/book_comments.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/book_comments.png&#34; data-caption=&#34;Figure 7:  A summary of responses from student evaluations for the Fall 2017 term of STAT 110. A majority of the students like the online textbook (right-hand plot), identifying cost, ease of access, embedded lecture videos and embedded assessments as positive elements (left-hand plot).&#34;&gt;
+&lt;img data-src=&#34;/img/book_comments.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
   
@@ -1837,9 +1837,9 @@ more manageable and I would encourage anyone to give it a try.&lt;/p&gt;
     
     <item>
       <title>Support Activities for Teaching and Learning</title>
-      <link>tenure/criterion1/support_activities/</link>
+      <link>/criterion1/support_activities/</link>
       <pubDate>Fri, 15 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>tenure/criterion1/support_activities/</guid>
+      <guid>/criterion1/support_activities/</guid>
       <description>&lt;p&gt;While important, there is more to teaching than instructional
 innovation and designing an effective curriculum. David Moore argued that we
 should treat &lt;a href=&#34;https://www.stat.purdue.edu/~dsmoore/articles/Craft.pdf&#34;&gt;teaching as a
@@ -1863,8 +1863,8 @@ support activities related to teaching and learning.&lt;/p&gt;
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;tenure/img/caption1.png&#34; data-caption=&#34;Figure 1. Making a caption request on MediaSpace is fast and easy. Simply navigate to Caption &amp;amp; Enrich and click submit with the default settings.&#34;&gt;
-&lt;img data-src=&#34;tenure/img/caption1.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/caption1.png&#34; data-caption=&#34;Figure 1. Making a caption request on MediaSpace is fast and easy. Simply navigate to Caption &amp;amp; Enrich and click submit with the default settings.&#34;&gt;
+&lt;img data-src=&#34;/img/caption1.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
   
@@ -1900,8 +1900,8 @@ with the default settings (&lt;strong&gt;Figure 1&lt;/strong&gt;)&lt;/p&gt;
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;tenure/img/caption2.png&#34; data-caption=&#34;Figure 2. While machine captioning does a pretty good job of translation, it has trouble translating math and has no way of knowing that “jump” is JMP.&#34;&gt;
-&lt;img data-src=&#34;tenure/img/caption2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/caption2.png&#34; data-caption=&#34;Figure 2. While machine captioning does a pretty good job of translation, it has trouble translating math and has no way of knowing that “jump” is JMP.&#34;&gt;
+&lt;img data-src=&#34;/img/caption2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
   
@@ -1934,8 +1934,8 @@ videos for STAT 321.&lt;/p&gt;
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;tenure/img/caption3.png&#34; data-caption=&#34;Figure 3. Navigating to Caption &amp;amp; Enrich and clicking the edit icon opens the Closed Caption Editor; which allows you to edit the original translation while watching your video.&#34;&gt;
-&lt;img data-src=&#34;tenure/img/caption3.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/caption3.png&#34; data-caption=&#34;Figure 3. Navigating to Caption &amp;amp; Enrich and clicking the edit icon opens the Closed Caption Editor; which allows you to edit the original translation while watching your video.&#34;&gt;
+&lt;img data-src=&#34;/img/caption3.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
   
@@ -1985,8 +1985,8 @@ video again removes the need for a repetitious speaker.&lt;/p&gt;
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;tenure/img/caption4.png&#34; data-caption=&#34;Figure 4. There were 85 videos in total that were captioned during the fall, organized here by course module. In addition to learning about the process of efficient captioning of videos, the experience also taught me how to make more effective videos moving forward.&#34;&gt;
-&lt;img data-src=&#34;tenure/img/caption4.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/caption4.png&#34; data-caption=&#34;Figure 4. There were 85 videos in total that were captioned during the fall, organized here by course module. In addition to learning about the process of efficient captioning of videos, the experience also taught me how to make more effective videos moving forward.&#34;&gt;
+&lt;img data-src=&#34;/img/caption4.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
   
@@ -2029,8 +2029,8 @@ approaches.&lt;/p&gt;
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;tenure/img/calendar.png&#34; data-caption=&#34;Figure 1: Each class is given its own Google Calendar (left-hand side) and all-day events are used for each class session (right-hand side).&#34;&gt;
-&lt;img data-src=&#34;tenure/img/calendar.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/calendar.png&#34; data-caption=&#34;Figure 1: Each class is given its own Google Calendar (left-hand side) and all-day events are used for each class session (right-hand side).&#34;&gt;
+&lt;img data-src=&#34;/img/calendar.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
   
@@ -2073,8 +2073,8 @@ of the journal entries.&lt;/p&gt;
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;tenure/img/calendar_details.png&#34; data-caption=&#34;*Figure 2: A teaching journal is kept in the notes section of each class session event. Documentation includes an outline of the day’s topics, a record of how the class session went, and suggestions for future improvement.&#34;&gt;
-&lt;img data-src=&#34;tenure/img/calendar_details.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/calendar_details.png&#34; data-caption=&#34;*Figure 2: A teaching journal is kept in the notes section of each class session event. Documentation includes an outline of the day’s topics, a record of how the class session went, and suggestions for future improvement.&#34;&gt;
+&lt;img data-src=&#34;/img/calendar_details.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
   
@@ -2108,8 +2108,8 @@ physical reminder to keep on grading.&lt;/p&gt;
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;tenure/img/grading_progress.png&#34; data-caption=&#34;Figure 3: My current approach to tracking grading progress. All assignments that need grading are listed under their perspective class and items that are graded on completion are marked with a *. The section on the right-hand-side is used to track today’s progress (and includes the illusive Caught Up check box … I don’t want to talk about that!)&#34;&gt;
-&lt;img data-src=&#34;tenure/img/grading_progress.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/grading_progress.png&#34; data-caption=&#34;Figure 3: My current approach to tracking grading progress. All assignments that need grading are listed under their perspective class and items that are graded on completion are marked with a *. The section on the right-hand-side is used to track today’s progress (and includes the illusive Caught Up check box … I don’t want to talk about that!)&#34;&gt;
+&lt;img data-src=&#34;/img/grading_progress.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
   
@@ -2138,9 +2138,9 @@ well this approach works during a regular year.&lt;/p&gt;
     
     <item>
       <title>Assisting in the Scholarly Growth of Students</title>
-      <link>tenure/criterion4/growth/</link>
+      <link>/criterion4/growth/</link>
       <pubDate>Fri, 15 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>tenure/criterion4/growth/</guid>
+      <guid>/criterion4/growth/</guid>
       <description>&lt;p&gt;One way to promote the scholarly growth of students is through
 out-of-the-classroom activities that accentuate their in-class learning.
 Next, I will highlight two such activities: my work advising students participating
@@ -2163,8 +2163,8 @@ in Computer Science (WiCS) student organization.&lt;/p&gt;
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;tenure/img/MinneMUDAC16.png&#34; data-caption=&#34;Figure 1. Winona State students presented their finds at MinneMUDAC 2016, with one team winning the Serendipitous Discovery award.&#34;&gt;
-&lt;img data-src=&#34;tenure/img/MinneMUDAC16.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/MinneMUDAC16.png&#34; data-caption=&#34;Figure 1. Winona State students presented their finds at MinneMUDAC 2016, with one team winning the Serendipitous Discovery award.&#34;&gt;
+&lt;img data-src=&#34;/img/MinneMUDAC16.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
   
@@ -2197,8 +2197,8 @@ have learned while working on a real-world problem with a team of peers.&lt;/p&g
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;tenure/img/MinneMUDAC17.png&#34; data-caption=&#34;Figure 2. Five Winona State teams participated in MinneMUDAC 2017, winning the First Place Overall and Acumen awards.  Two other teams received an honorable mention.&#34;&gt;
-&lt;img data-src=&#34;tenure/img/MinneMUDAC17.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/MinneMUDAC17.png&#34; data-caption=&#34;Figure 2. Five Winona State teams participated in MinneMUDAC 2017, winning the First Place Overall and Acumen awards.  Two other teams received an honorable mention.&#34;&gt;
+&lt;img data-src=&#34;/img/MinneMUDAC17.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
   
@@ -2233,8 +2233,8 @@ for effectively presenting the student&#39;s findings.&lt;/p&gt;
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;tenure/img/MUDAC18.png&#34; data-caption=&#34;Figure 3. Winona State teams participated in MUDAC 2018, a competition organized and administrated by WSU data science faculty, with one team  First Place Overall.&#34;&gt;
-&lt;img data-src=&#34;tenure/img/MUDAC18.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/MUDAC18.png&#34; data-caption=&#34;Figure 3. Winona State teams participated in MUDAC 2018, a competition organized and administrated by WSU data science faculty, with one team  First Place Overall.&#34;&gt;
+&lt;img data-src=&#34;/img/MUDAC18.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
   
@@ -2283,8 +2283,8 @@ scholarly growth of students from neighboring schools.&lt;/p&gt;
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;tenure/img/WiCS_workshop.png&#34; data-caption=&#34;Figure 1. I presented a workshop, organized by the Women in Computer Science student organization, on web scraping with Python.&#34;&gt;
-&lt;img data-src=&#34;tenure/img/WiCS_workshop.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/WiCS_workshop.png&#34; data-caption=&#34;Figure 1. I presented a workshop, organized by the Women in Computer Science student organization, on web scraping with Python.&#34;&gt;
+&lt;img data-src=&#34;/img/WiCS_workshop.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
   
@@ -2308,9 +2308,9 @@ suggest that the workshop was a success.&lt;/p&gt;
     
     <item>
       <title>Service to the Statistics and Data Science Education Communities</title>
-      <link>tenure/criterion5/community/</link>
+      <link>/criterion5/community/</link>
       <pubDate>Fri, 15 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>tenure/criterion5/community/</guid>
+      <guid>/criterion5/community/</guid>
       <description>&lt;p&gt;First, I would like to highlight three contributions to the mathematics,
 statistics, and data science education community.&lt;/p&gt;
 &lt;h3 id=&#34;uscots-2021-planning-committee&#34;&gt;USCOTS 2021 Planning Committee&lt;/h3&gt;
@@ -2330,8 +2330,8 @@ statistics, and data science education community.&lt;/p&gt;
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;tenure/img/uscots.png&#34; data-caption=&#34;Figure 1: I am on the planning committee for USCOTS 2021, organizing and evaluating the workshop proposals.&#34;&gt;
-&lt;img data-src=&#34;tenure/img/uscots.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/uscots.png&#34; data-caption=&#34;Figure 1: I am on the planning committee for USCOTS 2021, organizing and evaluating the workshop proposals.&#34;&gt;
+&lt;img data-src=&#34;/img/uscots.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
   
@@ -2343,7 +2343,7 @@ statistics, and data science education community.&lt;/p&gt;
 
 &lt;/figure&gt;
 
-&lt;p&gt;As discussed in a &lt;a href=&#34;tenure/criterion2/workshops/&#34;&gt;section on criterion 2&lt;/a&gt;, I have conducted several workshops on
+&lt;p&gt;As discussed in a &lt;a href=&#34;/criterion2/workshops/&#34;&gt;section on criterion 2&lt;/a&gt;, I have conducted several workshops on
 teaching data science, two of which were conducted at the United States
 Conference on Teaching Statistics (USCOTS). This year, likely due to these
 workshops, I was asked to serve on the planning committee for USCOTS
@@ -2368,8 +2368,8 @@ on my career.&lt;/p&gt;
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;tenure/img/invited.png&#34; data-caption=&#34;Figure 1: I organized and chaired an invited session for SDSS 2019 that brought in experts to teach the audience about data visualizations in Python.&#34;&gt;
-&lt;img data-src=&#34;tenure/img/invited.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/invited.png&#34; data-caption=&#34;Figure 1: I organized and chaired an invited session for SDSS 2019 that brought in experts to teach the audience about data visualizations in Python.&#34;&gt;
+&lt;img data-src=&#34;/img/invited.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
   
@@ -2410,8 +2410,8 @@ Altair.&lt;/p&gt;
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;tenure/img/project_next.png&#34; data-caption=&#34;Figure 2: Chris Malone and I developed and taught a Project NExT short course on teaching data science.&#34;&gt;
-&lt;img data-src=&#34;tenure/img/project_next.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/project_next.png&#34; data-caption=&#34;Figure 2: Chris Malone and I developed and taught a Project NExT short course on teaching data science.&#34;&gt;
+&lt;img data-src=&#34;/img/project_next.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
   
@@ -2441,9 +2441,9 @@ introductory data science course will be presented.&lt;/p&gt;
     
     <item>
       <title>Service to Winona State</title>
-      <link>tenure/criterion5/university/</link>
+      <link>/criterion5/university/</link>
       <pubDate>Fri, 15 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>tenure/criterion5/university/</guid>
+      <guid>/criterion5/university/</guid>
       <description>&lt;p&gt;In the area of service to the University, I have served on several
 departmental and university faculty committees, most recently taking on the
 role of co-chair of CPPS. In this section, I will highlight three specific
@@ -2473,8 +2473,8 @@ and programs.&lt;/p&gt;
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;tenure/img/kaggle.png&#34; data-caption=&#34;Figure 1: In 2017 and 2018, I organized the data analytics portion of the MUDAC competition, where Kaggle was used validate the models and to track the leaderboard in real-time.&#34;&gt;
-&lt;img data-src=&#34;tenure/img/kaggle.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/kaggle.png&#34; data-caption=&#34;Figure 1: In 2017 and 2018, I organized the data analytics portion of the MUDAC competition, where Kaggle was used validate the models and to track the leaderboard in real-time.&#34;&gt;
+&lt;img data-src=&#34;/img/kaggle.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
   
@@ -2541,10 +2541,10 @@ is a list of other activities in the area of service.&lt;/p&gt;
     
     <item>
       <title>Structured Study to Improve Courses and Tools</title>
-      <link>tenure/criterion3/other_structured_study/</link>
+      <link>/criterion3/other_structured_study/</link>
       <pubDate>Fri, 15 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>tenure/criterion3/other_structured_study/</guid>
-      <description>&lt;p&gt;In addition to the &lt;a href=&#34;tenure/criterion3/continuing_education/&#34;&gt;formal online coursework&lt;/a&gt; discussed in a different section, I will also
+      <guid>/criterion3/other_structured_study/</guid>
+      <description>&lt;p&gt;In addition to the &lt;a href=&#34;/criterion3/continuing_education/&#34;&gt;formal online coursework&lt;/a&gt; discussed in a different section, I will also
 provide evidence of self-guided structured study in two other areas: learning
 to build client-side web applications using the Elm programming language and
 a program of study on the management of unstructured data with Python.&lt;/p&gt;
@@ -2566,8 +2566,8 @@ a program of study on the management of unstructured data with Python.&lt;/p&gt;
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;tenure/img/elm.png&#34; data-caption=&#34;Figure 1. To facilitate the creation educational web application like the binomial simulation app, I completed a course of self-study to learn the Elm programming language.&#34;&gt;
-&lt;img data-src=&#34;tenure/img/elm.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/elm.png&#34; data-caption=&#34;Figure 1. To facilitate the creation educational web application like the binomial simulation app, I completed a course of self-study to learn the Elm programming language.&#34;&gt;
+&lt;img data-src=&#34;/img/elm.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
   
@@ -2579,7 +2579,7 @@ a program of study on the management of unstructured data with Python.&lt;/p&gt;
 
 &lt;/figure&gt;
 
-&lt;p&gt;As detailed under &lt;a href=&#34;tenure/criterion2/software/&#34;&gt;the section on criterion 2&lt;/a&gt;, I have spent a considerable amount of time and
+&lt;p&gt;As detailed under &lt;a href=&#34;/criterion2/software/&#34;&gt;the section on criterion 2&lt;/a&gt;, I have spent a considerable amount of time and
 effort building educational web applications used on the statistics courses
 at Winona State. Before I could create these applications, I need to learn
 how to write a client-side application similar to those provided by
@@ -2595,7 +2595,7 @@ configuration. Elm fits all of these requirements.&lt;/p&gt;
 completing the &lt;a href=&#34;https://guide.elm-lang.org&#34;&gt;standard Elm tutorials&lt;/a&gt;, but the
 best way to learn a programming language is to build something. I spent a
 significant part of the 2018 summer break creating the exact binomial
-application (discussed in more detail in the section on &lt;a href=&#34;tenure/criterion2/software/&#34;&gt;criterion 2&lt;/a&gt;)). It is a testament to the simplicity of the
+application (discussed in more detail in the section on &lt;a href=&#34;/criterion2/software/&#34;&gt;criterion 2&lt;/a&gt;)). It is a testament to the simplicity of the
 Elm language that I could go from knowing nothing to build a complete
 application in one summer. Since then, I have continued to gain mastery in
 Elm by, for example, learning to add animations to the binomial simulation
@@ -2635,9 +2635,9 @@ feature extraction for audio classification.&lt;/p&gt;
     
     <item>
       <title>Advising</title>
-      <link>tenure/criterion4/advising/</link>
+      <link>/criterion4/advising/</link>
       <pubDate>Fri, 15 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>tenure/criterion4/advising/</guid>
+      <guid>/criterion4/advising/</guid>
       <description>&lt;p&gt;The final set of activities promoting student growth and development I
 will highlight are all related to advising. This is not limited to
 academic advising, but also includes serving as an adviser for capstone
@@ -2696,9 +2696,9 @@ Qualtrics surveys used for self and supervisor performance evaluations.&lt;/p&gt
     
     <item>
       <title>Attending Professional Meetings and Conferences</title>
-      <link>tenure/criterion3/meetings_and_conferences/</link>
+      <link>/criterion3/meetings_and_conferences/</link>
       <pubDate>Fri, 15 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>tenure/criterion3/meetings_and_conferences/</guid>
+      <guid>/criterion3/meetings_and_conferences/</guid>
       <description>&lt;p&gt;In addition to the formal online coursework and self-guided study highlighted
 in the previous section, I also attended five national conferences
 dedicated to the practice and/or teaching of data science. Here is a list of conferences that I attended over the last 4 years.&lt;/p&gt;
@@ -2714,9 +2714,9 @@ dedicated to the practice and/or teaching of data science. Here is a list of con
     
     <item>
       <title>Workshop Development and Delivery</title>
-      <link>tenure/criterion2/workshops/</link>
+      <link>/criterion2/workshops/</link>
       <pubDate>Fri, 15 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>tenure/criterion2/workshops/</guid>
+      <guid>/criterion2/workshops/</guid>
       <description>&lt;p&gt;Over the last four years, I have created and executed four pre-conference
 workshops in collaboration with my WSU colleagues. These activities fall under
 the category of growth of peers and other scholars (See Appendix G of the
@@ -2752,8 +2752,8 @@ contribution to the scholarly growth of peers and other scholars.&lt;/p&gt;
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;tenure/img/uscots19_core_banner.png&#34; data-caption=&#34;Figure 1. The entire WSU data science faculty presented our core data science curriculum in a 2-day pre-conference workshop at USCOTS 2019. On top of being in charge of the original proposal and the subsequent organization and division of labor, I also contributed to half of the design and implementation of sessions .&#34;&gt;
-&lt;img data-src=&#34;tenure/img/uscots19_core_banner.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/uscots19_core_banner.png&#34; data-caption=&#34;Figure 1. The entire WSU data science faculty presented our core data science curriculum in a 2-day pre-conference workshop at USCOTS 2019. On top of being in charge of the original proposal and the subsequent organization and division of labor, I also contributed to half of the design and implementation of sessions .&#34;&gt;
+&lt;img data-src=&#34;/img/uscots19_core_banner.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
   
@@ -2795,8 +2795,8 @@ should include courses on each.&lt;/p&gt;
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;tenure/img/uscots19_core_block_1_and_3.png&#34; data-caption=&#34;Figure 2. The two blocks that I help create and present scored high in terms of overall quality, presentation, and the quality of the break-out activities.&#34;&gt;
-&lt;img data-src=&#34;tenure/img/uscots19_core_block_1_and_3.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/uscots19_core_block_1_and_3.png&#34; data-caption=&#34;Figure 2. The two blocks that I help create and present scored high in terms of overall quality, presentation, and the quality of the break-out activities.&#34;&gt;
+&lt;img data-src=&#34;/img/uscots19_core_block_1_and_3.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
   
@@ -2850,8 +2850,8 @@ across.&lt;/p&gt;
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;tenure/img/uscots19_core_overall.png&#34; data-caption=&#34;Figure 3. Participants were very satisfied with the workshop overall.&#34;&gt;
-&lt;img data-src=&#34;tenure/img/uscots19_core_overall.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/uscots19_core_overall.png&#34; data-caption=&#34;Figure 3. Participants were very satisfied with the workshop overall.&#34;&gt;
+&lt;img data-src=&#34;/img/uscots19_core_overall.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
   
@@ -2890,8 +2890,8 @@ success.&lt;/p&gt;
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;tenure/img/uscots17_banner.png&#34; data-caption=&#34;Figure 4. Dr. Bergen and I ran a USCOTS workshop that took participants through the entire data cycle.&#34;&gt;
-&lt;img data-src=&#34;tenure/img/uscots17_banner.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/uscots17_banner.png&#34; data-caption=&#34;Figure 4. Dr. Bergen and I ran a USCOTS workshop that took participants through the entire data cycle.&#34;&gt;
+&lt;img data-src=&#34;/img/uscots17_banner.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
   
@@ -2930,8 +2930,8 @@ using Tableau.&lt;/p&gt;
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;tenure/img/uscots17.png&#34; data-caption=&#34;Figure 5. Almost all participants found my portion of the workshop useful.&#34;&gt;
-&lt;img data-src=&#34;tenure/img/uscots17.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/uscots17.png&#34; data-caption=&#34;Figure 5. Almost all participants found my portion of the workshop useful.&#34;&gt;
+&lt;img data-src=&#34;/img/uscots17.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
   
@@ -3021,8 +3021,8 @@ in subsequent workshops by shifting the entire focus to data visualization.&lt;/
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;tenure/img/icots18_banner.png&#34; data-caption=&#34;Figure 6. Dr. Bergen and I ran an ICOTS workshop focusing on data visualization theory and pedagogy.&#34;&gt;
-&lt;img data-src=&#34;tenure/img/icots18_banner.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/icots18_banner.png&#34; data-caption=&#34;Figure 6. Dr. Bergen and I ran an ICOTS workshop focusing on data visualization theory and pedagogy.&#34;&gt;
+&lt;img data-src=&#34;/img/icots18_banner.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
   
@@ -3060,8 +3060,8 @@ Survey&lt;/a&gt;.&lt;/p&gt;
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;tenure/img/icots18_block2.png&#34; data-caption=&#34;Figure 7. I developed and ran the second block of the workshop, which compare introduced visualization in Altair (Python) in hopes of reinforcing the concepts of the grammar of graphics introduced in the first block.  This portion of the workshop was not as well-received as I would like, but I was improved the following year (see Figure 9)&#34;&gt;
-&lt;img data-src=&#34;tenure/img/icots18_block2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/icots18_block2.png&#34; data-caption=&#34;Figure 7. I developed and ran the second block of the workshop, which compare introduced visualization in Altair (Python) in hopes of reinforcing the concepts of the grammar of graphics introduced in the first block.  This portion of the workshop was not as well-received as I would like, but I was improved the following year (see Figure 9)&#34;&gt;
+&lt;img data-src=&#34;/img/icots18_block2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
   
@@ -3100,8 +3100,8 @@ resulting in spending too much time &amp;ldquo;in the weeds&amp;rdquo; and not e
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;tenure/img/sdss19_banner.png&#34; data-caption=&#34;Figure 8. Dr. Bergen and I were invited to run a workshop on data visualization at SDSS 2019.&#34;&gt;
-&lt;img data-src=&#34;tenure/img/sdss19_banner.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/sdss19_banner.png&#34; data-caption=&#34;Figure 8. Dr. Bergen and I were invited to run a workshop on data visualization at SDSS 2019.&#34;&gt;
+&lt;img data-src=&#34;/img/sdss19_banner.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
   
@@ -3134,8 +3134,8 @@ number of improvements.&lt;/p&gt;
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;tenure/img/sdss19_block2.png&#34; data-caption=&#34;Figure 9. Again, I in charge of the second block of the workshop, but this time we compared the code for visualization in Altair (Python) and ggplot (R) to reinforce the concepts of the grammar of graphics introduced in the first block.&#34;&gt;
-&lt;img data-src=&#34;tenure/img/sdss19_block2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/sdss19_block2.png&#34; data-caption=&#34;Figure 9. Again, I in charge of the second block of the workshop, but this time we compared the code for visualization in Altair (Python) and ggplot (R) to reinforce the concepts of the grammar of graphics introduced in the first block.&#34;&gt;
+&lt;img data-src=&#34;/img/sdss19_block2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
   

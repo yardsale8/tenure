@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Service to the university and community | Tenure and Promotion Portfolio</title>
-    <link>tenure/criterion5/</link>
-      <atom:link href="tenure/criterion5/index.xml" rel="self" type="application/rss+xml" />
+    <link>/criterion5/</link>
+      <atom:link href="/criterion5/index.xml" rel="self" type="application/rss+xml" />
     <description>Service to the university and community</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 15 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/tenure/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Service to the university and community</title>
-      <link>tenure/criterion5/</link>
+      <link>/criterion5/</link>
     </image>
     
     <item>
       <title>Service to the Statistics and Data Science Education Communities</title>
-      <link>tenure/criterion5/community/</link>
+      <link>/criterion5/community/</link>
       <pubDate>Fri, 15 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>tenure/criterion5/community/</guid>
+      <guid>/criterion5/community/</guid>
       <description>&lt;p&gt;First, I would like to highlight three contributions to the mathematics,
 statistics, and data science education community.&lt;/p&gt;
 &lt;h3 id=&#34;uscots-2021-planning-committee&#34;&gt;USCOTS 2021 Planning Committee&lt;/h3&gt;
@@ -36,8 +36,8 @@ statistics, and data science education community.&lt;/p&gt;
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;tenure/img/uscots.png&#34; data-caption=&#34;Figure 1: I am on the planning committee for USCOTS 2021, organizing and evaluating the workshop proposals.&#34;&gt;
-&lt;img data-src=&#34;tenure/img/uscots.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/uscots.png&#34; data-caption=&#34;Figure 1: I am on the planning committee for USCOTS 2021, organizing and evaluating the workshop proposals.&#34;&gt;
+&lt;img data-src=&#34;/img/uscots.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
   
@@ -49,7 +49,7 @@ statistics, and data science education community.&lt;/p&gt;
 
 &lt;/figure&gt;
 
-&lt;p&gt;As discussed in a &lt;a href=&#34;tenure/criterion2/workshops/&#34;&gt;section on criterion 2&lt;/a&gt;, I have conducted several workshops on
+&lt;p&gt;As discussed in a &lt;a href=&#34;/criterion2/workshops/&#34;&gt;section on criterion 2&lt;/a&gt;, I have conducted several workshops on
 teaching data science, two of which were conducted at the United States
 Conference on Teaching Statistics (USCOTS). This year, likely due to these
 workshops, I was asked to serve on the planning committee for USCOTS
@@ -74,8 +74,8 @@ on my career.&lt;/p&gt;
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;tenure/img/invited.png&#34; data-caption=&#34;Figure 1: I organized and chaired an invited session for SDSS 2019 that brought in experts to teach the audience about data visualizations in Python.&#34;&gt;
-&lt;img data-src=&#34;tenure/img/invited.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/invited.png&#34; data-caption=&#34;Figure 1: I organized and chaired an invited session for SDSS 2019 that brought in experts to teach the audience about data visualizations in Python.&#34;&gt;
+&lt;img data-src=&#34;/img/invited.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
   
@@ -116,8 +116,8 @@ Altair.&lt;/p&gt;
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;tenure/img/project_next.png&#34; data-caption=&#34;Figure 2: Chris Malone and I developed and taught a Project NExT short course on teaching data science.&#34;&gt;
-&lt;img data-src=&#34;tenure/img/project_next.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/project_next.png&#34; data-caption=&#34;Figure 2: Chris Malone and I developed and taught a Project NExT short course on teaching data science.&#34;&gt;
+&lt;img data-src=&#34;/img/project_next.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
   
@@ -147,9 +147,9 @@ introductory data science course will be presented.&lt;/p&gt;
     
     <item>
       <title>Service to Winona State</title>
-      <link>tenure/criterion5/university/</link>
+      <link>/criterion5/university/</link>
       <pubDate>Fri, 15 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>tenure/criterion5/university/</guid>
+      <guid>/criterion5/university/</guid>
       <description>&lt;p&gt;In the area of service to the University, I have served on several
 departmental and university faculty committees, most recently taking on the
 role of co-chair of CPPS. In this section, I will highlight three specific
@@ -179,8 +179,8 @@ and programs.&lt;/p&gt;
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;tenure/img/kaggle.png&#34; data-caption=&#34;Figure 1: In 2017 and 2018, I organized the data analytics portion of the MUDAC competition, where Kaggle was used validate the models and to track the leaderboard in real-time.&#34;&gt;
-&lt;img data-src=&#34;tenure/img/kaggle.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/kaggle.png&#34; data-caption=&#34;Figure 1: In 2017 and 2018, I organized the data analytics portion of the MUDAC competition, where Kaggle was used validate the models and to track the leaderboard in real-time.&#34;&gt;
+&lt;img data-src=&#34;/img/kaggle.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
   
