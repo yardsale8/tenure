@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tenure and Promotion Portfolio</title>
-    <link>yardsale8.github.io/tenure/authors/admin/</link>
-      <atom:link href="yardsale8.github.io/tenure/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    <link>tenure/authors/admin/</link>
+      <atom:link href="tenure/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>Tenure and Promotion Portfolio</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
-      <url>/yardsale8.github.io/tenure/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/tenure/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Tenure and Promotion Portfolio</title>
-      <link>yardsale8.github.io/tenure/authors/admin/</link>
+      <link>tenure/authors/admin/</link>
     </image>
     
   </channel>
